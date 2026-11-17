@@ -1,0 +1,504 @@
+﻿customer_id,customer_name,gender,age,city,region,signup_date,customer_segment
+C0001,Customer 0001,Female,65.0,Al Kharj,Central,2024-09-07,New
+C0002,Customer 0002,Prefer not to say,65.0,Majmaah,Central,2024-03-30,Regular
+C0003,Customer 0003,Female,23.0,Riyadh,Central,2024-08-26,Regular
+C0004,Customer 0004,Prefer not to say,30.0,Majmaah,Central,2025-07-12,Regular
+C0005,Customer 0005,Prefer not to say,35.0,Abha,Southern,2024-06-12,Regular
+C0006,Customer 0006,Male,27.0,Dammam,Eastern,2024-12-10,New
+C0007,Customer 0007,Female,40.0,Jazan,Southern,2025-09-10,New
+C0008,Customer 0008,Prefer not to say,47.0,Majmaah,Central,2024-05-07,VIP
+C0009,Customer 0009,Female,53.0,Jazan,Southern,2025-10-05,Regular
+C0010,Customer 0010,Prefer not to say,30.0,Jubail,Eastern,2024-03-12,New
+C0011,Customer 0011,Male,23.0,Taif,Western,2024-04-13,Regular
+C0012,Customer 0012,Prefer not to say,41.0,Abha,Southern,2025-01-14,Regular
+C0013,Customer 0013,Prefer not to say,61.0,Jubail,Eastern,2024-03-14,Regular
+C0014,Customer 0014,Prefer not to say,64.0,Taif,Western,2024-06-16,Regular
+C0015,Customer 0015,Prefer not to say,62.0,Jubail,Eastern,2024-08-12,Regular
+C0016,Customer 0016,Female,20.0,Al Kharj,Central,2025-02-14,New
+C0017,Customer 0017,Prefer not to say,63.0,Makkah,Western,2024-08-05,Regular
+C0018,Customer 0018,Prefer not to say,47.0,Abha,Southern,2024-09-28,New
+C0019,Customer 0019,Prefer not to say,34.0,Arar,Northern,2025-08-21,Regular
+C0020,Customer 0020,Male,41.0,Tabuk,Northern,2024-05-21,Regular
+C0021,Customer 0021,Female,25.0,Riyadh,Central,2025-10-04,New
+C0022,Customer 0022,Prefer not to say,22.0,Jazan,Southern,2025-01-25,Regular
+C0023,Customer 0023,Prefer not to say,34.0,Najran,Southern,2024-01-12,Regular
+C0024,Customer 0024,Prefer not to say,52.0,Al Kharj,Central,2024-12-14,New
+C0025,Customer 0025,Female,47.0,Abha,Southern,2024-09-26,VIP
+C0026,Customer 0026,Prefer not to say,24.0,Makkah,Western,2025-06-03,Regular
+C0027,Customer 0027,Male,28.0,Jeddah,Western,2025-09-05,New
+C0028,Customer 0028,Female,41.0,Al Kharj,Central,2024-09-02,New
+C0029,Customer 0029,Female,23.0,Arar,Northern,2025-05-12,Regular
+C0030,Customer 0030,Female,26.0,Arar,Northern,2025-05-01,VIP
+C0031,Customer 0031,Male,51.0,Madinah,Western,2024-08-04,VIP
+C0032,Customer 0032,Prefer not to say,37.0,Madinah,Western,2025-01-17,Regular
+C0033,Customer 0033,Male,25.0,Tabuk,Northern,2024-08-18,New
+C0034,Customer 0034,Prefer not to say,53.0,Riyadh,Central,2025-08-25,New
+C0035,Customer 0035,Prefer not to say,58.0,Riyadh,Central,2024-08-22,New
+C0036,Customer 0036,Male,22.0,Majmaah,Central,2024-08-31,New
+C0037,Customer 0037,Female,52.0,Abha,Southern,2025-08-07,Regular
+C0038,Customer 0038,Male,44.0,Taif,Western,2024-04-06,New
+C0039,Customer 0039,Male,45.0,Jazan,Southern,2025-04-23,VIP
+C0040,Customer 0040,Prefer not to say,59.0,Majmaah,Central,2024-04-10,New
+C0041,Customer 0041,Female,33.0,Dammam,Eastern,2024-07-13,Regular
+C0042,Customer 0042,Male,29.0,Makkah,Western,2025-04-18,New
+C0043,Customer 0043,Male,53.0,Riyadh,Central,2024-02-21,Regular
+C0044,Customer 0044,Female,23.0,Tabuk,Northern,2024-06-19,Regular
+C0045,Customer 0045,Female,43.0,Abha,Southern,2024-06-17,Regular
+C0046,Customer 0046,Male,47.0,Jazan,Southern,2025-03-09,Regular
+C0047,Customer 0047,Prefer not to say,63.0,Hail,Northern,2024-06-07,New
+C0048,Customer 0048,Female,55.0,Jeddah,Western,2024-11-17,New
+C0049,Customer 0049,Male,50.0,Arar,Northern,2024-06-10,New
+C0050,Customer 0050,Female,29.0,Tabuk,Northern,2025-09-01,New
+C0051,Customer 0051,Male,25.0,Taif,Western,2025-08-15,Regular
+C0052,Customer 0052,Female,44.0,Arar,Northern,2025-08-20,Regular
+C0053,Customer 0053,Male,31.0,Jubail,Eastern,2024-11-17,New
+C0054,Customer 0054,Female,60.0,Najran,Southern,2024-11-03,Regular
+C0055,Customer 0055,Female,47.0,Majmaah,Central,2025-07-30,VIP
+C0056,Customer 0056,Prefer not to say,31.0,Majmaah,Central,2024-09-28,New
+C0057,Customer 0057,Female,33.0,Khobar,Eastern,2024-10-18,New
+C0058,Customer 0058,Prefer not to say,37.0,Arar,Northern,2025-06-25,New
+C0059,Customer 0059,Male,60.0,Tabuk,Northern,2024-05-17,New
+C0060,Customer 0060,Prefer not to say,53.0,Riyadh,Central,2024-10-05,New
+C0061,Customer 0061,Prefer not to say,39.0,Taif,Western,2025-10-11,VIP
+C0062,Customer 0062,Male,34.0,Tabuk,Northern,2024-04-04,Regular
+C0063,Customer 0063,Female,18.0,Khobar,Eastern,2024-05-13,Regular
+C0064,Customer 0064,Female,65.0,Khobar,Eastern,2025-07-18,Regular
+C0065,Customer 0065,Female,25.0,Tabuk,Northern,2024-06-01,Regular
+C0066,Customer 0066,Prefer not to say,53.0,Dammam,Eastern,2025-03-16,New
+C0067,Customer 0067,Male,,Khobar,Eastern,2024-08-03,Regular
+C0068,Customer 0068,Male,53.0,Al Kharj,Central,2025-09-27,Regular
+C0069,Customer 0069,Female,29.0,Madinah,Western,2024-01-26,New
+C0070,Customer 0070,Male,60.0,Jubail,Eastern,2024-09-11,New
+C0071,Customer 0071,Male,20.0,Al Kharj,Central,2024-08-15,New
+C0072,Customer 0072,Male,37.0,Abha,Southern,2024-08-16,New
+C0073,Customer 0073,Male,39.0,Makkah,Western,2024-03-12,VIP
+C0074,Customer 0074,Male,59.0,,Eastern,2025-02-13,Regular
+C0075,Customer 0075,Male,19.0,Tabuk,Northern,2024-09-24,New
+C0076,Customer 0076,Female,24.0,Jubail,Eastern,2025-03-20,New
+C0077,Customer 0077,Male,56.0,Jubail,Eastern,2024-04-28,Regular
+C0078,Customer 0078,Female,34.0,Tabuk,Northern,2025-03-22,New
+C0079,Customer 0079,Prefer not to say,64.0,Arar,Northern,2024-07-20,Regular
+C0080,Customer 0080,Prefer not to say,39.0,Majmaah,Central,2024-11-17,Regular
+C0081,Customer 0081,Prefer not to say,37.0,Majmaah,Central,2024-11-12,Regular
+C0082,Customer 0082,Male,62.0,Khobar,Eastern,2025-07-21,New
+C0083,Customer 0083,Prefer not to say,42.0,Najran,Southern,2024-06-27,Regular
+C0084,Customer 0084,Male,53.0,Dammam,Eastern,2024-11-07,New
+C0085,Customer 0085,Prefer not to say,56.0,Najran,Southern,2024-11-25,Regular
+C0086,Customer 0086,Prefer not to say,31.0,Najran,Southern,2025-04-29,Regular
+C0087,Customer 0087,Prefer not to say,23.0,Makkah,Western,2025-06-11,Regular
+C0088,Customer 0088,Male,23.0,Tabuk,Northern,2024-11-13,New
+C0089,Customer 0089,Female,19.0,Jeddah,Western,2024-09-07,VIP
+C0090,Customer 0090,Female,47.0,Hail,Northern,2025-10-06,Regular
+C0091,Customer 0091,Male,43.0,Abha,Southern,2024-05-31,Regular
+C0092,Customer 0092,Female,45.0,Riyadh,Central,2024-06-29,Regular
+C0093,Customer 0093,Male,21.0,Arar,Northern,2024-09-12,VIP
+C0094,Customer 0094,Male,26.0,Al Kharj,Central,2025-06-27,VIP
+C0095,Customer 0095,Male,46.0,Arar,Northern,2025-05-31,Regular
+C0096,Customer 0096,Male,28.0,Arar,Northern,2025-05-01,Regular
+C0097,Customer 0097,Prefer not to say,35.0,Madinah,Western,2025-10-03,New
+C0098,Customer 0098,Female,63.0,Jazan,Southern,2024-08-28,New
+C0099,Customer 0099,Prefer not to say,23.0,Dammam,Eastern,2024-06-03,New
+C0100,Customer 0100,Prefer not to say,31.0,Jeddah,Western,2025-02-28,Regular
+C0101,Customer 0101,Male,44.0,Tabuk,Northern,2024-07-30,Regular
+C0102,Customer 0102,Prefer not to say,62.0,Abha,Southern,2025-08-12,Regular
+C0103,Customer 0103,Male,37.0,Al Kharj,Central,2025-03-05,Regular
+C0104,Customer 0104,Prefer not to say,32.0,Hail,Northern,2024-08-12,New
+C0105,Customer 0105,Female,42.0,,Southern,2025-02-18,Regular
+C0106,Customer 0106,Female,57.0,Najran,Southern,2024-01-28,VIP
+C0107,Customer 0107,Prefer not to say,60.0,Tabuk,Northern,2024-03-26,Regular
+C0108,Customer 0108,Male,29.0,Jeddah,Western,2024-09-23,Regular
+C0109,Customer 0109,Male,38.0,Makkah,Western,2025-01-23,New
+C0110,Customer 0110,Male,23.0,Jazan,Southern,2024-01-20,Regular
+C0111,Customer 0111,Male,32.0,Majmaah,Central,2024-03-11,Regular
+C0112,Customer 0112,Female,33.0,Riyadh,Central,2024-01-21,Regular
+C0113,Customer 0113,Female,48.0,Jeddah,Western,2025-07-31,VIP
+C0114,Customer 0114,Prefer not to say,34.0,Jazan,Southern,2024-06-20,Regular
+C0115,Customer 0115,Female,37.0,Riyadh,Central,2025-08-15,New
+C0116,Customer 0116,Prefer not to say,61.0,Khobar,Eastern,2025-02-10,VIP
+C0117,Customer 0117,Female,55.0,Taif,Western,2024-04-14,Regular
+C0118,Customer 0118,Prefer not to say,56.0,Dammam,Eastern,2025-08-02,Regular
+C0119,Customer 0119,Prefer not to say,45.0,Jubail,Eastern,2025-01-14,New
+C0120,Customer 0120,Female,44.0,Khobar,Eastern,2024-04-18,Regular
+C0121,Customer 0121,Prefer not to say,47.0,Jubail,Eastern,2024-06-05,Regular
+C0122,Customer 0122,Prefer not to say,35.0,Arar,Northern,2025-07-05,Regular
+C0123,Customer 0123,Male,64.0,Najran,Southern,2024-10-01,New
+C0124,Customer 0124,Female,,Madinah,Western,2024-09-06,Regular
+C0125,Customer 0125,Prefer not to say,60.0,,Northern,2024-12-10,New
+C0126,Customer 0126,Female,49.0,Dammam,Eastern,2024-12-29,Regular
+C0127,Customer 0127,Male,56.0,Jubail,Eastern,2024-10-09,Regular
+C0128,Customer 0128,Female,23.0,Tabuk,Northern,2025-02-20,Regular
+C0129,Customer 0129,Prefer not to say,48.0,Madinah,Western,2025-04-03,Regular
+C0130,Customer 0130,Male,32.0,Al Kharj,Central,2024-09-06,New
+C0131,Customer 0131,Male,48.0,Arar,Northern,2025-06-27,New
+C0132,Customer 0132,Male,40.0,Arar,Northern,2025-04-09,New
+C0133,Customer 0133,Female,25.0,Jubail,Eastern,2024-07-16,New
+C0134,Customer 0134,Prefer not to say,29.0,Tabuk,Northern,2024-08-09,Regular
+C0135,Customer 0135,Prefer not to say,55.0,Jubail,Eastern,2025-09-03,New
+C0136,Customer 0136,Female,36.0,Riyadh,Central,2025-01-04,New
+C0137,Customer 0137,Prefer not to say,52.0,Riyadh,Central,2024-10-07,New
+C0138,Customer 0138,Prefer not to say,36.0,Majmaah,Central,2024-05-09,Regular
+C0139,Customer 0139,Female,18.0,Najran,Southern,2024-10-18,Regular
+C0140,Customer 0140,Male,29.0,Abha,Southern,2024-09-15,VIP
+C0141,Customer 0141,Female,22.0,Jazan,Southern,2025-05-18,New
+C0142,Customer 0142,Female,27.0,Majmaah,Central,2024-11-07,New
+C0143,Customer 0143,Female,53.0,Madinah,Western,2025-09-12,Regular
+C0144,Customer 0144,Female,51.0,Hail,Northern,2025-04-06,VIP
+C0145,Customer 0145,Prefer not to say,45.0,Khobar,Eastern,2025-08-05,Regular
+C0146,Customer 0146,Prefer not to say,24.0,Tabuk,Northern,2025-10-02,New
+C0147,Customer 0147,Female,33.0,Riyadh,Central,2025-07-19,New
+C0148,Customer 0148,Male,46.0,Majmaah,Central,2025-08-31,Regular
+C0149,Customer 0149,Female,36.0,Majmaah,Central,2024-10-16,Regular
+C0150,Customer 0150,Female,61.0,Abha,Southern,2024-09-27,Regular
+C0151,Customer 0151,Prefer not to say,30.0,Hail,Northern,2024-04-27,Regular
+C0152,Customer 0152,Male,27.0,Jeddah,Western,2024-03-02,New
+C0153,Customer 0153,Prefer not to say,65.0,Jubail,Eastern,2024-10-22,Regular
+C0154,Customer 0154,Prefer not to say,37.0,Najran,Southern,2025-02-16,VIP
+C0155,Customer 0155,Prefer not to say,49.0,Hail,Northern,2024-03-23,Regular
+C0156,Customer 0156,Prefer not to say,38.0,,Southern,2024-09-13,New
+C0157,Customer 0157,Prefer not to say,54.0,Jeddah,Western,2024-10-02,Regular
+C0158,Customer 0158,Male,51.0,Madinah,Western,2024-10-11,New
+C0159,Customer 0159,Male,58.0,Hail,Northern,2024-04-03,Regular
+C0160,Customer 0160,Male,38.0,Najran,Southern,2024-04-17,VIP
+C0161,Customer 0161,Male,62.0,Khobar,Eastern,2024-10-22,Regular
+C0162,Customer 0162,Prefer not to say,20.0,Jazan,Southern,2024-03-31,New
+C0163,Customer 0163,Female,43.0,Jubail,Eastern,2024-01-02,Regular
+C0164,Customer 0164,Male,44.0,Tabuk,Northern,2024-07-11,Regular
+C0165,Customer 0165,Male,58.0,Hail,Northern,2024-02-22,New
+C0166,Customer 0166,Female,36.0,Hail,Northern,2025-05-11,New
+C0167,Customer 0167,Female,63.0,Tabuk,Northern,2024-11-14,Regular
+C0168,Customer 0168,Male,23.0,Tabuk,Northern,2024-04-26,Regular
+C0169,Customer 0169,Prefer not to say,27.0,Al Kharj,Central,2024-10-25,Regular
+C0170,Customer 0170,Male,48.0,Khobar,Eastern,2024-09-06,Regular
+C0171,Customer 0171,Male,30.0,Taif,Western,2024-03-12,New
+C0172,Customer 0172,Male,50.0,Jazan,Southern,2024-01-03,New
+C0173,Customer 0173,Prefer not to say,55.0,Jubail,Eastern,2025-05-16,VIP
+C0174,Customer 0174,Prefer not to say,48.0,Jazan,Southern,2024-12-06,Regular
+C0175,Customer 0175,Male,47.0,Hail,Northern,2024-07-12,VIP
+C0176,Customer 0176,Prefer not to say,42.0,Taif,Western,2025-02-24,New
+C0177,Customer 0177,Prefer not to say,42.0,Jazan,Southern,2024-06-04,Regular
+C0178,Customer 0178,Female,50.0,Majmaah,Central,2024-12-05,VIP
+C0179,Customer 0179,Female,51.0,Jazan,Southern,2024-01-16,Regular
+C0180,Customer 0180,Prefer not to say,27.0,Abha,Southern,2025-04-25,Regular
+C0181,Customer 0181,Male,57.0,Jubail,Eastern,2025-02-11,Regular
+C0182,Customer 0182,Prefer not to say,52.0,Khobar,Eastern,2024-11-20,Regular
+C0183,Customer 0183,Prefer not to say,20.0,Najran,Southern,2024-03-11,New
+C0184,Customer 0184,Female,65.0,Dammam,Eastern,2025-03-20,VIP
+C0185,Customer 0185,Male,28.0,Majmaah,Central,2024-11-02,VIP
+C0186,Customer 0186,Male,21.0,Al Kharj,Central,2025-01-02,Regular
+C0187,Customer 0187,Female,51.0,Madinah,Western,2025-08-02,Regular
+C0188,Customer 0188,Female,29.0,Jeddah,Western,2025-09-16,VIP
+C0189,Customer 0189,Prefer not to say,33.0,Hail,Northern,2025-08-20,New
+C0190,Customer 0190,Prefer not to say,34.0,Jazan,Southern,2024-09-18,Regular
+C0191,Customer 0191,Male,61.0,Najran,Southern,2024-06-10,New
+C0192,Customer 0192,Prefer not to say,37.0,Jubail,Eastern,2025-03-10,Regular
+C0193,Customer 0193,Male,30.0,Jazan,Southern,2025-05-09,New
+C0194,Customer 0194,Prefer not to say,40.0,Najran,Southern,2024-10-29,VIP
+C0195,Customer 0195,Female,,Khobar,Eastern,2024-10-08,New
+C0196,Customer 0196,Prefer not to say,65.0,Al Kharj,Central,2024-10-20,Regular
+C0197,Customer 0197,Prefer not to say,40.0,Taif,Western,2024-07-13,Regular
+C0198,Customer 0198,Prefer not to say,24.0,Jeddah,Western,2024-11-12,Regular
+C0199,Customer 0199,Prefer not to say,41.0,Majmaah,Central,2024-05-14,New
+C0200,Customer 0200,Male,65.0,Khobar,Eastern,2024-06-28,New
+C0201,Customer 0201,Male,51.0,Arar,Northern,2024-10-06,Regular
+C0202,Customer 0202,Male,36.0,Jubail,Eastern,2024-12-12,Regular
+C0203,Customer 0203,Female,27.0,Abha,Southern,2025-02-10,VIP
+C0204,Customer 0204,Male,23.0,Hail,Northern,2024-01-15,New
+C0205,Customer 0205,Male,41.0,Majmaah,Central,2024-09-25,Regular
+C0206,Customer 0206,Female,61.0,Dammam,Eastern,2025-04-27,New
+C0207,Customer 0207,Male,57.0,Tabuk,Northern,2024-03-05,Regular
+C0208,Customer 0208,Prefer not to say,37.0,Najran,Southern,2025-02-22,New
+C0209,Customer 0209,Female,37.0,Al Kharj,Central,2024-04-28,New
+C0210,Customer 0210,Female,42.0,Hail,Northern,2025-01-14,Regular
+C0211,Customer 0211,Male,55.0,Arar,Northern,2024-06-07,VIP
+C0212,Customer 0212,Male,57.0,Al Kharj,Central,2024-10-13,New
+C0213,Customer 0213,Female,46.0,Khobar,Eastern,2024-08-29,VIP
+C0214,Customer 0214,Prefer not to say,41.0,Majmaah,Central,2025-01-02,New
+C0215,Customer 0215,Female,25.0,Khobar,Eastern,2024-04-03,Regular
+C0216,Customer 0216,Female,21.0,Hail,Northern,2024-09-06,VIP
+C0217,Customer 0217,Female,22.0,Arar,Northern,2024-07-31,Regular
+C0218,Customer 0218,Male,27.0,Jeddah,Western,2024-10-10,VIP
+C0219,Customer 0219,Female,52.0,Makkah,Western,2024-06-27,New
+C0220,Customer 0220,Female,18.0,Al Kharj,Central,2024-08-31,Regular
+C0221,Customer 0221,Female,34.0,Riyadh,Central,2024-05-09,Regular
+C0222,Customer 0222,Female,65.0,Tabuk,Northern,2025-05-02,Regular
+C0223,Customer 0223,Prefer not to say,55.0,Dammam,Eastern,2025-04-07,Regular
+C0224,Customer 0224,Female,64.0,Arar,Northern,2025-06-17,New
+C0225,Customer 0225,Female,48.0,Al Kharj,Central,2025-03-12,Regular
+C0226,Customer 0226,Prefer not to say,46.0,Abha,Southern,2024-03-23,New
+C0227,Customer 0227,Female,26.0,Makkah,Western,2025-10-01,Regular
+C0228,Customer 0228,Prefer not to say,38.0,Hail,Northern,2025-09-03,Regular
+C0229,Customer 0229,Prefer not to say,56.0,Jazan,Southern,2024-04-11,Regular
+C0230,Customer 0230,Prefer not to say,59.0,Majmaah,Central,2024-08-08,Regular
+C0231,Customer 0231,Male,39.0,Madinah,Western,2025-02-12,Regular
+C0232,Customer 0232,Male,45.0,Al Kharj,Central,2024-09-18,Regular
+C0233,Customer 0233,Prefer not to say,48.0,Jeddah,Western,2024-04-03,Regular
+C0234,Customer 0234,Male,24.0,Majmaah,Central,2025-01-16,Regular
+C0235,Customer 0235,Female,55.0,Arar,Northern,2025-07-29,New
+C0236,Customer 0236,Male,40.0,Majmaah,Central,2025-03-09,VIP
+C0237,Customer 0237,Male,56.0,Al Kharj,Central,2024-12-26,New
+C0238,Customer 0238,Female,27.0,Arar,Northern,2025-05-08,New
+C0239,Customer 0239,Male,53.0,Al Kharj,Central,2024-04-27,Regular
+C0240,Customer 0240,Female,45.0,Arar,Northern,2025-09-28,Regular
+C0241,Customer 0241,Female,56.0,Arar,Northern,2024-09-30,New
+C0242,Customer 0242,Prefer not to say,37.0,Khobar,Eastern,2024-12-25,New
+C0243,Customer 0243,Prefer not to say,60.0,Madinah,Western,2024-03-12,New
+C0244,Customer 0244,Female,65.0,Majmaah,Central,2024-08-08,Regular
+C0245,Customer 0245,Male,28.0,Jazan,Southern,2024-11-15,Regular
+C0246,Customer 0246,Prefer not to say,23.0,Tabuk,Northern,2024-06-08,New
+C0247,Customer 0247,Female,61.0,Tabuk,Northern,2024-10-05,Regular
+C0248,Customer 0248,Male,56.0,Jazan,Southern,2025-02-28,New
+C0249,Customer 0249,Female,40.0,Hail,Northern,2024-04-23,New
+C0250,Customer 0250,Male,51.0,Arar,Northern,2024-11-11,New
+C0251,Customer 0251,Prefer not to say,21.0,Abha,Southern,2024-07-28,New
+C0252,Customer 0252,Female,34.0,Makkah,Western,2024-12-01,New
+C0253,Customer 0253,Prefer not to say,45.0,Abha,Southern,2024-05-12,Regular
+C0254,Customer 0254,Prefer not to say,53.0,Makkah,Western,2024-03-14,Regular
+C0255,Customer 0255,Male,19.0,Al Kharj,Central,2024-03-20,VIP
+C0256,Customer 0256,Male,54.0,Hail,Northern,2025-03-03,New
+C0257,Customer 0257,Female,38.0,Abha,Southern,2025-09-24,Regular
+C0258,Customer 0258,Female,45.0,Dammam,Eastern,2024-09-06,Regular
+C0259,Customer 0259,Prefer not to say,23.0,Jazan,Southern,2024-11-13,Regular
+C0260,Customer 0260,Male,28.0,Jeddah,Western,2025-06-06,Regular
+C0261,Customer 0261,Prefer not to say,30.0,Hail,Northern,2024-12-25,Regular
+C0262,Customer 0262,Female,24.0,Taif,Western,2024-09-19,New
+C0263,Customer 0263,Female,59.0,Tabuk,Northern,2024-06-30,VIP
+C0264,Customer 0264,Male,54.0,Najran,Southern,2025-04-04,Regular
+C0265,Customer 0265,Prefer not to say,58.0,Arar,Northern,2024-11-26,VIP
+C0266,Customer 0266,Female,46.0,Dammam,Eastern,2025-04-25,Regular
+C0267,Customer 0267,Male,55.0,Dammam,Eastern,2024-12-26,Regular
+C0268,Customer 0268,Male,46.0,Dammam,Eastern,2024-02-28,Regular
+C0269,Customer 0269,Female,59.0,Dammam,Eastern,2025-09-21,Regular
+C0270,Customer 0270,Male,55.0,Najran,Southern,2024-02-12,Regular
+C0271,Customer 0271,Prefer not to say,30.0,Hail,Northern,2025-09-11,Regular
+C0272,Customer 0272,Female,46.0,Jeddah,Western,2024-12-17,VIP
+C0273,Customer 0273,Prefer not to say,59.0,Riyadh,Central,2024-02-10,New
+C0274,Customer 0274,Male,51.0,Najran,Southern,2025-09-16,New
+C0275,Customer 0275,Male,42.0,Khobar,Eastern,2024-12-12,Regular
+C0276,Customer 0276,Prefer not to say,59.0,Al Kharj,Central,2024-03-08,New
+C0277,Customer 0277,Prefer not to say,42.0,Hail,Northern,2024-09-15,Regular
+C0278,Customer 0278,Female,39.0,Tabuk,Northern,2025-08-19,Regular
+C0279,Customer 0279,Male,59.0,Jubail,Eastern,2025-02-05,New
+C0280,Customer 0280,Male,53.0,Al Kharj,Central,2024-12-02,Regular
+C0281,Customer 0281,Female,59.0,Arar,Northern,2025-03-09,Regular
+C0282,Customer 0282,Male,37.0,Riyadh,Central,2024-08-07,New
+C0283,Customer 0283,Female,32.0,Abha,Southern,2024-06-07,New
+C0284,Customer 0284,Prefer not to say,52.0,Majmaah,Central,2025-06-23,New
+C0285,Customer 0285,Prefer not to say,26.0,Jubail,Eastern,2025-01-20,New
+C0286,Customer 0286,Prefer not to say,57.0,Taif,Western,2025-03-24,New
+C0287,Customer 0287,Prefer not to say,64.0,Dammam,Eastern,2025-03-30,Regular
+C0288,Customer 0288,Female,52.0,Abha,Southern,2024-11-12,VIP
+C0289,Customer 0289,Female,41.0,Najran,Southern,2025-08-07,VIP
+C0290,Customer 0290,Male,42.0,Najran,Southern,2025-06-24,Regular
+C0291,Customer 0291,Female,56.0,Taif,Western,2024-09-13,New
+C0292,Customer 0292,Male,53.0,Abha,Southern,2025-06-12,VIP
+C0293,Customer 0293,Female,28.0,Khobar,Eastern,2025-04-05,VIP
+C0294,Customer 0294,Male,23.0,Taif,Western,2025-04-06,VIP
+C0295,Customer 0295,Male,21.0,Al Kharj,Central,2025-05-29,Regular
+C0296,Customer 0296,Female,41.0,Abha,Southern,2024-01-29,New
+C0297,Customer 0297,Prefer not to say,59.0,Al Kharj,Central,2024-05-29,New
+C0298,Customer 0298,Male,62.0,Dammam,Eastern,2025-04-25,Regular
+C0299,Customer 0299,Female,19.0,Al Kharj,Central,2024-08-08,Regular
+C0300,Customer 0300,Prefer not to say,56.0,Arar,Northern,2025-03-09,New
+C0301,Customer 0301,Female,37.0,Dammam,Eastern,2024-02-18,New
+C0302,Customer 0302,Male,22.0,Tabuk,Northern,2025-05-26,Regular
+C0303,Customer 0303,Prefer not to say,50.0,Majmaah,Central,2024-09-04,Regular
+C0304,Customer 0304,Male,18.0,Jubail,Eastern,2024-12-27,New
+C0305,Customer 0305,Female,60.0,Najran,Southern,2024-03-28,Regular
+C0306,Customer 0306,Female,51.0,Jubail,Eastern,2025-06-03,Regular
+C0307,Customer 0307,Prefer not to say,,Hail,Northern,2025-04-26,New
+C0308,Customer 0308,Male,34.0,Najran,Southern,2024-01-17,Regular
+C0309,Customer 0309,Male,33.0,Majmaah,Central,2025-10-05,New
+C0310,Customer 0310,Prefer not to say,39.0,Tabuk,Northern,2024-02-15,Regular
+C0311,Customer 0311,Prefer not to say,29.0,Jubail,Eastern,2025-04-20,VIP
+C0312,Customer 0312,Prefer not to say,29.0,Abha,Southern,2024-03-05,Regular
+C0313,Customer 0313,Female,36.0,Abha,Southern,2024-02-14,Regular
+C0314,Customer 0314,Male,37.0,Majmaah,Central,2025-02-11,VIP
+C0315,Customer 0315,Male,34.0,Tabuk,Northern,2024-07-14,New
+C0316,Customer 0316,Prefer not to say,39.0,Al Kharj,Central,2024-05-07,Regular
+C0317,Customer 0317,Male,65.0,Jazan,Southern,2025-01-30,New
+C0318,Customer 0318,Male,62.0,Madinah,Western,2025-01-11,VIP
+C0319,Customer 0319,Male,23.0,Arar,Northern,2025-03-10,New
+C0320,Customer 0320,Female,52.0,Hail,Northern,2024-11-24,New
+C0321,Customer 0321,Prefer not to say,36.0,Khobar,Eastern,2025-04-01,Regular
+C0322,Customer 0322,Female,62.0,Jazan,Southern,2024-12-25,Regular
+C0323,Customer 0323,Prefer not to say,45.0,Khobar,Eastern,2024-02-28,New
+C0324,Customer 0324,Male,50.0,Najran,Southern,2024-06-12,VIP
+C0325,Customer 0325,Prefer not to say,61.0,Madinah,Western,2024-02-05,New
+C0326,Customer 0326,Prefer not to say,41.0,Makkah,Western,2025-01-27,VIP
+C0327,Customer 0327,Prefer not to say,27.0,Majmaah,Central,2025-04-05,VIP
+C0328,Customer 0328,Male,22.0,Jubail,Eastern,2024-05-20,Regular
+C0329,Customer 0329,Male,59.0,Jazan,Southern,2024-09-12,VIP
+C0330,Customer 0330,Prefer not to say,29.0,Al Kharj,Central,2025-06-14,Regular
+C0331,Customer 0331,Female,34.0,Hail,Northern,2025-04-01,New
+C0332,Customer 0332,Male,62.0,Hail,Northern,2024-07-23,New
+C0333,Customer 0333,Male,29.0,Majmaah,Central,2025-03-31,VIP
+C0334,Customer 0334,Prefer not to say,40.0,Jubail,Eastern,2024-03-07,Regular
+C0335,Customer 0335,Male,28.0,Jubail,Eastern,2024-06-27,Regular
+C0336,Customer 0336,Female,25.0,Tabuk,Northern,2024-05-22,New
+C0337,Customer 0337,Female,41.0,Najran,Southern,2025-08-09,Regular
+C0338,Customer 0338,Female,57.0,Tabuk,Northern,2024-03-08,New
+C0339,Customer 0339,Prefer not to say,44.0,Jazan,Southern,2025-08-11,New
+C0340,Customer 0340,Prefer not to say,22.0,Khobar,Eastern,2025-04-22,Regular
+C0341,Customer 0341,Female,53.0,Jubail,Eastern,2025-08-24,New
+C0342,Customer 0342,Male,50.0,Jeddah,Western,2024-05-07,Regular
+C0343,Customer 0343,Female,28.0,Khobar,Eastern,2024-08-18,New
+C0344,Customer 0344,Male,23.0,Hail,Northern,2024-07-20,Regular
+C0345,Customer 0345,Male,26.0,Arar,Northern,2024-11-06,Regular
+C0346,Customer 0346,Prefer not to say,59.0,Riyadh,Central,2025-08-29,VIP
+C0347,Customer 0347,Female,60.0,Makkah,Western,2025-07-31,New
+C0348,Customer 0348,Female,20.0,Majmaah,Central,2025-08-13,New
+C0349,Customer 0349,Prefer not to say,44.0,Jeddah,Western,2025-05-24,VIP
+C0350,Customer 0350,Male,59.0,Hail,Northern,2025-05-09,New
+C0351,Customer 0351,Male,47.0,Abha,Southern,2024-03-02,New
+C0352,Customer 0352,Male,47.0,Abha,Southern,2024-12-14,Regular
+C0353,Customer 0353,Prefer not to say,38.0,Jubail,Eastern,2024-12-19,VIP
+C0354,Customer 0354,Male,50.0,Jeddah,Western,2024-11-22,New
+C0355,Customer 0355,Male,46.0,Riyadh,Central,2024-05-24,New
+C0356,Customer 0356,Male,57.0,Khobar,Eastern,2024-09-11,VIP
+C0357,Customer 0357,Male,54.0,Makkah,Western,2024-07-13,Regular
+C0358,Customer 0358,Prefer not to say,47.0,Jazan,Southern,2024-11-11,Regular
+C0359,Customer 0359,Male,50.0,Al Kharj,Central,2024-09-03,New
+C0360,Customer 0360,Female,21.0,Khobar,Eastern,2025-05-21,Regular
+C0361,Customer 0361,Male,52.0,Abha,Southern,2024-04-20,Regular
+C0362,Customer 0362,Prefer not to say,41.0,,Eastern,2025-01-09,New
+C0363,Customer 0363,Prefer not to say,53.0,Riyadh,Central,2025-01-06,Regular
+C0364,Customer 0364,Male,50.0,Al Kharj,Central,2025-07-17,New
+C0365,Customer 0365,Prefer not to say,57.0,Tabuk,Northern,2024-05-11,VIP
+C0366,Customer 0366,Male,39.0,Najran,Southern,2025-01-09,Regular
+C0367,Customer 0367,Prefer not to say,50.0,Madinah,Western,2025-05-27,New
+C0368,Customer 0368,Female,63.0,Al Kharj,Central,2025-04-30,Regular
+C0369,Customer 0369,Prefer not to say,50.0,Taif,Western,2024-12-01,VIP
+C0370,Customer 0370,Female,43.0,Jubail,Eastern,2024-11-02,Regular
+C0371,Customer 0371,Prefer not to say,52.0,Hail,Northern,2025-07-30,New
+C0372,Customer 0372,Male,39.0,Majmaah,Central,2024-04-22,VIP
+C0373,Customer 0373,Male,64.0,Arar,Northern,2025-10-06,New
+C0374,Customer 0374,Male,59.0,Najran,Southern,2025-08-14,New
+C0375,Customer 0375,Prefer not to say,48.0,,Central,2025-06-20,Regular
+C0376,Customer 0376,Male,27.0,Arar,Northern,2024-09-05,New
+C0377,Customer 0377,Female,19.0,Al Kharj,Central,2024-11-17,Regular
+C0378,Customer 0378,Prefer not to say,31.0,,Southern,2025-05-28,Regular
+C0379,Customer 0379,Prefer not to say,64.0,Abha,Southern,2024-05-21,Regular
+C0380,Customer 0380,Male,60.0,Hail,Northern,2025-06-22,Regular
+C0381,Customer 0381,Male,52.0,Makkah,Western,2025-07-13,Regular
+C0382,Customer 0382,Prefer not to say,48.0,Dammam,Eastern,2024-09-09,New
+C0383,Customer 0383,Female,37.0,Khobar,Eastern,2024-07-31,Regular
+C0384,Customer 0384,Male,48.0,Jazan,Southern,2025-07-27,VIP
+C0385,Customer 0385,Male,25.0,Jubail,Eastern,2025-07-10,Regular
+C0386,Customer 0386,Male,27.0,Jazan,Southern,2024-02-13,New
+C0387,Customer 0387,Male,46.0,Majmaah,Central,2024-09-19,Regular
+C0388,Customer 0388,Female,52.0,Makkah,Western,2025-07-29,Regular
+C0389,Customer 0389,Female,57.0,Taif,Western,2024-09-05,New
+C0390,Customer 0390,Female,58.0,Tabuk,Northern,2024-02-23,New
+C0391,Customer 0391,Prefer not to say,48.0,Dammam,Eastern,2024-05-20,New
+C0392,Customer 0392,Female,44.0,Arar,Northern,2025-05-02,Regular
+C0393,Customer 0393,Male,38.0,Makkah,Western,2024-03-01,VIP
+C0394,Customer 0394,Prefer not to say,54.0,Riyadh,Central,2025-07-01,Regular
+C0395,Customer 0395,Female,44.0,,Central,2024-02-07,VIP
+C0396,Customer 0396,Male,29.0,Najran,Southern,2024-10-23,VIP
+C0397,Customer 0397,Male,54.0,Majmaah,Central,2024-04-19,VIP
+C0398,Customer 0398,Male,47.0,Jubail,Eastern,2025-07-10,Regular
+C0399,Customer 0399,Prefer not to say,47.0,Makkah,Western,2024-07-16,Regular
+C0400,Customer 0400,Female,64.0,Khobar,Eastern,2024-09-20,Regular
+C0401,Customer 0401,Prefer not to say,39.0,Al Kharj,Central,2025-08-04,Regular
+C0402,Customer 0402,Female,57.0,Madinah,Western,2025-03-13,Regular
+C0403,Customer 0403,Male,60.0,Riyadh,Central,2024-07-08,VIP
+C0404,Customer 0404,Male,33.0,Abha,Southern,2024-09-24,Regular
+C0405,Customer 0405,Male,39.0,Jazan,Southern,2025-08-19,Regular
+C0406,Customer 0406,Male,59.0,Al Kharj,Central,2024-08-29,New
+C0407,Customer 0407,Male,37.0,Riyadh,Central,2025-02-19,Regular
+C0408,Customer 0408,Prefer not to say,25.0,Jubail,Eastern,2024-10-29,Regular
+C0409,Customer 0409,Female,26.0,Madinah,Western,2024-06-05,Regular
+C0410,Customer 0410,Male,44.0,Arar,Northern,2025-07-16,VIP
+C0411,Customer 0411,Prefer not to say,31.0,Tabuk,Northern,2025-09-02,VIP
+C0412,Customer 0412,Prefer not to say,46.0,Majmaah,Central,2025-01-05,New
+C0413,Customer 0413,Female,21.0,Arar,Northern,2025-06-01,New
+C0414,Customer 0414,Female,28.0,Hail,Northern,2025-06-16,Regular
+C0415,Customer 0415,Prefer not to say,55.0,Madinah,Western,2024-04-03,VIP
+C0416,Customer 0416,Female,47.0,Abha,Southern,2025-06-09,Regular
+C0417,Customer 0417,Female,53.0,Hail,Northern,2024-11-11,Regular
+C0418,Customer 0418,Male,18.0,Najran,Southern,2024-08-11,Regular
+C0419,Customer 0419,Male,40.0,Majmaah,Central,2024-03-06,Regular
+C0420,Customer 0420,Female,48.0,Riyadh,Central,2024-10-20,Regular
+C0421,Customer 0421,Prefer not to say,64.0,Madinah,Western,2025-01-18,VIP
+C0422,Customer 0422,Male,42.0,Jazan,Southern,2024-03-23,Regular
+C0423,Customer 0423,Female,59.0,Hail,Northern,2024-05-01,New
+C0424,Customer 0424,Male,51.0,Tabuk,Northern,2024-08-16,Regular
+C0425,Customer 0425,Male,47.0,Majmaah,Central,2025-07-11,Regular
+C0426,Customer 0426,Female,33.0,Jazan,Southern,2024-12-20,New
+C0427,Customer 0427,Prefer not to say,25.0,Jeddah,Western,2025-03-05,Regular
+C0428,Customer 0428,Female,31.0,Riyadh,Central,2024-04-13,Regular
+C0429,Customer 0429,Prefer not to say,61.0,Najran,Southern,2024-02-19,New
+C0430,Customer 0430,Male,46.0,Riyadh,Central,2025-07-06,New
+C0431,Customer 0431,Female,50.0,Al Kharj,Central,2024-08-27,Regular
+C0432,Customer 0432,Male,54.0,Arar,Northern,2024-11-24,New
+C0433,Customer 0433,Prefer not to say,51.0,Taif,Western,2025-02-27,New
+C0434,Customer 0434,Prefer not to say,55.0,Majmaah,Central,2024-06-28,Regular
+C0435,Customer 0435,Prefer not to say,49.0,Abha,Southern,2024-12-18,VIP
+C0436,Customer 0436,Prefer not to say,38.0,Najran,Southern,2025-03-02,Regular
+C0437,Customer 0437,Male,29.0,Jubail,Eastern,2025-04-29,New
+C0438,Customer 0438,Male,63.0,Taif,Western,2025-04-19,VIP
+C0439,Customer 0439,Male,44.0,Arar,Northern,2025-06-26,New
+C0440,Customer 0440,Male,31.0,Makkah,Western,2024-03-21,VIP
+C0441,Customer 0441,Female,52.0,Jubail,Eastern,2024-07-14,New
+C0442,Customer 0442,Prefer not to say,56.0,Najran,Southern,2024-02-10,VIP
+C0443,Customer 0443,Prefer not to say,64.0,Taif,Western,2025-05-05,New
+C0444,Customer 0444,Male,18.0,Dammam,Eastern,2024-07-13,VIP
+C0445,Customer 0445,Prefer not to say,48.0,Riyadh,Central,2025-09-10,Regular
+C0446,Customer 0446,Female,53.0,Jazan,Southern,2024-10-16,Regular
+C0447,Customer 0447,Prefer not to say,40.0,Hail,Northern,2024-09-24,Regular
+C0448,Customer 0448,Male,24.0,Najran,Southern,2025-04-25,Regular
+C0449,Customer 0449,Female,41.0,Khobar,Eastern,2025-02-27,New
+C0450,Customer 0450,Prefer not to say,,Jeddah,Western,2024-09-24,Regular
+C0451,Customer 0451,Prefer not to say,64.0,Hail,Northern,2024-10-29,New
+C0452,Customer 0452,Female,42.0,Jubail,Eastern,2024-09-08,Regular
+C0453,Customer 0453,Male,49.0,Jubail,Eastern,2025-05-17,Regular
+C0454,Customer 0454,Female,26.0,Jubail,Eastern,2025-07-13,Regular
+C0455,Customer 0455,Prefer not to say,21.0,Arar,Northern,2024-02-04,Regular
+C0456,Customer 0456,Prefer not to say,21.0,Riyadh,Central,2025-02-26,New
+C0457,Customer 0457,Female,63.0,Taif,Western,2024-01-10,New
+C0458,Customer 0458,Male,21.0,Najran,Southern,2025-09-23,VIP
+C0459,Customer 0459,Female,18.0,Najran,Southern,2025-07-18,Regular
+C0460,Customer 0460,Prefer not to say,64.0,Al Kharj,Central,2025-07-02,VIP
+C0461,Customer 0461,Prefer not to say,62.0,Majmaah,Central,2025-03-16,Regular
+C0462,Customer 0462,Female,24.0,Taif,Western,2024-09-03,New
+C0463,Customer 0463,Male,40.0,Hail,Northern,2025-02-10,New
+C0464,Customer 0464,Male,54.0,Abha,Southern,2024-08-19,New
+C0465,Customer 0465,Prefer not to say,59.0,Riyadh,Central,2024-04-05,Regular
+C0466,Customer 0466,Prefer not to say,48.0,Abha,Southern,2024-01-10,Regular
+C0467,Customer 0467,Male,45.0,Majmaah,Central,2024-12-05,Regular
+C0468,Customer 0468,Prefer not to say,20.0,Riyadh,Central,2024-08-04,VIP
+C0469,Customer 0469,Male,35.0,Tabuk,Northern,2024-03-17,Regular
+C0470,Customer 0470,Prefer not to say,54.0,Jubail,Eastern,2024-02-03,New
+C0471,Customer 0471,Female,31.0,Jubail,Eastern,2024-05-27,Regular
+C0472,Customer 0472,Female,37.0,Abha,Southern,2025-07-31,New
+C0473,Customer 0473,Prefer not to say,52.0,Jazan,Southern,2025-01-28,Regular
+C0474,Customer 0474,Prefer not to say,64.0,Jeddah,Western,2025-05-27,Regular
+C0475,Customer 0475,Female,24.0,Khobar,Eastern,2024-08-25,Regular
+C0476,Customer 0476,Prefer not to say,57.0,Jubail,Eastern,2025-02-10,VIP
+C0477,Customer 0477,Female,58.0,Khobar,Eastern,2025-04-06,Regular
+C0478,Customer 0478,Prefer not to say,42.0,Khobar,Eastern,2024-07-09,Regular
+C0479,Customer 0479,Female,57.0,Jazan,Southern,2024-09-09,Regular
+C0480,Customer 0480,Male,27.0,Al Kharj,Central,2025-10-11,New
+C0481,Customer 0481,Male,41.0,Abha,Southern,2024-04-03,New
+C0482,Customer 0482,Male,41.0,Khobar,Eastern,2024-04-14,New
+C0483,Customer 0483,Male,46.0,Madinah,Western,2024-04-15,New
+C0484,Customer 0484,Prefer not to say,23.0,Jubail,Eastern,2025-09-04,Regular
+C0485,Customer 0485,Female,36.0,Jazan,Southern,2025-02-01,Regular
+C0486,Customer 0486,Female,54.0,Arar,Northern,2024-06-22,Regular
+C0487,Customer 0487,Female,35.0,Makkah,Western,2024-10-01,Regular
+C0488,Customer 0488,Female,45.0,Al Kharj,Central,2025-03-07,New
+C0489,Customer 0489,Male,34.0,Riyadh,Central,2025-10-02,Regular
+C0490,Customer 0490,Female,47.0,Tabuk,Northern,2024-05-18,New
+C0491,Customer 0491,Male,57.0,Jazan,Southern,2024-12-03,Regular
+C0492,Customer 0492,Prefer not to say,56.0,Abha,Southern,2024-11-03,New
+C0493,Customer 0493,Male,38.0,Taif,Western,2025-02-11,VIP
+C0494,Customer 0494,Prefer not to say,62.0,Jubail,Eastern,2025-05-17,VIP
+C0495,Customer 0495,Male,42.0,Makkah,Western,2025-02-06,Regular
+C0496,Customer 0496,Female,55.0,Arar,Northern,2024-07-03,Regular
+C0497,Customer 0497,Female,64.0,Hail,Northern,2024-08-02,Regular
+C0498,Customer 0498,Prefer not to say,22.0,Khobar,Eastern,2025-05-26,New
+C0499,Customer 0499,Female,34.0,Jubail,Eastern,2024-06-06,Regular
+C0500,Customer 0500,Female,46.0,Najran,Southern,2025-05-05,Regular
+C0152,Customer 0152,Male,27.0,Jeddah,Western,2024-03-02,New
+C0425,Customer 0425,Male,47.0,Majmaah,Central,2025-07-11,Regular
+C0155,Customer 0155,Prefer not to say,49.0,Hail,Northern,2024-03-23,Regular

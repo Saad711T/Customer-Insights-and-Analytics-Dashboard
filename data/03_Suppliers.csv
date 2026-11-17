@@ -1,0 +1,13 @@
+﻿supplier_id,supplier_name,supplier_country,lead_time_days,supplier_rating
+S001,Supplier 01,India,6,4.1
+S002,Supplier 02,Turkey,7,3.9
+S003,Supplier 03,India,7,4.0
+S004,Supplier 04,Turkey,11,3.1
+S005,Supplier 05,China,16,4.2
+S006,Supplier 06,China,2,3.9
+S007,Supplier 07,UAE,14,4.9
+S008,Supplier 08,India,17,3.7
+S009,Supplier 09,Turkey,15,4.4
+S010,Supplier 10,Turkey,17,3.2
+S011,Supplier 11,India,2,4.6
+S012,Supplier 12,UAE,11,2.9

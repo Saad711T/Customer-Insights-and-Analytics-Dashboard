@@ -1,0 +1,28 @@
+﻿product_id,product_name,category,unit_cost,unit_price,supplier_id,active
+P001,Wireless Earbuds,Electronics,140.58,299.06,S012,False
+P002,Smart Watch,Electronics,142.76,285.69,S006,True
+P003,Phone Charger,Electronics,40.7,60.47,S011,True
+P004,Bluetooth Speaker,Electronics,54.09,99.1,S010,False
+P005,Power Bank,Electronics,242.2,379.05,S007,True
+P006,Keyboard,Electronics,17.48,26.15,S009,True
+P007,Mouse,Electronics,119.76,194.2,S011,True
+P008,Coffee Maker,Home,96.07,122.33,S002,True
+P009,Water Bottle,Home,112.75,243.95,S002,True
+P010,Storage Box,Home,96.86,152.64,S004,False
+P011,Desk Lamp,Home,96.85,130.04,S012,False
+P012,Bedsheet Set,Home,89.94,138.08,S012,True
+P013,Air Fryer,Home,20.31,32.01,S002,True
+P014,Face Cleanser,Beauty,233.53,456.19,S009,True
+P015,Moisturizer,Beauty,144.7,226.37,S007,False
+P016,Sunscreen,Beauty,69.49,113.6,S003,True
+P017,Hair Dryer,Beauty,165.51,274.83,S001,True
+P018,Perfume,Beauty,120.65,200.05,S001,True
+P019,Backpack,Fashion,63.36,124.48,S002,True
+P020,T-Shirt,Fashion,202.88,357.08,S006,True
+P021,Sneakers,Fashion,61.31,83.27,S011,False
+P022,Wallet,Fashion,139.01,258.16,S010,False
+P023,Sunglasses,Fashion,158.66,286.8,S006,True
+P024,Yoga Mat,Sports,213.7,392.46,S011,True
+P025,Resistance Bands,Sports,230.89,418.06,S011,True
+P026,Sports Bottle,Sports,88.6,130.83,S002,True
+P027,Dumbbell Set,Sports,102.73,142.21,S007,False

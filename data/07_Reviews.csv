@@ -1,0 +1,855 @@
+﻿review_id,order_id,review_date,rating,review_text,sentiment_label
+R00001,O00155,2026-08-25,3.0,المقاس غير مناسب وأرغب بالاستبدال,Neutral
+R00002,O01116,2026-01-17,3.0,المقاس غير مناسب وأرغب بالاستبدال,Neutral
+R00003,O01390,2026-11-11,1.0,Fast delivery and excellent quality,Negative
+R00004,O01135,2025-04-27,5.0,Customer service was helpful,Positive
+R00005,O01343,2025-08-03,4.0,جودة المنتج أقل من المتوقع,Positive
+R00006,O01141,2026-10-20,3.0,السعر مناسب والتجربة جميلة,Neutral
+R00007,O00318,2025-04-30,4.0,Good price and smooth shopping experience,Positive
+R00008,O00638,2026-09-05,3.0,التغليف ممتاز لكن السعر مرتفع,Neutral
+R00009,O00786,2025-12-08,5.0,خدمة العملاء ممتازة,Positive
+R00010,O00358,2026-02-14,3.0,جودة ممتازة وسأكرر الشراء,Neutral
+R00011,O01296,2026-03-30,3.0,التوصيل كان سريع والمنتج ممتاز,Neutral
+R00012,O00628,2026-08-21,3.0,التغليف ممتاز لكن السعر مرتفع,Neutral
+R00013,O00258,2025-06-28,3.0,Item matches the description,Neutral
+R00014,O00494,2025-09-11,5.0,تجربة شراء سهلة وسريعة,Positive
+R00015,O00847,2026-04-30,4.0,The order arrived late and packaging was damaged,Positive
+R00016,O00909,2026-08-10,3.0,المقاس غير مناسب وأرغب بالاستبدال,Neutral
+R00017,O00633,2026-09-29,4.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00018,O01228,2025-04-05,4.0,السعر مناسب والتجربة جميلة,Positive
+R00019,O00035,2026-02-18,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00020,O00695,2025-03-09,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00021,O00741,2025-06-11,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00022,O00099,2026-06-08,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00023,O01085,2025-04-18,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00024,O00478,2025-08-13,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00025,O00822,2025-06-13,5.0,تجربة شراء سهلة وسريعة,Positive
+R00026,O00882,2025-10-05,5.0,Great packaging but the price is high,Positive
+R00027,O01151,2025-11-22,4.0,The product stopped working after two days,Positive
+R00028,O00698,2026-08-18,3.0,Great packaging but the price is high,Neutral
+R00029,O01191,2026-10-12,2.0,Item matches the description,Negative
+R00030,O00038,2025-12-14,4.0,Good price and smooth shopping experience,Positive
+R00031,O01337,2026-02-02,3.0,المنتج مطابق للوصف وأنصح فيه,Neutral
+R00032,O00751,2025-04-16,2.0,جودة المنتج أقل من المتوقع,Negative
+R00033,O01166,2026-04-14,2.0,Great packaging but the price is high,Negative
+R00034,O00524,2026-10-03,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00035,O01365,2025-08-06,,Customer service was helpful,Neutral
+R00036,O00592,2025-12-03,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00037,O00048,2026-08-15,3.0,جودة ممتازة وسأكرر الشراء,Neutral
+R00038,O01397,2026-07-06,2.0,المنتج مطابق للوصف وأنصح فيه,Negative
+R00039,O01280,2026-10-17,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00040,O00105,2026-07-14,5.0,Product quality was lower than expected,Positive
+R00041,O00329,2025-12-29,4.0,Shipping was delayed again,Positive
+R00042,O01013,2026-02-08,2.0,Shipping was delayed again,Negative
+R00043,O00005,2026-04-18,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00044,O00394,2025-08-02,1.0,التغليف ممتاز لكن السعر مرتفع,Negative
+R00045,O00591,2025-06-20,1.0,Fast delivery and excellent quality,Negative
+R00046,O01381,2025-10-08,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00047,O00343,2026-07-22,5.0,Fast delivery and excellent quality,Positive
+R00048,O00103,2025-05-24,4.0,خدمة العملاء ممتازة,Positive
+R00049,O00547,2025-05-01,4.0,جودة المنتج أقل من المتوقع,Positive
+R00050,O00209,2026-02-12,5.0,Item matches the description,Positive
+R00051,O01371,2026-03-29,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00052,O01237,2025-05-28,5.0,Good price and smooth shopping experience,Positive
+R00053,O00328,2025-10-31,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00054,O00774,2025-07-15,3.0,تجربة شراء سهلة وسريعة,Neutral
+R00055,O01215,2026-08-23,2.0,Item matches the description,Negative
+R00056,O00655,2025-11-04,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00057,O00045,2025-09-26,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00058,O01097,2026-11-15,2.0,المقاس غير مناسب وأرغب بالاستبدال,Negative
+R00059,O00445,2026-01-28,4.0,Item matches the description,Positive
+R00060,O00729,2026-09-28,4.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00061,O00359,2026-11-30,1.0,The order arrived late and packaging was damaged,Negative
+R00062,O00096,2025-08-14,3.0,التوصيل كان سريع والمنتج ممتاز,Neutral
+R00063,O00535,2026-02-03,2.0,المنتج لا يعمل بشكل صحيح,Negative
+R00064,O00226,2026-08-08,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00065,O01317,2025-09-10,5.0,خدمة العملاء ممتازة,Positive
+R00066,O01031,2025-02-04,5.0,Product quality was lower than expected,Positive
+R00067,O01076,2025-08-26,3.0,خدمة العملاء ممتازة,Neutral
+R00068,O01105,2026-11-13,3.0,تجربة شراء سهلة وسريعة,Neutral
+R00069,O00667,2025-07-30,5.0,Customer service was helpful,Positive
+R00070,O01242,2025-04-13,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00071,O01024,2025-09-29,4.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00072,O01077,2026-03-21,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00073,O01383,2025-09-15,1.0,Product quality was lower than expected,Negative
+R00074,O00855,2025-01-11,2.0,Item matches the description,Negative
+R00075,O00266,2026-08-28,5.0,Product quality was lower than expected,Positive
+R00076,O00720,2025-02-18,5.0,Good price and smooth shopping experience,Positive
+R00077,O00156,2025-02-09,5.0,تأخر الشحن أكثر من مرة,Positive
+R00078,O01200,2026-03-04,5.0,Product quality was lower than expected,Positive
+R00079,O00996,2026-07-12,4.0,Product quality was lower than expected,Positive
+R00080,O00625,2026-09-09,5.0,خدمة العملاء ممتازة,Positive
+R00081,O01220,2025-07-25,2.0,خدمة العملاء لم ترد على استفساري,Negative
+R00082,O00371,2025-11-06,5.0,السعر مناسب والتجربة جميلة,Positive
+R00083,O00468,2025-08-03,5.0,جودة المنتج أقل من المتوقع,Positive
+R00084,O00010,2026-05-05,4.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00085,O01171,2026-08-29,2.0,تأخر الشحن أكثر من مرة,Negative
+R00086,O01219,2025-03-23,,تجربة شراء سهلة وسريعة,Positive
+R00087,O00305,2025-03-30,2.0,Product quality was lower than expected,Negative
+R00088,O00747,2025-05-19,3.0,Product quality was lower than expected,Neutral
+R00089,O01213,2025-11-13,4.0,Fast delivery and excellent quality,Positive
+R00090,O00924,2025-11-07,5.0,Fast delivery and excellent quality,Positive
+R00091,O01202,2026-06-18,3.0,المقاس غير مناسب وأرغب بالاستبدال,Neutral
+R00092,O00647,2025-04-05,2.0,تأخر الشحن أكثر من مرة,Negative
+R00093,O00249,2026-10-10,4.0,السعر مناسب والتجربة جميلة,Positive
+R00094,O00983,2025-03-18,5.0,Item matches the description,Positive
+R00095,O01309,2026-03-23,3.0,تأخر الشحن أكثر من مرة,Neutral
+R00096,O00573,2026-01-25,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00097,O00517,2025-03-15,3.0,جودة ممتازة وسأكرر الشراء,Neutral
+R00098,O00393,2025-02-08,5.0,Easy checkout and quick delivery,Positive
+R00099,O01005,2025-04-24,3.0,Great packaging but the price is high,Neutral
+R00100,O00074,2026-08-15,2.0,Good price and smooth shopping experience,Negative
+R00101,O00843,2025-06-05,3.0,خدمة العملاء ممتازة,Neutral
+R00102,O01357,2025-03-19,5.0,Product quality was lower than expected,Positive
+R00103,O00880,2025-08-12,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00104,O00654,2026-03-20,4.0,Good price and smooth shopping experience,Positive
+R00105,O00387,2026-02-21,4.0,المنتج لا يعمل بشكل صحيح,Positive
+R00106,O01075,2025-11-27,3.0,المقاس غير مناسب وأرغب بالاستبدال,Neutral
+R00107,O01295,2025-11-16,4.0,Fast delivery and excellent quality,Positive
+R00108,O01126,2026-01-08,2.0,خدمة العملاء لم ترد على استفساري,Negative
+R00109,O00681,2026-04-23,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00110,O01206,2025-10-10,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00111,O01384,2026-09-12,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00112,O00231,2026-09-05,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00113,O01042,2025-04-19,1.0,المقاس غير مناسب وأرغب بالاستبدال,Negative
+R00114,O00448,2025-12-15,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00115,O00008,2026-02-16,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00116,O00895,2025-10-31,5.0,Good price and smooth shopping experience,Positive
+R00117,O00941,2025-03-30,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00118,O00422,2026-11-01,4.0,المنتج لا يعمل بشكل صحيح,Positive
+R00119,O00502,2026-01-27,1.0,Easy checkout and quick delivery,Negative
+R00120,O00200,2025-02-13,1.0,المقاس غير مناسب وأرغب بالاستبدال,Negative
+R00121,O00868,2025-04-24,5.0,Fast delivery and excellent quality,Positive
+R00122,O00215,2026-01-23,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00123,O01235,2025-09-24,5.0,خدمة العملاء لم ترد على استفساري,Positive
+R00124,O01344,2025-04-16,4.0,Fast delivery and excellent quality,Positive
+R00125,O01336,2026-02-26,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00126,O01305,2025-10-06,1.0,Product quality was lower than expected,Negative
+R00127,O00350,2026-07-04,4.0,تجربة شراء سهلة وسريعة,Positive
+R00128,O00686,2025-07-16,4.0,جودة المنتج أقل من المتوقع,Positive
+R00129,O00342,2026-11-07,2.0,وصل الطلب متأخر والتغليف كان سيئ,Negative
+R00130,O00890,2025-06-01,2.0,تأخر الشحن أكثر من مرة,Negative
+R00131,O00845,2025-01-14,2.0,تجربة شراء سهلة وسريعة,Negative
+R00132,O00793,2025-06-09,3.0,المنتج لا يعمل بشكل صحيح,Neutral
+R00133,O01334,2026-08-29,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00134,O00967,2025-04-05,1.0,جودة ممتازة وسأكرر الشراء,Negative
+R00135,O00057,2026-04-09,4.0,جودة المنتج أقل من المتوقع,Positive
+R00136,O01286,2025-04-15,3.0,The order arrived late and packaging was damaged,Neutral
+R00137,O00357,2025-01-31,4.0,The product stopped working after two days,Positive
+R00138,O00552,2026-03-30,3.0,Good price and smooth shopping experience,Neutral
+R00139,O00315,2026-06-28,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00140,O01321,2026-03-24,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00141,O00337,2026-11-12,5.0,تجربة شراء سهلة وسريعة,Positive
+R00142,O01292,2025-02-11,4.0,تجربة شراء سهلة وسريعة,Positive
+R00143,O01112,2025-01-30,4.0,تأخر الشحن أكثر من مرة,Positive
+R00144,O00279,2025-03-16,1.0,خدمة العملاء ممتازة,Negative
+R00145,O01057,2025-10-22,2.0,The product stopped working after two days,Negative
+R00146,O01176,2025-03-21,3.0,جودة ممتازة وسأكرر الشراء,Neutral
+R00147,O00066,2026-06-07,2.0,Product quality was lower than expected,Negative
+R00148,O00355,2025-09-26,5.0,تأخر الشحن أكثر من مرة,Positive
+R00149,O00399,2026-04-11,4.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00150,O00536,2025-02-07,2.0,المقاس غير مناسب وأرغب بالاستبدال,Negative
+R00151,O01106,2026-07-23,4.0,The order arrived late and packaging was damaged,Positive
+R00152,O00134,2025-08-16,1.0,Easy checkout and quick delivery,Negative
+R00153,O00085,2026-07-27,5.0,Fast delivery and excellent quality,Positive
+R00154,O01003,2025-08-21,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00155,O00738,2026-11-15,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00156,O01392,2026-09-28,5.0,Easy checkout and quick delivery,Positive
+R00157,O01051,2025-09-03,3.0,Great packaging but the price is high,Neutral
+R00158,O00132,2025-01-15,4.0,المنتج لا يعمل بشكل صحيح,Positive
+R00159,O01338,2025-12-19,4.0,The product stopped working after two days,Positive
+R00160,O01091,2025-11-10,4.0,Fast delivery and excellent quality,Positive
+R00161,O01048,2025-10-12,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00162,O00753,2026-03-06,1.0,التغليف ممتاز لكن السعر مرتفع,Negative
+R00163,O00609,2025-02-20,4.0,The product stopped working after two days,Positive
+R00164,O00165,2026-06-17,5.0,تأخر الشحن أكثر من مرة,Positive
+R00165,O01045,2026-01-22,4.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00166,O00984,2026-03-07,4.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00167,O01161,2025-10-07,4.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00168,O00732,2025-11-22,2.0,التغليف ممتاز لكن السعر مرتفع,Negative
+R00169,O01211,2025-08-17,2.0,تأخر الشحن أكثر من مرة,Negative
+R00170,O00471,2026-08-25,2.0,Fast delivery and excellent quality,Negative
+R00171,O00180,2025-08-14,2.0,Shipping was delayed again,Negative
+R00172,O00094,2026-05-06,3.0,Item matches the description,Neutral
+R00173,O01061,2026-10-18,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00174,O00495,2025-11-05,3.0,تجربة شراء سهلة وسريعة,Neutral
+R00175,O01082,2025-07-04,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00176,O01298,2025-10-16,1.0,The order arrived late and packaging was damaged,Negative
+R00177,O01399,2025-09-14,5.0,خدمة العملاء ممتازة,Positive
+R00178,O00820,2025-02-02,4.0,تجربة شراء سهلة وسريعة,Positive
+R00179,O00152,2025-11-12,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00180,O00748,2026-02-12,,المنتج لا يعمل بشكل صحيح,Positive
+R00181,O01155,2025-11-19,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00182,O00138,2026-01-29,5.0,تجربة شراء سهلة وسريعة,Positive
+R00183,O00706,2026-01-23,4.0,خدمة العملاء ممتازة,Positive
+R00184,O00863,2026-04-09,3.0,جودة ممتازة وسأكرر الشراء,Neutral
+R00185,O01192,2026-11-04,3.0,جودة ممتازة وسأكرر الشراء,Neutral
+R00186,O00911,2026-09-07,3.0,السعر مناسب والتجربة جميلة,Neutral
+R00187,O00392,2025-03-26,5.0,تأخر الشحن أكثر من مرة,Positive
+R00188,O00947,2025-05-23,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00189,O01205,2025-01-21,1.0,Good price and smooth shopping experience,Negative
+R00190,O01182,2026-02-06,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00191,O00617,2025-04-03,4.0,جودة المنتج أقل من المتوقع,Positive
+R00192,O01039,2025-06-10,4.0,السعر مناسب والتجربة جميلة,Positive
+R00193,O00960,2025-03-31,1.0,تأخر الشحن أكثر من مرة,Negative
+R00194,O00481,2025-07-01,5.0,The product stopped working after two days,Positive
+R00195,O00056,2026-08-28,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00196,O00363,2025-08-03,4.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00197,O00044,2025-05-10,4.0,Fast delivery and excellent quality,Positive
+R00198,O01122,2025-05-05,5.0,Item matches the description,Positive
+R00199,O00931,2025-02-16,2.0,جودة ممتازة وسأكرر الشراء,Negative
+R00200,O00184,2026-01-02,5.0,السعر مناسب والتجربة جميلة,Positive
+R00201,O00354,2025-04-08,1.0,Fast delivery and excellent quality,Negative
+R00202,O00557,2025-09-03,2.0,,Negative
+R00203,O00932,2025-08-20,4.0,تجربة شراء سهلة وسريعة,Positive
+R00204,O00256,2025-03-05,2.0,المقاس غير مناسب وأرغب بالاستبدال,Negative
+R00205,O00419,2026-08-19,1.0,Great packaging but the price is high,Negative
+R00206,O00268,2025-05-30,2.0,المنتج لا يعمل بشكل صحيح,Negative
+R00207,O00068,2026-11-25,4.0,تجربة شراء سهلة وسريعة,Positive
+R00208,O01225,2026-01-13,2.0,المنتج مطابق للوصف وأنصح فيه,Negative
+R00209,O00995,2026-04-06,3.0,المنتج مطابق للوصف وأنصح فيه,Neutral
+R00210,O00389,2025-05-27,5.0,خدمة العملاء ممتازة,Positive
+R00211,O00862,2025-12-19,5.0,The order arrived late and packaging was damaged,Positive
+R00212,O01346,2025-08-28,2.0,التغليف ممتاز لكن السعر مرتفع,Negative
+R00213,O00640,2026-04-25,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00214,O01029,2025-03-19,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00215,O00943,2025-10-22,3.0,Easy checkout and quick delivery,Neutral
+R00216,O00639,2025-05-02,1.0,جودة ممتازة وسأكرر الشراء,Negative
+R00217,O00117,2026-11-25,4.0,جودة المنتج أقل من المتوقع,Positive
+R00218,O01208,2026-11-18,5.0,تجربة شراء سهلة وسريعة,Positive
+R00219,O01374,2026-03-07,4.0,The product stopped working after two days,Positive
+R00220,O00661,2025-07-01,1.0,Great packaging but the price is high,Negative
+R00221,O00754,2025-01-28,2.0,Good price and smooth shopping experience,Negative
+R00222,O00921,2026-10-26,4.0,تأخر الشحن أكثر من مرة,Positive
+R00223,O00632,2026-11-10,1.0,خدمة العملاء لم ترد على استفساري,Negative
+R00224,O00613,2025-06-09,4.0,جودة المنتج أقل من المتوقع,Positive
+R00225,O01364,2026-02-05,5.0,تأخر الشحن أكثر من مرة,Positive
+R00226,O00450,2026-03-29,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00227,O00991,2026-10-10,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00228,O00765,2025-06-04,3.0,تجربة شراء سهلة وسريعة,Neutral
+R00229,O00915,2025-12-31,2.0,جودة المنتج أقل من المتوقع,Negative
+R00230,O00889,2026-01-23,5.0,Shipping was delayed again,Positive
+R00231,O00114,2026-10-25,,التغليف ممتاز لكن السعر مرتفع,Positive
+R00232,O00601,2026-05-25,3.0,خدمة العملاء ممتازة,Neutral
+R00233,O00894,2026-09-13,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00234,O00157,2025-09-08,1.0,المنتج لا يعمل بشكل صحيح,Negative
+R00235,O00953,2025-09-09,5.0,تأخر الشحن أكثر من مرة,Positive
+R00236,O00944,2025-06-02,4.0,Product quality was lower than expected,Positive
+R00237,O00036,2025-09-23,3.0,المنتج مطابق للوصف وأنصح فيه,Neutral
+R00238,O00756,2026-05-30,,Great packaging but the price is high,Positive
+R00239,O00966,2025-05-10,4.0,Shipping was delayed again,Positive
+R00240,O00572,2025-04-16,5.0,تأخر الشحن أكثر من مرة,Positive
+R00241,O01306,2026-12-01,3.0,المنتج لا يعمل بشكل صحيح,Neutral
+R00242,O01072,2025-12-16,4.0,Shipping was delayed again,Positive
+R00243,O00467,2025-04-07,2.0,خدمة العملاء ممتازة,Negative
+R00244,O00452,2025-02-01,5.0,The product stopped working after two days,Positive
+R00245,O00835,2026-03-15,3.0,السعر مناسب والتجربة جميلة,Neutral
+R00246,O00887,2025-08-14,4.0,The product stopped working after two days,Positive
+R00247,O01167,2025-05-28,2.0,خدمة العملاء ممتازة,Negative
+R00248,O00694,2025-12-20,3.0,جودة ممتازة وسأكرر الشراء,Neutral
+R00249,O00047,2026-05-16,5.0,The product stopped working after two days,Positive
+R00250,O01322,2025-11-18,5.0,Great packaging but the price is high,Positive
+R00251,O00141,2026-02-25,4.0,تجربة شراء سهلة وسريعة,Positive
+R00252,O00058,2026-08-26,4.0,السعر مناسب والتجربة جميلة,Positive
+R00253,O01331,2026-08-15,3.0,المنتج لا يعمل بشكل صحيح,Neutral
+R00254,O00682,2025-01-23,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00255,O01203,2025-01-06,2.0,Item matches the description,Negative
+R00256,O01385,2026-08-05,2.0,التغليف ممتاز لكن السعر مرتفع,Negative
+R00257,O00563,2025-12-08,4.0,Good price and smooth shopping experience,Positive
+R00258,O00910,2025-02-25,5.0,Good price and smooth shopping experience,Positive
+R00259,O00171,2026-03-04,5.0,Good price and smooth shopping experience,Positive
+R00260,O01254,2025-08-25,4.0,Fast delivery and excellent quality,Positive
+R00261,O00649,2026-08-22,4.0,Customer service was helpful,Positive
+R00262,O00168,2025-10-03,5.0,Product quality was lower than expected,Positive
+R00263,O01148,2025-04-23,2.0,جودة ممتازة وسأكرر الشراء,Negative
+R00264,O01297,2025-01-05,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00265,O00708,2026-05-21,3.0,خدمة العملاء لم ترد على استفساري,Neutral
+R00266,O01304,2026-11-16,5.0,Fast delivery and excellent quality,Positive
+R00267,O00270,2025-12-20,3.0,Item matches the description,Neutral
+R00268,O00263,2025-05-21,4.0,تأخر الشحن أكثر من مرة,Positive
+R00269,O00323,2026-11-03,3.0,التوصيل كان سريع والمنتج ممتاز,Neutral
+R00270,O01062,2026-10-28,3.0,السعر مناسب والتجربة جميلة,Neutral
+R00271,O00821,2026-04-09,2.0,السعر مناسب والتجربة جميلة,Negative
+R00272,O01142,2025-07-17,5.0,خدمة العملاء لم ترد على استفساري,Positive
+R00273,O00772,2025-02-27,5.0,Customer service was helpful,Positive
+R00274,O01087,2026-02-09,3.0,جودة ممتازة وسأكرر الشراء,Neutral
+R00275,O00994,2025-01-13,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00276,O00514,2026-11-19,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00277,O00771,2026-06-17,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00278,O00356,2025-05-22,2.0,Good price and smooth shopping experience,Negative
+R00279,O00709,2025-02-20,1.0,Shipping was delayed again,Negative
+R00280,O01058,2025-10-02,3.0,خدمة العملاء ممتازة,Neutral
+R00281,O01119,2026-07-11,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00282,O01078,2026-04-08,3.0,Great packaging but the price is high,Neutral
+R00283,O01247,2026-06-06,1.0,خدمة العملاء لم ترد على استفساري,Negative
+R00284,O00287,2026-02-20,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00285,O00833,2025-07-31,4.0,المنتج لا يعمل بشكل صحيح,Positive
+R00286,O00369,2025-09-17,5.0,خدمة العملاء ممتازة,Positive
+R00287,O00055,2026-09-06,5.0,تأخر الشحن أكثر من مرة,Positive
+R00288,O01189,2026-03-06,5.0,خدمة العملاء لم ترد على استفساري,Positive
+R00289,O00574,2025-04-27,5.0,Good price and smooth shopping experience,Positive
+R00290,O00383,2026-01-14,3.0,Product quality was lower than expected,Neutral
+R00291,O00541,2025-08-09,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00292,O01096,2025-01-01,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00293,O00716,2025-04-23,3.0,جودة ممتازة وسأكرر الشراء,Neutral
+R00294,O00484,2026-10-20,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00295,O01009,2026-06-21,3.0,Item matches the description,Neutral
+R00296,O01216,2025-02-06,4.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00297,O00914,2025-10-16,2.0,وصل الطلب متأخر والتغليف كان سيئ,Negative
+R00298,O00854,2026-02-20,2.0,تأخر الشحن أكثر من مرة,Negative
+R00299,O01352,2025-08-07,3.0,The order arrived late and packaging was damaged,Neutral
+R00300,O00264,2026-11-02,4.0,تأخر الشحن أكثر من مرة,Positive
+R00301,O00223,2026-05-04,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00302,O00395,2025-02-21,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00303,O00411,2025-04-16,4.0,Shipping was delayed again,Positive
+R00304,O00804,2026-01-26,5.0,جودة المنتج أقل من المتوقع,Positive
+R00305,O01362,2026-04-07,4.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00306,O00016,2026-09-15,2.0,تجربة شراء سهلة وسريعة,Negative
+R00307,O00934,2026-11-04,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00308,O00570,2026-07-27,4.0,The order arrived late and packaging was damaged,Positive
+R00309,O00520,2025-04-16,4.0,جودة المنتج أقل من المتوقع,Positive
+R00310,O00276,2026-02-03,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00311,O00865,2026-03-09,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00312,O00118,2026-01-30,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00313,O00893,2026-06-18,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00314,O00197,2025-03-09,2.0,التوصيل كان سريع والمنتج ممتاز,Negative
+R00315,O01246,2025-01-29,5.0,تأخر الشحن أكثر من مرة,Positive
+R00316,O00940,2025-07-14,3.0,المقاس غير مناسب وأرغب بالاستبدال,Neutral
+R00317,O00767,2026-08-26,4.0,المنتج لا يعمل بشكل صحيح,Positive
+R00318,O01030,2025-06-03,4.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00319,O00257,2025-09-03,4.0,Item matches the description,Positive
+R00320,O01157,2026-06-06,5.0,السعر مناسب والتجربة جميلة,Positive
+R00321,O00376,2026-11-07,4.0,تجربة شراء سهلة وسريعة,Positive
+R00322,O00385,2026-05-09,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00323,O00397,2025-12-05,2.0,خدمة العملاء ممتازة,Negative
+R00324,O01168,2026-03-15,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00325,O00053,2025-01-05,5.0,The order arrived late and packaging was damaged,Positive
+R00326,O00794,2026-06-12,1.0,السعر مناسب والتجربة جميلة,Negative
+R00327,O00988,2026-04-19,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00328,O01269,2026-08-30,4.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00329,O01294,2025-11-21,3.0,المنتج لا يعمل بشكل صحيح,Neutral
+R00330,O01240,2025-03-04,5.0,السعر مناسب والتجربة جميلة,Positive
+R00331,O00789,2026-01-15,5.0,Great packaging but the price is high,Positive
+R00332,O00043,2025-09-02,2.0,تأخر الشحن أكثر من مرة,Negative
+R00333,O00415,2025-07-15,4.0,Fast delivery and excellent quality,Positive
+R00334,O00150,2026-08-01,4.0,Good price and smooth shopping experience,Positive
+R00335,O01149,2025-01-09,5.0,The order arrived late and packaging was damaged,Positive
+R00336,O00109,2025-06-20,4.0,Easy checkout and quick delivery,Positive
+R00337,O00615,2025-04-29,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00338,O00560,2025-05-24,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00339,O01329,2026-10-31,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00340,O00703,2026-09-10,3.0,تجربة شراء سهلة وسريعة,Neutral
+R00341,O00788,2025-05-30,5.0,السعر مناسب والتجربة جميلة,Positive
+R00342,O01194,2025-10-13,5.0,خدمة العملاء ممتازة,Positive
+R00343,O00261,2026-05-16,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00344,O00606,2025-12-24,5.0,Easy checkout and quick delivery,Positive
+R00345,O00322,2026-11-10,5.0,تجربة شراء سهلة وسريعة,Positive
+R00346,O00826,2026-09-26,2.0,Great packaging but the price is high,Negative
+R00347,O01185,2026-11-26,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00348,O01341,2026-01-21,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00349,O00311,2026-02-13,4.0,تجربة شراء سهلة وسريعة,Positive
+R00350,O01083,2025-02-11,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00351,O01181,2026-06-21,5.0,The order arrived late and packaging was damaged,Positive
+R00352,O00427,2025-09-30,3.0,المنتج مطابق للوصف وأنصح فيه,Neutral
+R00353,O00599,2025-06-05,5.0,خدمة العملاء ممتازة,Positive
+R00354,O01387,2026-11-22,5.0,خدمة العملاء لم ترد على استفساري,Positive
+R00355,O00246,2026-04-15,4.0,Good price and smooth shopping experience,Positive
+R00356,O00122,2025-04-01,2.0,جودة ممتازة وسأكرر الشراء,Negative
+R00357,O00090,2026-10-01,3.0,Easy checkout and quick delivery,Neutral
+R00358,O01290,2025-10-19,1.0,وصل الطلب متأخر والتغليف كان سيئ,Negative
+R00359,O00076,2025-04-27,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00360,O00360,2025-04-28,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00361,O00565,2025-04-09,,التغليف ممتاز لكن السعر مرتفع,Negative
+R00362,O00062,2025-06-05,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00363,O00760,2025-05-18,4.0,تأخر الشحن أكثر من مرة,Positive
+R00364,O00815,2025-08-02,4.0,Easy checkout and quick delivery,Positive
+R00365,O00119,2026-09-05,5.0,تأخر الشحن أكثر من مرة,Positive
+R00366,O00879,2025-07-28,5.0,خدمة العملاء ممتازة,Positive
+R00367,O00178,2025-07-31,4.0,جودة المنتج أقل من المتوقع,Positive
+R00368,O01318,2025-04-21,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00369,O00755,2025-04-04,4.0,Great packaging but the price is high,Positive
+R00370,O00926,2026-06-02,3.0,Great packaging but the price is high,Neutral
+R00371,O01043,2026-11-27,5.0,Good price and smooth shopping experience,Positive
+R00372,O00060,2025-08-01,1.0,,Negative
+R00373,O00232,2026-11-05,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00374,O00466,2026-06-15,2.0,التغليف ممتاز لكن السعر مرتفع,Negative
+R00375,O00626,2025-09-28,4.0,Item matches the description,Positive
+R00376,O00522,2026-05-26,5.0,Customer service was helpful,Positive
+R00377,O00135,2025-02-05,1.0,Good price and smooth shopping experience,Negative
+R00378,O00379,2026-02-05,1.0,Product quality was lower than expected,Negative
+R00379,O01210,2026-01-22,3.0,The product stopped working after two days,Neutral
+R00380,O00877,2025-01-25,2.0,المنتج لا يعمل بشكل صحيح,Negative
+R00381,O00457,2025-05-27,3.0,جودة المنتج أقل من المتوقع,Neutral
+R00382,O00956,2026-10-30,4.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00383,O00906,2025-07-22,5.0,The product stopped working after two days,Positive
+R00384,O00624,2026-11-03,5.0,Great packaging but the price is high,Positive
+R00385,O00702,2025-07-25,4.0,Product quality was lower than expected,Positive
+R00386,O00088,2025-02-28,5.0,Item matches the description,Positive
+R00387,O00869,2026-09-02,1.0,جودة المنتج أقل من المتوقع,Negative
+R00388,O01359,2026-06-18,4.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00389,O00678,2025-11-14,5.0,Shipping was delayed again,Positive
+R00390,O00746,2025-06-27,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00391,O00515,2025-10-13,3.0,تأخر الشحن أكثر من مرة,Neutral
+R00392,O00531,2026-09-07,5.0,Item matches the description,Positive
+R00393,O01020,2026-09-29,5.0,Fast delivery and excellent quality,Positive
+R00394,O00527,2025-08-14,5.0,Great packaging but the price is high,Positive
+R00395,O01002,2025-09-06,4.0,Great packaging but the price is high,Positive
+R00396,O00065,2026-10-21,3.0,جودة ممتازة وسأكرر الشراء,Neutral
+R00397,O00166,2025-05-24,5.0,Great packaging but the price is high,Positive
+R00398,O00271,2025-12-24,4.0,Item matches the description,Positive
+R00399,O00959,2026-04-15,3.0,Customer service was helpful,Neutral
+R00400,O01261,2025-01-04,5.0,The order arrived late and packaging was damaged,Positive
+R00401,O00939,2025-04-01,2.0,المنتج لا يعمل بشكل صحيح,Negative
+R00402,O00907,2025-08-06,5.0,The order arrived late and packaging was damaged,Positive
+R00403,O00970,2026-09-20,1.0,وصل الطلب متأخر والتغليف كان سيئ,Negative
+R00404,O01243,2026-09-26,4.0,السعر مناسب والتجربة جميلة,Positive
+R00405,O00414,2026-08-22,2.0,Customer service was helpful,Negative
+R00406,O00501,2026-03-09,2.0,تجربة شراء سهلة وسريعة,Negative
+R00407,O00602,2025-12-31,5.0,Product quality was lower than expected,Positive
+R00408,O00340,2026-05-13,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00409,O01007,2026-06-06,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00410,O00482,2025-05-09,5.0,Shipping was delayed again,Positive
+R00411,O00554,2025-08-10,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00412,O00670,2026-06-23,4.0,The product stopped working after two days,Positive
+R00413,O01253,2026-11-02,1.0,جودة ممتازة وسأكرر الشراء,Negative
+R00414,O00033,2025-06-15,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00415,O00888,2025-06-12,3.0,التغليف ممتاز لكن السعر مرتفع,Neutral
+R00416,O00950,2026-06-12,4.0,Shipping was delayed again,Positive
+R00417,O00899,2025-07-19,1.0,التغليف ممتاز لكن السعر مرتفع,Negative
+R00418,O00498,2026-02-09,2.0,The product stopped working after two days,Negative
+R00419,O00848,2026-07-18,3.0,Item matches the description,Neutral
+R00420,O01266,2026-07-05,5.0,Fast delivery and excellent quality,Positive
+R00421,O00348,2026-08-18,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00422,O00028,2026-07-03,3.0,المنتج لا يعمل بشكل صحيح,Neutral
+R00423,O00078,2026-05-04,4.0,السعر مناسب والتجربة جميلة,Positive
+R00424,O00508,2026-09-10,4.0,Great packaging but the price is high,Positive
+R00425,O01214,2026-07-17,3.0,Shipping was delayed again,Neutral
+R00426,O01140,2026-06-29,4.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00427,O00715,2025-10-25,5.0,تجربة شراء سهلة وسريعة,Positive
+R00428,O00372,2026-02-01,2.0,تأخر الشحن أكثر من مرة,Negative
+R00429,O00562,2026-08-09,4.0,السعر مناسب والتجربة جميلة,Positive
+R00430,O00918,2025-12-27,4.0,The product stopped working after two days,Positive
+R00431,O00885,2026-07-02,5.0,جودة المنتج أقل من المتوقع,Positive
+R00432,O00587,2025-11-12,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00433,O00596,2026-10-30,1.0,التوصيل كان سريع والمنتج ممتاز,Negative
+R00434,O01090,2026-09-10,1.0,خدمة العملاء ممتازة,Negative
+R00435,O00245,2026-10-16,4.0,تجربة شراء سهلة وسريعة,Positive
+R00436,O01121,2026-05-19,4.0,تجربة شراء سهلة وسريعة,Positive
+R00437,O00412,2026-10-04,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00438,O01011,2026-08-27,5.0,جودة المنتج أقل من المتوقع,Positive
+R00439,O01114,2025-06-03,2.0,التوصيل كان سريع والمنتج ممتاز,Negative
+R00440,O00424,2026-06-04,2.0,المقاس غير مناسب وأرغب بالاستبدال,Negative
+R00441,O00533,2025-10-09,1.0,جودة ممتازة وسأكرر الشراء,Negative
+R00442,O01258,2026-02-16,5.0,Item matches the description,Positive
+R00443,O00186,2025-07-05,4.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00444,O00701,2025-08-04,4.0,Shipping was delayed again,Positive
+R00445,O00818,2025-06-22,1.0,Fast delivery and excellent quality,Negative
+R00446,O00782,2026-05-26,5.0,Fast delivery and excellent quality,Positive
+R00447,O01113,2025-09-25,5.0,Great packaging but the price is high,Positive
+R00448,O01095,2026-03-10,5.0,خدمة العملاء لم ترد على استفساري,Positive
+R00449,O00516,2026-04-08,5.0,تجربة شراء سهلة وسريعة,Positive
+R00450,O00274,2026-10-13,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00451,O00121,2025-12-01,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00452,O01226,2026-10-20,5.0,Customer service was helpful,Positive
+R00453,O00968,2026-11-11,4.0,The product stopped working after two days,Positive
+R00454,O00653,2026-11-26,5.0,Easy checkout and quick delivery,Positive
+R00455,O01264,2026-01-25,3.0,تجربة شراء سهلة وسريعة,Neutral
+R00456,O01134,2026-01-06,5.0,Customer service was helpful,Positive
+R00457,O01012,2025-08-13,5.0,خدمة العملاء لم ترد على استفساري,Positive
+R00458,O00961,2026-01-25,2.0,Shipping was delayed again,Negative
+R00459,O00159,2026-11-10,5.0,The product stopped working after two days,Positive
+R00460,O00659,2026-06-11,5.0,خدمة العملاء لم ترد على استفساري,Positive
+R00461,O01163,2026-06-03,5.0,خدمة العملاء ممتازة,Positive
+R00462,O01282,2025-08-23,4.0,The product stopped working after two days,Positive
+R00463,O01193,2026-03-16,5.0,Great packaging but the price is high,Positive
+R00464,O00428,2025-08-10,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00465,O01201,2026-06-15,5.0,السعر مناسب والتجربة جميلة,Positive
+R00466,O00945,2026-11-10,1.0,Easy checkout and quick delivery,Negative
+R00467,O01093,2026-04-28,4.0,تأخر الشحن أكثر من مرة,Positive
+R00468,O00749,2025-10-25,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00469,O00189,2026-02-23,5.0,Item matches the description,Positive
+R00470,O00985,2026-11-04,4.0,Customer service was helpful,Positive
+R00471,O00884,2026-03-17,3.0,The product stopped working after two days,Neutral
+R00472,O00202,2025-02-02,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00473,O00351,2025-11-09,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00474,O01356,2025-02-02,4.0,تأخر الشحن أكثر من مرة,Positive
+R00475,O00437,2026-04-20,3.0,التوصيل كان سريع والمنتج ممتاز,Neutral
+R00476,O00861,2025-07-21,1.0,جودة ممتازة وسأكرر الشراء,Negative
+R00477,O00433,2025-07-20,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00478,O00082,2025-08-21,4.0,Easy checkout and quick delivery,Positive
+R00479,O00644,2026-08-28,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00480,O00404,2025-12-20,5.0,Fast delivery and excellent quality,Positive
+R00481,O00731,2025-01-30,3.0,السعر مناسب والتجربة جميلة,Neutral
+R00482,O00299,2025-12-26,3.0,التوصيل كان سريع والمنتج ممتاز,Neutral
+R00483,O01138,2026-10-14,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00484,O00292,2025-07-09,1.0,Product quality was lower than expected,Negative
+R00485,O00679,2025-12-18,3.0,جودة المنتج أقل من المتوقع,Neutral
+R00486,O00509,2026-04-21,2.0,جودة ممتازة وسأكرر الشراء,Negative
+R00487,O00453,2026-11-20,5.0,The order arrived late and packaging was damaged,Positive
+R00488,O00031,2026-09-28,5.0,The product stopped working after two days,Positive
+R00489,O01345,2025-04-13,,وصل الطلب متأخر والتغليف كان سيئ,Neutral
+R00490,O00244,2026-08-13,5.0,السعر مناسب والتجربة جميلة,Positive
+R00491,O01054,2025-07-09,4.0,Customer service was helpful,Positive
+R00492,O00938,2026-03-21,2.0,Great packaging but the price is high,Negative
+R00493,O00447,2026-11-15,5.0,خدمة العملاء لم ترد على استفساري,Positive
+R00494,O01244,2026-01-08,1.0,تأخر الشحن أكثر من مرة,Negative
+R00495,O00824,2026-11-25,3.0,خدمة العملاء ممتازة,Neutral
+R00496,O01319,2025-03-24,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00497,O01300,2025-02-11,4.0,Product quality was lower than expected,Positive
+R00498,O00203,2025-11-28,4.0,تجربة شراء سهلة وسريعة,Positive
+R00499,O00145,2025-11-08,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00500,O00402,2026-12-02,3.0,تجربة شراء سهلة وسريعة,Neutral
+R00501,O01038,2026-03-04,5.0,السعر مناسب والتجربة جميلة,Positive
+R00502,O00668,2025-04-21,4.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00503,O01268,2025-09-14,3.0,السعر مناسب والتجربة جميلة,Neutral
+R00504,O00637,2026-11-15,5.0,تجربة شراء سهلة وسريعة,Positive
+R00505,O00332,2026-03-10,4.0,Good price and smooth shopping experience,Positive
+R00506,O00757,2025-09-21,5.0,Good price and smooth shopping experience,Positive
+R00507,O00097,2025-01-30,5.0,تأخر الشحن أكثر من مرة,Positive
+R00508,O01137,2026-11-02,2.0,السعر مناسب والتجربة جميلة,Negative
+R00509,O01236,2026-09-29,1.0,Great packaging but the price is high,Negative
+R00510,O00316,2025-03-27,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00511,O00711,2025-08-29,3.0,Item matches the description,Neutral
+R00512,O00136,2025-03-17,3.0,تجربة شراء سهلة وسريعة,Neutral
+R00513,O00499,2025-11-15,5.0,خدمة العملاء لم ترد على استفساري,Positive
+R00514,O01314,2026-09-23,3.0,Shipping was delayed again,Neutral
+R00515,O01056,2025-05-09,2.0,Great packaging but the price is high,Negative
+R00516,O00006,2026-11-24,4.0,Good price and smooth shopping experience,Positive
+R00517,O01291,2025-08-09,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00518,O01059,2026-06-28,5.0,Shipping was delayed again,Positive
+R00519,O00187,2025-11-12,5.0,جودة المنتج أقل من المتوقع,Positive
+R00520,O00192,2026-10-28,5.0,السعر مناسب والتجربة جميلة,Positive
+R00521,O00999,2025-09-06,4.0,المنتج لا يعمل بشكل صحيح,Positive
+R00522,O00603,2026-11-27,1.0,السعر مناسب والتجربة جميلة,Negative
+R00523,O01340,2025-09-01,5.0,خدمة العملاء ممتازة,Positive
+R00524,O00110,2026-01-06,2.0,Easy checkout and quick delivery,Negative
+R00525,O01209,2025-07-09,4.0,جودة المنتج أقل من المتوقع,Positive
+R00526,O01035,2025-12-06,2.0,التوصيل كان سريع والمنتج ممتاز,Negative
+R00527,O00646,2026-10-06,5.0,جودة المنتج أقل من المتوقع,Positive
+R00528,O01227,2025-07-27,4.0,The order arrived late and packaging was damaged,Positive
+R00529,O01218,2026-09-22,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00530,O00335,2025-02-09,2.0,Good price and smooth shopping experience,Negative
+R00531,O00115,2026-08-23,5.0,جودة المنتج أقل من المتوقع,Positive
+R00532,O00267,2025-04-20,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00533,O00844,2026-08-22,2.0,المقاس غير مناسب وأرغب بالاستبدال,Negative
+R00534,O01066,2026-09-12,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00535,O00778,2025-03-07,5.0,The order arrived late and packaging was damaged,Positive
+R00536,O01068,2026-06-06,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00537,O00449,2026-09-22,2.0,التوصيل كان سريع والمنتج ممتاز,Negative
+R00538,O00070,2026-05-16,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00539,O00687,2025-04-11,2.0,وصل الطلب متأخر والتغليف كان سيئ,Negative
+R00540,O00300,2025-03-19,4.0,Easy checkout and quick delivery,Positive
+R00541,O00656,2026-04-17,3.0,تجربة شراء سهلة وسريعة,Neutral
+R00542,O00240,2025-01-28,2.0,المنتج مطابق للوصف وأنصح فيه,Negative
+R00543,O00819,2026-04-08,4.0,تجربة شراء سهلة وسريعة,Positive
+R00544,O00530,2025-12-21,5.0,Item matches the description,Positive
+R00545,O00336,2025-03-24,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00546,O01379,2025-10-08,1.0,التوصيل كان سريع والمنتج ممتاز,Negative
+R00547,O00151,2025-07-01,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00548,O00688,2026-06-18,5.0,تجربة شراء سهلة وسريعة,Positive
+R00549,O00148,2025-02-05,4.0,Customer service was helpful,Positive
+R00550,O00975,2025-02-26,4.0,المنتج لا يعمل بشكل صحيح,Positive
+R00551,O00802,2026-04-09,4.0,Fast delivery and excellent quality,Positive
+R00552,O01241,2025-02-18,3.0,المنتج مطابق للوصف وأنصح فيه,Neutral
+R00553,O00743,2025-07-30,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00554,O00284,2026-11-27,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00555,O00235,2025-05-30,2.0,التغليف ممتاز لكن السعر مرتفع,Negative
+R00556,O01366,2025-04-09,4.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00557,O00177,2026-11-12,5.0,السعر مناسب والتجربة جميلة,Positive
+R00558,O00814,2025-11-18,2.0,وصل الطلب متأخر والتغليف كان سيئ,Negative
+R00559,O00740,2025-03-03,3.0,خدمة العملاء ممتازة,Neutral
+R00560,O00405,2025-01-03,2.0,تأخر الشحن أكثر من مرة,Negative
+R00561,O00039,2025-06-23,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00562,O00933,2026-07-18,3.0,Product quality was lower than expected,Neutral
+R00563,O00798,2026-11-20,5.0,جودة المنتج أقل من المتوقع,Positive
+R00564,O01278,2026-10-15,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00565,O00842,2025-09-01,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00566,O00218,2025-03-30,5.0,Easy checkout and quick delivery,Positive
+R00567,O00139,2026-01-25,5.0,تجربة شراء سهلة وسريعة,Positive
+R00568,O00652,2026-08-30,5.0,Easy checkout and quick delivery,Positive
+R00569,O00221,2025-07-08,4.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00570,O00486,2025-03-24,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00571,O00439,2025-02-21,2.0,Fast delivery and excellent quality,Negative
+R00572,O00898,2026-03-21,4.0,تأخر الشحن أكثر من مرة,Positive
+R00573,O00540,2025-01-29,4.0,Shipping was delayed again,Positive
+R00574,O00146,2025-11-25,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00575,O00700,2026-06-26,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00576,O01025,2026-08-22,2.0,Item matches the description,Negative
+R00577,O00752,2026-10-21,3.0,خدمة العملاء ممتازة,Neutral
+R00578,O01071,2026-03-07,5.0,السعر مناسب والتجربة جميلة,Positive
+R00579,O00512,2025-12-19,4.0,جودة المنتج أقل من المتوقع,Positive
+R00580,O00091,2026-04-10,4.0,جودة المنتج أقل من المتوقع,Positive
+R00581,O00003,2026-04-02,3.0,Product quality was lower than expected,Neutral
+R00582,O00163,2026-11-23,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00583,O00366,2026-03-12,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00584,O00458,2025-05-18,4.0,Great packaging but the price is high,Positive
+R00585,O00283,2026-03-28,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00586,O00326,2026-05-22,4.0,جودة المنتج أقل من المتوقع,Positive
+R00587,O00201,2026-06-22,3.0,خدمة العملاء ممتازة,Neutral
+R00588,O00042,2025-02-17,5.0,السعر مناسب والتجربة جميلة,Positive
+R00589,O00917,2026-11-03,3.0,Customer service was helpful,Neutral
+R00590,O00792,2025-03-12,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00591,O01316,2026-01-26,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00592,O00259,2025-08-12,3.0,المقاس غير مناسب وأرغب بالاستبدال,Neutral
+R00593,O00317,2026-04-14,2.0,جودة المنتج أقل من المتوقع,Negative
+R00594,O01130,2025-06-28,5.0,Product quality was lower than expected,Positive
+R00595,O00684,2025-10-30,4.0,جودة المنتج أقل من المتوقع,Positive
+R00596,O00840,2026-06-29,4.0,The order arrived late and packaging was damaged,Positive
+R00597,O00050,2026-03-02,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00598,O00086,2026-02-02,5.0,تأخر الشحن أكثر من مرة,Positive
+R00599,O00883,2026-02-01,5.0,تجربة شراء سهلة وسريعة,Positive
+R00600,O00958,2025-08-10,5.0,تأخر الشحن أكثر من مرة,Positive
+R00601,O01049,2025-08-25,5.0,خدمة العملاء ممتازة,Positive
+R00602,O00648,2026-05-14,4.0,The order arrived late and packaging was damaged,Positive
+R00603,O00260,2025-08-21,4.0,Product quality was lower than expected,Positive
+R00604,O00496,2026-08-14,5.0,Good price and smooth shopping experience,Positive
+R00605,O00571,2026-09-01,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00606,O01027,2025-03-01,3.0,المنتج مطابق للوصف وأنصح فيه,Neutral
+R00607,O00021,2025-03-07,3.0,خدمة العملاء ممتازة,Neutral
+R00608,O00803,2025-05-29,1.0,جودة المنتج أقل من المتوقع,Negative
+R00609,O00555,2025-06-24,4.0,السعر مناسب والتجربة جميلة,Positive
+R00610,O00750,2025-05-08,3.0,التوصيل كان سريع والمنتج ممتاز,Neutral
+R00611,O00799,2025-04-27,2.0,المنتج مطابق للوصف وأنصح فيه,Negative
+R00612,O01281,2026-02-15,5.0,Easy checkout and quick delivery,Positive
+R00613,O00175,2026-04-04,3.0,خدمة العملاء لم ترد على استفساري,Neutral
+R00614,O00871,2026-06-18,5.0,Item matches the description,Positive
+R00615,O00324,2025-10-19,4.0,تجربة شراء سهلة وسريعة,Positive
+R00616,O00469,2025-02-28,4.0,السعر مناسب والتجربة جميلة,Positive
+R00617,O00143,2025-05-08,2.0,تأخر الشحن أكثر من مرة,Negative
+R00618,O01250,2025-12-10,5.0,The product stopped working after two days,Positive
+R00619,O01174,2025-04-08,4.0,تأخر الشحن أكثر من مرة,Positive
+R00620,O01136,2025-01-10,5.0,تجربة شراء سهلة وسريعة,Positive
+R00621,O00190,2025-11-17,3.0,وصل الطلب متأخر والتغليف كان سيئ,Neutral
+R00622,O00248,2026-02-22,2.0,جودة المنتج أقل من المتوقع,Negative
+R00623,O00290,2026-04-18,3.0,The product stopped working after two days,Neutral
+R00624,O00407,2026-04-05,5.0,Great packaging but the price is high,Positive
+R00625,O00075,2026-09-04,2.0,التغليف ممتاز لكن السعر مرتفع,Negative
+R00626,O00538,2026-07-29,3.0,جودة المنتج أقل من المتوقع,Neutral
+R00627,O00964,2025-08-05,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00628,O00459,2026-10-26,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00629,O01257,2026-06-28,1.0,Good price and smooth shopping experience,Negative
+R00630,O00511,2025-04-27,5.0,Fast delivery and excellent quality,Positive
+R00631,O01333,2026-03-13,4.0,The product stopped working after two days,Positive
+R00632,O00164,2026-12-01,3.0,Product quality was lower than expected,Neutral
+R00633,O00438,2025-07-19,4.0,جودة المنتج أقل من المتوقع,Positive
+R00634,O00063,2025-09-05,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00635,O00129,2025-12-04,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00636,O00642,2025-02-16,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00637,O00446,2025-09-06,5.0,السعر مناسب والتجربة جميلة,Positive
+R00638,O00291,2025-10-30,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00639,O01293,2025-08-19,3.0,التغليف ممتاز لكن السعر مرتفع,Neutral
+R00640,O00730,2025-08-29,5.0,Item matches the description,Positive
+R00641,O00441,2025-05-07,4.0,خدمة العملاء ممتازة,Positive
+R00642,O00912,2025-08-12,5.0,السعر مناسب والتجربة جميلة,Positive
+R00643,O00079,2025-11-26,2.0,The product stopped working after two days,Negative
+R00644,O00663,2025-10-06,2.0,المنتج مطابق للوصف وأنصح فيه,Negative
+R00645,O01370,2025-07-08,5.0,جودة المنتج أقل من المتوقع,Positive
+R00646,O00444,2025-09-18,,Great packaging but the price is high,Positive
+R00647,O00390,2025-04-19,5.0,Good price and smooth shopping experience,Positive
+R00648,O00413,2026-02-20,5.0,Product quality was lower than expected,Positive
+R00649,O00183,2026-02-09,5.0,,Positive
+R00650,O00213,2025-09-22,3.0,وصل الطلب متأخر والتغليف كان سيئ,Neutral
+R00651,O00569,2026-07-23,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00652,O01252,2026-02-03,2.0,التوصيل كان سريع والمنتج ممتاز,Negative
+R00653,O01164,2025-01-09,4.0,Easy checkout and quick delivery,Positive
+R00654,O00936,2026-06-18,4.0,The product stopped working after two days,Positive
+R00655,O00108,2026-09-29,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00656,O00922,2026-11-09,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00657,O01188,2026-04-21,4.0,خدمة العملاء ممتازة,Positive
+R00658,O00780,2025-02-02,5.0,خدمة العملاء لم ترد على استفساري,Positive
+R00659,O00254,2025-06-30,4.0,Easy checkout and quick delivery,Positive
+R00660,O01162,2025-07-12,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00661,O00377,2026-03-05,5.0,جودة المنتج أقل من المتوقع,Positive
+R00662,O01351,2025-07-31,2.0,,Negative
+R00663,O00208,2026-03-16,7.0,تجربة شراء سهلة وسريعة,Positive
+R00664,O00665,2025-05-04,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00665,O00400,2025-01-12,5.0,Good price and smooth shopping experience,Positive
+R00666,O00813,2026-10-29,3.0,السعر مناسب والتجربة جميلة,Neutral
+R00667,O00719,2025-10-04,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00668,O00319,2025-08-24,4.0,Fast delivery and excellent quality,Positive
+R00669,O00891,2025-09-09,4.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00670,O00787,2025-11-12,4.0,Product quality was lower than expected,Positive
+R00671,O00464,2025-04-13,5.0,Customer service was helpful,Positive
+R00672,O01115,2025-06-22,3.0,تأخر الشحن أكثر من مرة,Neutral
+R00673,O01339,2025-10-05,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00674,O01260,2025-10-14,1.0,جودة ممتازة وسأكرر الشراء,Negative
+R00675,O00965,2026-09-08,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00676,O01277,2025-04-04,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00677,O01170,2026-11-05,4.0,المنتج لا يعمل بشكل صحيح,Positive
+R00678,O00002,2025-10-08,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00679,O01036,2025-04-16,4.0,المنتج لا يعمل بشكل صحيح,Positive
+R00680,O00550,2026-07-07,3.0,Product quality was lower than expected,Neutral
+R00681,O00735,2026-04-24,5.0,خدمة العملاء ممتازة,Positive
+R00682,O01144,2025-05-18,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00683,O00920,2026-12-02,5.0,Fast delivery and excellent quality,Positive
+R00684,O00297,2025-07-03,4.0,جودة المنتج أقل من المتوقع,Positive
+R00685,O00683,2025-03-14,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00686,O01034,2025-11-24,3.0,السعر مناسب والتجربة جميلة,Neutral
+R00687,O00440,2026-08-31,5.0,Fast delivery and excellent quality,Positive
+R00688,O00098,2025-06-28,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00689,O00435,2026-03-20,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00690,O00564,2025-06-21,4.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00691,O00341,2026-01-28,3.0,,Neutral
+R00692,O01275,2025-03-08,2.0,Shipping was delayed again,Negative
+R00693,O00173,2025-07-16,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00694,O00816,2025-08-25,5.0,Customer service was helpful,Positive
+R00695,O01179,2026-11-01,7.0,Good price and smooth shopping experience,Negative
+R00696,O00990,2026-01-23,3.0,السعر مناسب والتجربة جميلة,Neutral
+R00697,O00307,2025-07-12,4.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00698,O01018,2025-11-04,3.0,Shipping was delayed again,Neutral
+R00699,O00607,2025-09-01,4.0,تجربة شراء سهلة وسريعة,Positive
+R00700,O00846,2026-06-24,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00701,O00370,2025-02-08,3.0,جودة ممتازة وسأكرر الشراء,Neutral
+R00702,O00250,2025-10-22,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00703,O00645,2025-06-30,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00704,O00856,2026-07-22,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00705,O00011,2025-07-29,4.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00706,O00338,2025-12-22,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00707,O00017,2026-10-11,5.0,Shipping was delayed again,Positive
+R00708,O00375,2026-01-18,5.0,تجربة شراء سهلة وسريعة,Positive
+R00709,O00334,2025-01-09,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00710,O00288,2026-09-12,5.0,Great packaging but the price is high,Positive
+R00711,O00518,2025-08-03,3.0,جودة المنتج أقل من المتوقع,Neutral
+R00712,O00580,2026-04-27,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00713,O00742,2025-05-08,3.0,Shipping was delayed again,Neutral
+R00714,O00500,2025-02-08,3.0,Item matches the description,Neutral
+R00715,O00111,2025-05-20,4.0,تجربة شراء سهلة وسريعة,Positive
+R00716,O00227,2025-10-09,3.0,Item matches the description,Neutral
+R00717,O00902,2026-11-14,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00718,O00619,2026-08-27,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00719,O00993,2025-01-17,3.0,جودة المنتج أقل من المتوقع,Neutral
+R00720,O00762,2026-10-20,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00721,O00061,2025-03-29,4.0,Item matches the description,Positive
+R00722,O00420,2025-03-26,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00723,O00763,2026-06-21,3.0,خدمة العملاء لم ترد على استفساري,Neutral
+R00724,O01394,2026-04-04,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00725,O00281,2026-01-03,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00726,O01092,2026-10-31,3.0,تأخر الشحن أكثر من مرة,Neutral
+R00727,O00144,2026-03-09,5.0,Product quality was lower than expected,Positive
+R00728,O01037,2026-11-10,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00729,O00181,2026-12-01,7.0,خدمة العملاء ممتازة,Positive
+R00730,O00120,2026-01-12,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00731,O01288,2026-08-13,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00732,O01326,2025-10-12,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00733,O00188,2026-02-23,5.0,خدمة العملاء لم ترد على استفساري,Positive
+R00734,O01204,2025-08-23,4.0,خدمة العملاء ممتازة,Positive
+R00735,O01067,2025-09-28,1.0,Shipping was delayed again,Negative
+R00736,O01028,2026-04-28,4.0,Shipping was delayed again,Positive
+R00737,O00776,2025-12-06,4.0,Product quality was lower than expected,Positive
+R00738,O00612,2025-02-04,3.0,The product stopped working after two days,Neutral
+R00739,O01153,2026-11-30,1.0,Shipping was delayed again,Negative
+R00740,O00627,2026-05-18,3.0,السعر مناسب والتجربة جميلة,Neutral
+R00741,O01159,2025-11-05,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00742,O00243,2026-02-26,2.0,The order arrived late and packaging was damaged,Negative
+R00743,O00100,2025-10-22,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00744,O01079,2026-07-27,5.0,Great packaging but the price is high,Positive
+R00745,O01349,2026-06-09,3.0,التوصيل كان سريع والمنتج ممتاز,Neutral
+R00746,O00553,2025-03-28,5.0,جودة المنتج أقل من المتوقع,Positive
+R00747,O00465,2025-05-25,5.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00748,O01131,2025-12-08,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00749,O01081,2025-08-02,4.0,خدمة العملاء ممتازة,Positive
+R00750,O01158,2026-05-31,5.0,Good price and smooth shopping experience,Positive
+R00751,O01368,2026-05-17,5.0,تأخر الشحن أكثر من مرة,Positive
+R00752,O00049,2026-05-02,4.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00753,O00549,2026-03-01,4.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00754,O00795,2025-08-09,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00755,O00059,2026-10-06,3.0,التغليف ممتاز لكن السعر مرتفع,Neutral
+R00756,O00030,2026-09-05,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00757,O00759,2025-08-27,5.0,جودة المنتج أقل من المتوقع,Positive
+R00758,O01367,2025-06-04,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00759,O00236,2026-03-08,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00760,O00556,2025-02-18,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00761,O00310,2026-04-03,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00762,O00185,2026-03-15,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00763,O00692,2026-02-02,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00764,O00176,2025-11-17,4.0,Shipping was delayed again,Positive
+R00765,O00605,2026-07-22,4.0,Item matches the description,Positive
+R00766,O00807,2026-05-23,4.0,تجربة شراء سهلة وسريعة,Positive
+R00767,O00443,2026-01-19,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00768,O00867,2025-09-03,3.0,Shipping was delayed again,Neutral
+R00769,O01276,2025-05-22,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00770,O01124,2026-04-16,4.0,Fast delivery and excellent quality,Positive
+R00771,O00785,2025-09-03,5.0,تجربة شراء سهلة وسريعة,Positive
+R00772,O00374,2026-05-02,4.0,خدمة العملاء ممتازة,Positive
+R00773,O00608,2025-01-24,5.0,Easy checkout and quick delivery,Positive
+R00774,O00380,2025-12-30,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00775,O00493,2025-07-24,4.0,جودة المنتج أقل من المتوقع,Positive
+R00776,O01146,2026-04-28,3.0,The order arrived late and packaging was damaged,Neutral
+R00777,O01195,2026-08-26,1.0,التوصيل كان سريع والمنتج ممتاز,Negative
+R00778,O00919,2025-02-17,5.0,خدمة العملاء ممتازة,Positive
+R00779,O00252,2026-02-23,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00780,O01184,2025-06-03,5.0,خدمة العملاء ممتازة,Positive
+R00781,O01190,2025-12-18,5.0,جودة ممتازة وسأكرر الشراء,Positive
+R00782,O00384,2026-11-04,3.0,وصل الطلب متأخر والتغليف كان سيئ,Neutral
+R00783,O00796,2025-07-04,4.0,Good price and smooth shopping experience,Positive
+R00784,O00834,2026-03-17,5.0,Fast delivery and excellent quality,Positive
+R00785,O00773,2025-02-07,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00786,O00623,2026-08-08,5.0,Product quality was lower than expected,Positive
+R00787,O00046,2025-09-09,1.0,Item matches the description,Negative
+R00788,O00217,2026-11-13,5.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00789,O00154,2026-09-07,2.0,Item matches the description,Negative
+R00790,O00104,2026-08-29,4.0,The product stopped working after two days,Positive
+R00791,O00410,2025-03-30,5.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00792,O00432,2026-05-30,5.0,تجربة شراء سهلة وسريعة,Positive
+R00793,O01143,2025-10-11,5.0,جودة المنتج أقل من المتوقع,Positive
+R00794,O00009,2025-11-10,3.0,التغليف ممتاز لكن السعر مرتفع,Neutral
+R00795,O00769,2026-06-07,5.0,Great packaging but the price is high,Positive
+R00796,O00022,2026-11-16,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00797,O00783,2026-08-21,4.0,المقاس غير مناسب وأرغب بالاستبدال,Positive
+R00798,O01358,2026-01-28,5.0,السعر مناسب والتجربة جميلة,Positive
+R00799,O00113,2025-01-17,5.0,Good price and smooth shopping experience,Positive
+R00800,O00717,2025-12-18,4.0,Item matches the description,Positive
+R00801,O00497,2026-06-24,4.0,Product quality was lower than expected,Positive
+R00802,O00296,2025-06-18,3.0,The order arrived late and packaging was damaged,Neutral
+R00803,O00791,2025-07-04,1.0,السعر مناسب والتجربة جميلة,Negative
+R00804,O00194,2025-10-20,4.0,The product stopped working after two days,Positive
+R00805,O00650,2026-05-08,3.0,Item matches the description,Neutral
+R00806,O01080,2025-06-28,4.0,Product quality was lower than expected,Positive
+R00807,O00489,2025-12-30,3.0,جودة المنتج أقل من المتوقع,Neutral
+R00808,O01382,2026-01-21,4.0,تجربة شراء سهلة وسريعة,Positive
+R00809,O00012,2025-09-07,3.0,المنتج مطابق للوصف وأنصح فيه,Neutral
+R00810,O01350,2025-09-17,5.0,خدمة العملاء لم ترد على استفساري,Positive
+R00811,O00962,2025-06-21,4.0,خدمة العملاء ممتازة,Positive
+R00812,O00859,2025-05-12,5.0,المنتج لا يعمل بشكل صحيح,Positive
+R00813,O01375,2025-10-16,4.0,خدمة العملاء لم ترد على استفساري,Positive
+R00814,O01109,2025-06-20,5.0,The order arrived late and packaging was damaged,Positive
+R00815,O00431,2026-05-08,5.0,The product stopped working after two days,Positive
+R00816,O01120,2026-07-05,5.0,Great packaging but the price is high,Positive
+R00817,O00545,2026-05-24,4.0,جودة المنتج أقل من المتوقع,Positive
+R00818,O00169,2025-07-28,3.0,Product quality was lower than expected,Neutral
+R00819,O00737,2025-07-12,4.0,المنتج لا يعمل بشكل صحيح,Positive
+R00820,O00806,2025-07-20,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00821,O00809,2026-07-02,5.0,The product stopped working after two days,Positive
+R00822,O00594,2026-09-29,3.0,Shipping was delayed again,Neutral
+R00823,O00241,2025-06-21,4.0,Easy checkout and quick delivery,Positive
+R00824,O00577,2025-12-02,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00825,O00023,2025-03-01,5.0,Shipping was delayed again,Positive
+R00826,O00588,2026-11-25,3.0,Product quality was lower than expected,Neutral
+R00827,O00829,2026-07-22,5.0,The product stopped working after two days,Positive
+R00828,O00881,2026-06-16,4.0,Product quality was lower than expected,Positive
+R00829,O00672,2025-12-20,4.0,Good price and smooth shopping experience,Positive
+R00830,O00610,2025-07-30,3.0,Product quality was lower than expected,Neutral
+R00831,O00430,2025-11-15,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00832,O01347,2025-02-12,2.0,The order arrived late and packaging was damaged,Negative
+R00833,O00331,2025-03-08,5.0,Great packaging but the price is high,Positive
+R00834,O00084,2025-05-11,3.0,Good price and smooth shopping experience,Neutral
+R00835,O00935,2025-06-10,3.0,المنتج مطابق للوصف وأنصح فيه,Neutral
+R00836,O00595,2026-08-12,5.0,وصل الطلب متأخر والتغليف كان سيئ,Positive
+R00837,O00234,2025-02-23,5.0,,Positive
+R00838,O01388,2026-06-12,3.0,تجربة شراء سهلة وسريعة,Neutral
+R00839,O00147,2025-10-30,5.0,جودة المنتج أقل من المتوقع,Positive
+R00840,O01132,2026-02-16,3.0,وصل الطلب متأخر والتغليف كان سيئ,Neutral
+R00841,O00454,2026-10-19,2.0,وصل الطلب متأخر والتغليف كان سيئ,Negative
+R00842,O00306,2025-03-06,5.0,التوصيل كان سريع والمنتج ممتاز,Positive
+R00843,O01108,2025-11-11,3.0,تجربة شراء سهلة وسريعة,Neutral
+R00844,O01084,2025-04-01,4.0,Product quality was lower than expected,Positive
+R00845,O00080,2026-09-24,5.0,Great packaging but the price is high,Positive
+R00846,O00852,2026-07-17,4.0,جودة ممتازة وسأكرر الشراء,Positive
+R00847,O00739,2026-04-13,3.0,خدمة العملاء لم ترد على استفساري,Neutral
+R00848,O00025,2025-11-09,4.0,خدمة العملاء ممتازة,Positive
+R00849,O00710,2026-07-26,2.0,Good price and smooth shopping experience,Negative
+R00850,O00455,2025-04-11,4.0,المنتج مطابق للوصف وأنصح فيه,Positive
+R00096,O00573,2026-01-25,4.0,التغليف ممتاز لكن السعر مرتفع,Positive
+R00577,O00752,2026-10-21,3.0,خدمة العملاء ممتازة,Neutral
+R00484,O00292,2025-07-09,1.0,Product quality was lower than expected,Negative
+R00637,O99999,2025-09-06,5.0,السعر مناسب والتجربة جميلة,Positive

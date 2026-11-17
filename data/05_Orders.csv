@@ -1,0 +1,1401 @@
+﻿order_id,customer_id,order_date,sales_channel,order_status,payment_method,campaign,warehouse_id,delivery_days
+O00001,C0116,2026-07-05 17:10:00,Mobile App,Cancelled,Mada,National Day,W05,
+O00002,C0188,2026-07-10 09:48:00,Mobile App,Delivered,Mada,None,W02,5.0
+O00003,C0416,2026-08-26 19:55:00,Mobile App,Delivered,Apple Pay,National Day,W02,4.0
+O00004,C0137,2026-06-11 11:08:00,Mobile App,Processing,Card,Back to School,W02,2.0
+O00005,C0432,2026-02-07 23:09:00,Website,Delivered,Mada,White Friday,W04,2.0
+O00006,C0233,2026-05-15 18:37:00,Mobile App,Delivered,Card,New Customer,W04,6.0
+O00007,C0296,2025-05-14 23:50:00,Mobile App,Delivered,Card,None,W01,8.0
+O00008,C0491,2026-03-15 14:44:00,Store,Returned,Cash on Delivery,Ramadan Sale,W03,2.0
+O00009,C0157,2025-08-28 21:41:00,Website,Delivered,Apple Pay,White Friday,W01,3.0
+O00010,C0441,2026-03-09 12:30:00,Website,Delivered,Card,None,W03,6.0
+O00011,C0313,2026-10-28 13:28:00,Website,Delivered,Apple Pay,White Friday,W05,8.0
+O00012,C0142,2026-10-23 10:15:00,Mobile App,Delivered,STC Pay,Back to School,W01,5.0
+O00013,C0152,2026-10-24 09:50:00,Store,Returned,Mada,White Friday,W01,4.0
+O00014,C0068,2026-02-01 21:23:00,Website,Delivered,Mada,None,W01,2.0
+O00015,C0405,2026-02-12 17:40:00,Mobile App,Delivered,Mada,New Customer,W04,2.0
+O00016,C0499,2025-06-09 18:25:00,Mobile App,Delivered,Card,Back to School,W04,4.0
+O00017,C0314,2026-09-16 09:19:00,Mobile App,Delivered,Apple Pay,None,W01,3.0
+O00018,C0086,2026-01-16 12:47:00,Website,Cancelled,Card,None,W03,
+O00019,C0440,2026-08-04 13:23:00,Mobile App,Delivered,STC Pay,New Customer,W01,4.0
+O00020,C0472,2025-06-03 13:59:00,Website,Processing,Mada,Ramadan Sale,W03,2.0
+O00021,C0293,2026-01-17 11:32:00,Website,Delivered,Apple Pay,National Day,W01,7.0
+O00022,C0160,2025-12-02 10:35:00,Website,Delivered,Cash on Delivery,National Day,W03,4.0
+O00023,C0408,2025-09-09 12:00:00,Website,Returned,STC Pay,Back to School,W01,6.0
+O00024,C0158,2025-04-17 14:33:00,Website,Processing,Card,Ramadan Sale,W03,1.0
+O00025,C0359,2026-01-17 22:47:00,Website,Delivered,Apple Pay,New Customer,W04,2.0
+O00026,C0475,2026-02-07 18:20:00,Website,Delivered,Apple Pay,Ramadan Sale,W05,2.0
+O00027,C0062,2026-07-03 19:49:00,Website,Delivered,Cash on Delivery,None,W01,3.0
+O00028,C0183,2026-02-10 09:43:00,Mobile App,Delivered,Apple Pay,None,W04,8.0
+O00029,C0032,2025-08-16 12:12:00,Website,Cancelled,Card,National Day,W05,
+O00030,C0102,2026-10-24 22:51:00,Store,Delivered,Cash on Delivery,None,W01,8.0
+O00031,C0255,2025-01-31 20:43:00,Website,Delivered,Apple Pay,Back to School,W03,8.0
+O00032,C0215,2025-07-24 15:40:00,Mobile App,Processing,Card,White Friday,W03,4.0
+O00033,C0164,2026-09-04 15:01:00,Mobile App,Returned,Card,White Friday,W05,6.0
+O00034,C0470,2025-02-27 15:36:00,Mobile App,Cancelled,Cash on Delivery,Ramadan Sale,W02,
+O00035,C0468,2026-08-29 08:45:00,Store,Delivered,STC Pay,Ramadan Sale,W05,4.0
+O00036,C0001,2025-12-06 14:51:00,Mobile App,Delivered,Cash on Delivery,None,W01,3.0
+O00037,C0361,2026-11-10 20:37:00,Website,Delivered,Apple Pay,Ramadan Sale,W04,8.0
+O00038,C0115,2026-08-27 13:24:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W01,7.0
+O00039,C0255,2025-05-25 18:47:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W01,6.0
+O00040,C0001,2025-02-19 20:28:00,Store,Delivered,Mada,White Friday,W04,6.0
+O00041,C0084,2026-04-08 10:51:00,Website,Cancelled,Cash on Delivery,Back to School,W01,
+O00042,C0039,2026-07-15 10:21:00,Mobile App,Delivered,Mada,New Customer,W01,7.0
+O00043,C0374,2026-07-08 16:42:00,Website,Delivered,Card,White Friday,W05,8.0
+O00044,C0422,2026-11-09 23:12:00,Website,Delivered,Cash on Delivery,None,W04,2.0
+O00045,C0136,2025-04-04 20:11:00,Website,Delivered,Apple Pay,White Friday,W01,5.0
+O00046,C0050,2025-03-29 19:51:00,Store,Delivered,STC Pay,Ramadan Sale,W05,1.0
+O00047,C0203,2025-02-05 12:07:00,Website,Returned,Apple Pay,Ramadan Sale,W02,3.0
+O00048,C0422,2026-10-05 12:53:00,Website,Delivered,Card,None,W04,7.0
+O00049,C0268,2026-03-06 11:26:00,Mobile App,Delivered,STC Pay,None,W01,2.0
+O00050,C0317,2026-09-16 20:02:00,Store,Delivered,Apple Pay,None,W04,5.0
+O00051,C0117,2025-05-18 17:47:00,Mobile App,Delivered,Cash on Delivery,New Customer,W04,2.0
+O00052,C0249,2026-06-13 19:52:00,Mobile App,Delivered,Card,Back to School,W05,7.0
+O00053,C0099,2025-07-25 09:15:00,Website,Delivered,Cash on Delivery,New Customer,W02,5.0
+O00054,C0064,2025-02-01 15:23:00,Website,Delivered,Mada,National Day,W05,6.0
+O00055,C0353,2025-04-03 17:01:00,Website,Delivered,STC Pay,Ramadan Sale,W02,4.0
+O00056,C0005,2026-05-01 12:41:00,Mobile App,Delivered,Apple Pay,Back to School,W05,5.0
+O00057,C0112,2026-04-23 17:43:00,Mobile App,Delivered,STC Pay,None,W01,6.0
+O00058,C0328,2025-11-29 16:16:00,Store,Delivered,Cash on Delivery,Ramadan Sale,W02,4.0
+O00059,C0215,2026-02-19 20:47:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W03,4.0
+O00060,C0088,2026-11-05 13:18:00,Website,Delivered,Cash on Delivery,New Customer,W05,3.0
+O00061,C0300,2025-10-29 22:54:00,Website,Delivered,STC Pay,National Day,W05,2.0
+O00062,C0446,2025-06-04 12:12:00,Store,Delivered,Mada,Ramadan Sale,W03,3.0
+O00063,C0141,2025-08-03 13:36:00,Mobile App,Delivered,Card,Ramadan Sale,W05,7.0
+O00064,C0192,2025-01-15 18:48:00,Website,Cancelled,Card,New Customer,W02,
+O00065,C0258,2026-08-26 17:10:00,Website,Delivered,Cash on Delivery,White Friday,W05,6.0
+O00066,C0486,2026-02-18 08:14:00,Store,Delivered,Apple Pay,New Customer,W01,3.0
+O00067,C0449,2026-10-18 16:49:00,Website,Delivered,Card,New Customer,W01,1.0
+O00068,C0281,2025-09-16 23:44:00,Mobile App,Delivered,Card,Back to School,W04,2.0
+O00069,C0369,2026-09-25 11:18:00,Website,Delivered,Apple Pay,National Day,W02,5.0
+O00070,C0121,2025-01-03 08:42:00,Website,Delivered,STC Pay,New Customer,W04,3.0
+O00071,C0238,2025-02-21 11:52:00,Website,Delivered,Cash on Delivery,Back to School,W03,7.0
+O00072,C0169,2026-01-02 22:39:00,Mobile App,Delivered,Cash on Delivery,Back to School,W02,2.0
+O00073,C0436,2026-05-05 21:41:00,Website,Returned,Apple Pay,New Customer,W01,3.0
+O00074,C0225,2025-07-05 20:49:00,Website,Delivered,Apple Pay,White Friday,W04,2.0
+O00075,C0290,2025-08-18 18:33:00,Mobile App,Delivered,Card,White Friday,W02,8.0
+O00076,C0424,2026-07-26 09:00:00,Website,Delivered,Mada,White Friday,W02,2.0
+O00077,C0194,2026-02-17 15:05:00,Mobile App,Delivered,Mada,None,W04,8.0
+O00078,C0207,2026-02-27 09:35:00,Mobile App,Delivered,STC Pay,National Day,W03,4.0
+O00079,C0287,2026-09-27 23:45:00,Mobile App,Delivered,Card,None,W02,1.0
+O00080,C0281,2026-06-19 19:44:00,Store,Delivered,Mada,Ramadan Sale,W04,2.0
+O00081,C0202,2025-08-09 22:52:00,Mobile App,Cancelled,Card,White Friday,W01,
+O00082,C0003,2026-06-28 09:35:00,Mobile App,Returned,Mada,National Day,W02,3.0
+O00083,C0197,2026-03-05 15:17:00,Website,Delivered,Cash on Delivery,White Friday,W02,3.0
+O00084,C0432,2026-07-15 18:45:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W02,5.0
+O00085,C0356,2026-10-15 18:45:00,Website,Delivered,Mada,National Day,W05,7.0
+O00086,C0013,2026-01-26 12:03:00,Website,Delivered,Apple Pay,Back to School,W03,3.0
+O00087,C0288,2025-08-18 20:15:00,Mobile App,Delivered,Cash on Delivery,New Customer,W01,7.0
+O00088,C0283,2025-02-25 08:47:00,Mobile App,Delivered,Mada,Ramadan Sale,W03,4.0
+O00089,C0377,2026-06-11 11:24:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W02,5.0
+O00090,C0079,2025-11-27 09:49:00,Mobile App,Returned,Cash on Delivery,White Friday,W05,6.0
+O00091,C0095,2026-06-18 10:50:00,Website,Delivered,STC Pay,White Friday,W01,6.0
+O00092,C0151,2025-08-12 23:35:00,Store,Cancelled,Card,None,W03,
+O00093,C0196,2025-04-27 20:16:00,Website,Delivered,STC Pay,Back to School,W05,8.0
+O00094,,2026-07-05 08:40:00,Mobile App,Delivered,Apple Pay,New Customer,W04,2.0
+O00095,C0397,2026-03-22 10:47:00,Website,Delivered,Cash on Delivery,None,W01,2.0
+O00096,C0421,2025-08-22 16:26:00,Mobile App,Delivered,Mada,Back to School,W01,7.0
+O00097,C0359,2025-03-16 19:59:00,Website,Delivered,Cash on Delivery,National Day,W01,5.0
+O00098,C0070,2026-02-05 17:40:00,Mobile App,Delivered,Cash on Delivery,None,W05,3.0
+O00099,C0281,2025-03-29 17:13:00,Store,Delivered,Cash on Delivery,Ramadan Sale,W04,3.0
+O00100,C0059,2025-07-05 09:54:00,Store,Delivered,STC Pay,White Friday,W05,2.0
+O00101,C0298,2026-05-14 18:22:00,Mobile App,Delivered,Card,Back to School,W05,2.0
+O00102,C0491,2026-03-15 13:00:00,Mobile App,Delivered,Mada,Back to School,W03,3.0
+O00103,C0090,2026-10-24 10:53:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W03,2.0
+O00104,C0109,2025-02-07 16:34:00,Mobile App,Returned,Apple Pay,Back to School,W04,4.0
+O00105,C0494,2026-09-21 13:48:00,Website,Delivered,Apple Pay,National Day,W05,3.0
+O00106,C0120,2025-02-13 14:33:00,Website,Returned,Mada,White Friday,W01,1.0
+O00107,C0460,2025-03-21 16:24:00,Website,Processing,Mada,Back to School,W03,4.0
+O00108,C0081,2026-01-06 11:42:00,Mobile App,Delivered,Card,White Friday,W04,8.0
+O00109,C0125,2025-02-14 12:36:00,Website,Delivered,STC Pay,None,W05,3.0
+O00110,C0208,2026-09-06 08:56:00,Mobile App,Delivered,Cash on Delivery,None,W02,8.0
+O00111,C0393,2025-07-06 16:10:00,Website,Delivered,Mada,National Day,W05,2.0
+O00112,C0268,2026-06-01 21:52:00,Website,Delivered,Mada,National Day,W05,1.0
+O00113,C0397,2026-10-27 21:33:00,Store,Delivered,STC Pay,White Friday,W02,8.0
+O00114,C0393,2025-08-27 10:18:00,Mobile App,Delivered,Cash on Delivery,Ramadan Sale,W01,1.0
+O00115,C0186,2025-04-20 12:27:00,Website,Delivered,STC Pay,White Friday,W05,6.0
+O00116,C0190,2026-07-27 23:16:00,Mobile App,Processing,Mada,New Customer,W02,1.0
+O00117,C0174,2026-07-18 09:10:00,Mobile App,Delivered,Card,Ramadan Sale,W04,7.0
+O00118,C0020,2026-01-29 20:39:00,Website,Delivered,STC Pay,None,W02,8.0
+O00119,C0262,2026-06-13 15:39:00,Website,Delivered,Apple Pay,New Customer,W01,3.0
+O00120,C0203,2026-02-20 14:33:00,Mobile App,Delivered,Card,National Day,W03,6.0
+O00121,C0100,2026-04-11 20:36:00,Website,Delivered,STC Pay,None,W05,2.0
+O00122,C0295,2025-09-14 22:24:00,Mobile App,Delivered,Cash on Delivery,White Friday,W04,1.0
+O00123,C0410,2025-11-20 21:22:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W03,2.0
+O00124,C0477,2025-07-02 23:20:00,Store,Delivered,Cash on Delivery,Ramadan Sale,W02,8.0
+O00125,C0429,2026-09-26 19:09:00,Website,Delivered,Card,New Customer,W04,1.0
+O00126,C0452,2026-08-12 16:31:00,Mobile App,Delivered,STC Pay,Back to School,W04,4.0
+O00127,C0178,2026-02-08 13:29:00,Mobile App,Processing,Mada,Back to School,W01,1.0
+O00128,C0135,2025-08-31 16:30:00,Website,Processing,Apple Pay,White Friday,W04,2.0
+O00129,C0144,2026-04-07 13:36:00,Mobile App,Delivered,Apple Pay,None,W03,4.0
+O00130,C0091,2026-03-08 23:08:00,Mobile App,Processing,STC Pay,National Day,W03,4.0
+O00131,C0051,2025-06-17 09:13:00,Mobile App,Cancelled,Card,White Friday,W03,
+O00132,C0132,2025-12-19 08:26:00,Store,Delivered,STC Pay,Ramadan Sale,W05,3.0
+O00133,C0328,2025-12-12 21:40:00,Website,Delivered,Card,None,W02,6.0
+O00134,C0310,2026-10-23 20:17:00,Mobile App,Returned,Cash on Delivery,New Customer,W05,8.0
+O00135,C0121,2026-11-09 16:47:00,Website,Delivered,Apple Pay,White Friday,W01,2.0
+O00136,C0204,2026-06-21 10:06:00,Website,Delivered,Mada,Back to School,W02,4.0
+O00137,C0183,2025-11-30 23:29:00,Mobile App,Processing,Cash on Delivery,National Day,W04,2.0
+O00138,C0277,2025-08-21 10:28:00,Website,Delivered,Apple Pay,Back to School,W01,1.0
+O00139,C0485,2026-05-04 17:00:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W01,6.0
+O00140,C0367,2026-10-24 20:53:00,Website,Delivered,Mada,New Customer,W02,5.0
+O00141,C0097,2025-03-12 13:08:00,Mobile App,Delivered,STC Pay,White Friday,W03,8.0
+O00142,C0012,2025-07-10 11:18:00,Mobile App,Delivered,Card,Ramadan Sale,W01,3.0
+O00143,C0410,2026-05-26 19:29:00,Website,Delivered,Card,Ramadan Sale,W01,5.0
+O00144,C0425,2025-01-13 11:49:00,Website,Delivered,Mada,Ramadan Sale,W01,4.0
+O00145,C0160,2025-11-27 13:40:00,Mobile App,Delivered,STC Pay,National Day,W01,5.0
+O00146,C0121,2026-10-11 21:20:00,Mobile App,Delivered,STC Pay,None,W04,4.0
+O00147,C0353,2026-09-03 12:23:00,Website,Delivered,Mada,None,W05,6.0
+O00148,C0286,2026-10-23 19:51:00,Mobile App,Returned,Card,New Customer,W04,6.0
+O00149,C0098,2026-08-04 13:34:00,Mobile App,Delivered,Cash on Delivery,National Day,W05,3.0
+O00150,C0278,2026-01-11 22:00:00,Mobile App,Delivered,Apple Pay,None,W05,6.0
+O00151,C0269,2026-05-25 12:39:00,Website,Delivered,Cash on Delivery,None,W01,2.0
+O00152,C0055,2026-05-13 14:06:00,Mobile App,Delivered,Mada,New Customer,W04,5.0
+O00153,C0477,2025-08-02 23:59:00,Website,Returned,Card,Back to School,W05,7.0
+O00154,C0492,2026-06-16 11:06:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W05,4.0
+O00155,C0184,2026-04-15 21:56:00,Mobile App,Delivered,STC Pay,White Friday,W05,6.0
+O00156,C0167,2026-01-16 21:48:00,Mobile App,Delivered,Cash on Delivery,National Day,W02,4.0
+O00157,C0493,2026-04-09 22:25:00,Website,Delivered,Cash on Delivery,National Day,W01,3.0
+O00158,C0080,2025-04-07 09:29:00,Website,Delivered,Cash on Delivery,National Day,W02,4.0
+O00159,C0470,2025-08-11 10:46:00,Mobile App,Delivered,Mada,New Customer,W05,2.0
+O00160,C0395,2025-12-09 19:56:00,Website,Cancelled,Card,Ramadan Sale,W05,
+O00161,C0079,2025-02-21 20:28:00,Mobile App,Delivered,Card,Ramadan Sale,W04,5.0
+O00162,C0358,2025-05-14 12:30:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W05,4.0
+O00163,C0474,2026-08-13 10:07:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W03,6.0
+O00164,C0227,2026-10-01 12:28:00,Mobile App,Delivered,Apple Pay,New Customer,W03,3.0
+O00165,C0427,2025-10-22 08:21:00,Website,Delivered,Mada,White Friday,W01,6.0
+O00166,C0385,2025-09-22 23:39:00,Website,Delivered,Card,White Friday,W05,1.0
+O00167,C0317,2025-10-05 09:29:00,Website,Delivered,Mada,New Customer,W03,6.0
+O00168,C0306,2026-06-29 10:11:00,Store,Delivered,STC Pay,New Customer,W01,1.0
+O00169,C0382,2025-06-10 08:22:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W05,5.0
+O00170,C0460,2026-02-07 12:05:00,Mobile App,Delivered,STC Pay,New Customer,W02,7.0
+O00171,C0310,2025-12-04 22:34:00,Mobile App,Delivered,STC Pay,National Day,W02,3.0
+O00172,C0221,2025-05-29 13:20:00,Mobile App,Delivered,Card,Ramadan Sale,W03,3.0
+O00173,C0479,2026-10-15 16:09:00,Website,Delivered,Apple Pay,None,W05,5.0
+O00174,C0400,2026-05-04 12:32:00,Mobile App,Cancelled,Cash on Delivery,Ramadan Sale,W04,
+O00175,C0139,2026-02-27 15:47:00,Website,Delivered,Apple Pay,None,W02,8.0
+O00176,C0369,2025-11-17 20:39:00,Mobile App,Returned,STC Pay,National Day,W01,2.0
+O00177,C0021,2026-07-26 20:33:00,Store,Delivered,Apple Pay,Back to School,W04,7.0
+O00178,C0425,2026-10-24 22:05:00,Website,Delivered,STC Pay,New Customer,W05,3.0
+O00179,C0303,2025-07-26 22:05:00,Mobile App,Delivered,Apple Pay,New Customer,W01,2.0
+O00180,C0363,2026-01-29 13:24:00,Website,Delivered,Apple Pay,Back to School,W05,3.0
+O00181,C0215,2025-11-12 17:46:00,Website,Delivered,Apple Pay,None,W02,4.0
+O00182,C0438,2026-05-26 08:38:00,Website,Returned,STC Pay,New Customer,W04,8.0
+O00183,C0452,2026-07-15 16:39:00,Mobile App,Delivered,Apple Pay,None,W02,3.0
+O00184,C0342,2026-08-15 17:21:00,Website,Returned,Mada,Ramadan Sale,W02,5.0
+O00185,C0185,2025-02-06 10:49:00,Website,Delivered,Mada,None,W04,2.0
+O00186,C0169,2026-06-24 21:33:00,Website,Delivered,Card,None,W05,2.0
+O00187,C0163,2025-09-23 19:59:00,Mobile App,Delivered,STC Pay,New Customer,W04,8.0
+O00188,C0107,2026-09-23 21:26:00,Website,Delivered,Apple Pay,None,W02,5.0
+O00189,C0166,2025-01-07 11:43:00,Website,Delivered,STC Pay,National Day,W01,3.0
+O00190,C0470,2026-05-01 09:41:00,Website,Delivered,Mada,National Day,W03,8.0
+O00191,C0351,2025-12-06 19:04:00,Website,Processing,Card,Back to School,W04,5.0
+O00192,C0140,2026-02-28 10:31:00,Website,Returned,Cash on Delivery,Ramadan Sale,W05,5.0
+O00193,C0468,2025-04-05 22:32:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W02,6.0
+O00194,C0068,2025-07-30 09:29:00,Store,Delivered,Card,None,W03,1.0
+O00195,C0382,2025-11-16 08:36:00,Mobile App,Delivered,Apple Pay,Back to School,W02,4.0
+O00196,C0061,2025-10-07 12:10:00,Website,Delivered,STC Pay,National Day,W05,2.0
+O00197,C0483,2025-10-18 15:10:00,Mobile App,Delivered,Cash on Delivery,National Day,W04,1.0
+O00198,C0197,2025-02-25 10:27:00,Mobile App,Delivered,STC Pay,New Customer,W04,6.0
+O00199,C0415,2026-07-01 10:59:00,Mobile App,Delivered,Apple Pay,None,W04,2.0
+O00200,C0441,2026-09-24 16:58:00,Website,Delivered,Cash on Delivery,Back to School,W04,8.0
+O00201,C0434,2025-06-24 17:49:00,Mobile App,Delivered,STC Pay,None,W04,2.0
+O00202,C0237,2026-02-15 21:15:00,Mobile App,Delivered,Mada,White Friday,W01,6.0
+O00203,C0223,2026-08-04 18:34:00,Website,Delivered,Card,New Customer,W05,8.0
+O00204,C0421,2026-04-01 13:19:00,Website,Processing,Card,New Customer,W05,4.0
+O00205,C0419,2025-05-23 08:48:00,Website,Delivered,STC Pay,Back to School,W04,8.0
+O00206,C0407,2025-11-08 21:45:00,Website,Processing,Card,National Day,W01,5.0
+O00207,C0121,2026-03-19 20:40:00,Website,Delivered,Mada,White Friday,W05,4.0
+O00208,C0079,2025-10-23 12:08:00,Mobile App,Delivered,Apple Pay,New Customer,W04,7.0
+O00209,C0231,2026-01-29 19:14:00,Mobile App,Delivered,STC Pay,White Friday,W02,5.0
+O00210,C0020,2026-08-05 23:45:00,Mobile App,Delivered,Card,Ramadan Sale,W05,5.0
+O00211,C0492,2025-03-21 17:39:00,Website,Delivered,Card,White Friday,W04,8.0
+O00212,C0356,2026-09-04 17:46:00,Website,Cancelled,Mada,National Day,W02,
+O00213,C0259,2025-03-20 16:16:00,Website,Delivered,Cash on Delivery,None,W01,3.0
+O00214,C0442,2025-02-03 18:05:00,Mobile App,Processing,Apple Pay,White Friday,W04,4.0
+O00215,C0296,2025-12-20 09:41:00,Mobile App,Delivered,Card,Ramadan Sale,W04,7.0
+O00216,C0200,2026-05-01 16:09:00,Website,Delivered,Cash on Delivery,White Friday,W04,6.0
+O00217,C0336,2026-08-22 20:29:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W05,6.0
+O00218,C0051,2026-06-22 11:43:00,Website,Delivered,Cash on Delivery,Back to School,W02,1.0
+O00219,C0458,2025-08-11 11:45:00,Website,Processing,STC Pay,Ramadan Sale,W04,5.0
+O00220,C0394,2026-03-14 18:16:00,Website,Delivered,Card,White Friday,W04,6.0
+O00221,C0315,2026-10-21 11:58:00,Website,Delivered,Card,None,W01,5.0
+O00222,C0137,2025-06-05 18:57:00,Website,Delivered,Mada,White Friday,W04,7.0
+O00223,C0479,2026-01-03 18:43:00,Website,Delivered,Card,Back to School,W05,6.0
+O00224,C0104,2025-06-30 09:24:00,Website,Delivered,Mada,None,W03,8.0
+O00225,C0019,2025-07-17 08:46:00,Website,Processing,Mada,None,W05,3.0
+O00226,C0404,2025-02-13 20:07:00,Mobile App,Delivered,STC Pay,White Friday,W05,3.0
+O00227,C0471,2026-09-26 09:15:00,Website,Delivered,Apple Pay,New Customer,W01,5.0
+O00228,C0113,2025-03-06 14:27:00,Mobile App,Delivered,Mada,Back to School,W01,3.0
+O00229,C0089,2025-12-10 10:07:00,Mobile App,Delivered,Apple Pay,New Customer,W03,3.0
+O00230,C0081,2025-01-17 23:05:00,Website,Delivered,Card,New Customer,W05,5.0
+O00231,C0065,2025-07-31 12:40:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W05,1.0
+O00232,C0215,2025-01-05 15:12:00,Mobile App,Delivered,Card,National Day,W03,4.0
+O00233,C0433,2026-05-01 23:11:00,Store,Delivered,Card,New Customer,W03,5.0
+O00234,C0389,2026-04-10 09:06:00,Store,Delivered,Apple Pay,Ramadan Sale,W01,8.0
+O00235,C0347,2025-11-30 15:49:00,Website,Delivered,Apple Pay,New Customer,W04,4.0
+O00236,C0028,2026-03-23 12:13:00,Mobile App,Returned,Mada,Back to School,W02,8.0
+O00237,C0031,2025-10-15 12:07:00,Mobile App,Cancelled,Apple Pay,Back to School,W02,
+O00238,C0211,2026-06-19 23:55:00,Mobile App,Processing,Mada,Back to School,W01,4.0
+O00239,C0468,2026-08-11 08:26:00,Website,Processing,Mada,New Customer,W05,1.0
+O00240,C0043,2026-07-26 08:44:00,Store,Delivered,Apple Pay,Back to School,W03,4.0
+O00241,C0383,2026-08-21 08:29:00,Website,Delivered,Mada,Ramadan Sale,W03,8.0
+O00242,C0219,2025-10-04 14:50:00,Mobile App,Delivered,Cash on Delivery,New Customer,W01,6.0
+O00243,C0397,2025-07-29 12:21:00,Website,Delivered,Mada,New Customer,W05,4.0
+O00244,C0028,2025-03-06 19:22:00,Mobile App,Delivered,Card,White Friday,W05,5.0
+O00245,C0097,2026-04-14 10:05:00,Website,Delivered,Card,None,W02,5.0
+O00246,C0267,2026-10-05 08:18:00,Mobile App,Delivered,Apple Pay,White Friday,W03,7.0
+O00247,C0486,2026-06-17 18:26:00,Mobile App,Delivered,Cash on Delivery,White Friday,W05,8.0
+O00248,C0191,2025-10-23 09:09:00,Mobile App,Delivered,Apple Pay,National Day,W02,5.0
+O00249,C0342,2025-06-07 13:15:00,Store,Delivered,STC Pay,Ramadan Sale,W04,5.0
+O00250,C0163,2025-12-19 12:23:00,Store,Delivered,STC Pay,Back to School,W01,1.0
+O00251,C0476,2025-11-24 12:00:00,Mobile App,Processing,STC Pay,Back to School,W03,4.0
+O00252,C0461,2025-02-11 12:43:00,Website,Delivered,Mada,National Day,W02,8.0
+O00253,C0299,2026-06-24 15:50:00,Website,Returned,Card,None,W05,
+O00254,C0029,2026-01-05 20:09:00,Website,Delivered,Mada,Back to School,W01,5.0
+O00255,C0045,2025-08-09 22:47:00,Mobile App,Processing,Cash on Delivery,Ramadan Sale,W04,4.0
+O00256,C0156,2026-05-02 18:04:00,Mobile App,Returned,Mada,None,W01,7.0
+O00257,C0103,2025-07-10 20:18:00,Website,Delivered,Cash on Delivery,National Day,W03,8.0
+O00258,C0428,2026-10-14 23:07:00,Store,Delivered,Mada,Ramadan Sale,W04,4.0
+O00259,C0035,2026-09-06 19:37:00,Website,Delivered,Cash on Delivery,New Customer,W04,2.0
+O00260,C0084,2026-08-19 09:09:00,Store,Delivered,Apple Pay,Back to School,W02,1.0
+O00261,C0025,2025-10-24 17:33:00,Website,Delivered,Apple Pay,New Customer,W02,2.0
+O00262,C0139,2026-01-07 11:34:00,Mobile App,Delivered,Card,Ramadan Sale,W05,5.0
+O00263,C0084,2025-04-15 14:09:00,Mobile App,Delivered,STC Pay,National Day,W05,2.0
+O00264,C0009,2026-05-07 19:19:00,Website,Delivered,Mada,National Day,W05,6.0
+O00265,C0114,2025-05-12 12:44:00,Website,Delivered,Apple Pay,None,W04,2.0
+O00266,C0101,2025-04-21 09:50:00,Mobile App,Delivered,Mada,None,W03,1.0
+O00267,C0064,2026-09-09 14:37:00,Website,Returned,Cash on Delivery,None,W01,3.0
+O00268,C0420,2026-08-16 08:33:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W05,1.0
+O00269,C0264,2025-08-22 21:07:00,Website,Delivered,Mada,None,W05,3.0
+O00270,C0198,2025-10-18 22:38:00,Mobile App,Delivered,Mada,Ramadan Sale,W05,7.0
+O00271,C0431,2026-05-03 19:11:00,Mobile App,Delivered,Card,White Friday,W04,2.0
+O00272,C0053,2025-06-22 10:23:00,Website,Processing,STC Pay,White Friday,W01,2.0
+O00273,C0183,2026-05-03 20:31:00,Website,Delivered,Mada,None,W01,5.0
+O00274,C0256,2025-01-28 13:24:00,Website,Delivered,Cash on Delivery,National Day,W05,2.0
+O00275,C0255,2026-05-18 16:34:00,Store,Delivered,STC Pay,None,W01,7.0
+O00276,C0156,2025-06-18 23:27:00,Mobile App,Delivered,Mada,None,W05,8.0
+O00277,C0201,2025-09-27 23:37:00,Mobile App,Processing,Cash on Delivery,Back to School,W03,1.0
+O00278,C0415,2026-08-21 08:48:00,Website,Returned,Card,White Friday,W03,6.0
+O00279,C0332,2025-11-16 10:58:00,Store,Delivered,Card,Back to School,W02,1.0
+O00280,C0011,2026-04-26 08:20:00,Website,Delivered,STC Pay,None,W04,2.0
+O00281,C0154,2026-01-08 21:12:00,Mobile App,Delivered,Card,National Day,W02,5.0
+O00282,C0116,2026-10-02 10:45:00,Website,Cancelled,Cash on Delivery,Back to School,W01,
+O00283,C0259,2025-11-04 21:42:00,Website,Delivered,Mada,Back to School,W05,8.0
+O00284,C0256,2025-08-07 22:17:00,Mobile App,Returned,STC Pay,White Friday,W05,1.0
+O00285,C0223,2026-02-25 18:55:00,Website,Cancelled,Apple Pay,White Friday,W03,
+O00286,C0159,2026-04-21 23:35:00,Website,Processing,Card,Ramadan Sale,W02,3.0
+O00287,C0282,2025-06-30 09:46:00,Website,Delivered,Card,Back to School,W05,5.0
+O00288,C0377,2026-05-28 11:33:00,Mobile App,Delivered,STC Pay,Back to School,W04,2.0
+O00289,C0427,2026-08-22 20:51:00,Website,Delivered,Mada,Ramadan Sale,W02,2.0
+O00290,C0302,2025-02-27 23:34:00,Store,Delivered,Cash on Delivery,National Day,W04,8.0
+O00291,C0011,2026-10-23 09:53:00,Mobile App,Delivered,Card,New Customer,W02,5.0
+O00292,C0444,2025-08-31 22:24:00,Store,Delivered,Cash on Delivery,Back to School,W01,4.0
+O00293,C0451,2026-10-22 21:50:00,Store,Delivered,Mada,White Friday,W04,6.0
+O00294,C0309,2026-07-15 18:29:00,Mobile App,Delivered,Apple Pay,New Customer,W04,3.0
+O00295,C0043,2025-04-24 13:15:00,Store,Delivered,Apple Pay,National Day,W04,6.0
+O00296,C0102,2025-03-28 21:23:00,Store,Delivered,STC Pay,Ramadan Sale,W01,1.0
+O00297,C0220,2026-09-07 16:09:00,Website,Delivered,STC Pay,None,W01,7.0
+O00298,C0442,2025-09-30 17:47:00,Website,Delivered,Apple Pay,National Day,W02,5.0
+O00299,C0121,2026-09-25 22:58:00,Mobile App,Delivered,Mada,None,W01,8.0
+O00300,C0109,2026-01-28 21:47:00,Website,Delivered,STC Pay,None,W01,6.0
+O00301,C0318,2026-01-26 17:25:00,Website,Delivered,STC Pay,None,W05,3.0
+O00302,C0240,2025-05-16 10:20:00,Website,Delivered,Cash on Delivery,None,W03,1.0
+O00303,C0085,2025-11-20 23:48:00,Mobile App,Processing,Mada,None,W02,2.0
+O00304,C0362,2026-04-24 21:07:00,Store,Processing,Card,White Friday,W03,5.0
+O00305,C0445,2025-10-18 13:53:00,Mobile App,Delivered,Cash on Delivery,National Day,W05,4.0
+O00306,C0256,2025-04-07 18:01:00,Store,Delivered,Card,White Friday,W03,2.0
+O00307,C0169,2025-02-14 22:20:00,Store,Returned,STC Pay,Ramadan Sale,W02,1.0
+O00308,C0495,2026-02-13 10:01:00,Website,Cancelled,Mada,Back to School,W02,
+O00309,C0472,2025-11-14 12:22:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W04,8.0
+O00310,C0048,2025-02-11 18:29:00,Mobile App,Delivered,Apple Pay,White Friday,W05,2.0
+O00311,C0154,2025-06-02 12:43:00,Mobile App,Returned,STC Pay,White Friday,W03,1.0
+O00312,C0292,2025-09-17 19:16:00,Mobile App,Delivered,Card,None,W04,3.0
+O00313,C0320,2025-09-29 18:58:00,Website,Returned,Apple Pay,None,W05,5.0
+O00314,C0337,2026-09-09 23:19:00,Store,Delivered,Cash on Delivery,New Customer,W04,5.0
+O00315,C0009,2025-07-12 08:13:00,Website,Delivered,Apple Pay,White Friday,W05,4.0
+O00316,C0012,2025-04-30 13:57:00,Mobile App,Delivered,Mada,White Friday,W01,8.0
+O00317,C0323,2026-03-19 21:54:00,Mobile App,Delivered,STC Pay,Back to School,W01,8.0
+O00318,C0348,2026-05-15 15:45:00,Website,Delivered,STC Pay,Back to School,W05,2.0
+O00319,C0254,2026-09-30 19:28:00,Website,Delivered,Cash on Delivery,New Customer,W02,8.0
+O00320,C0351,2025-12-14 22:08:00,Mobile App,Returned,Mada,White Friday,W03,8.0
+O00321,C0052,2026-03-02 23:19:00,Mobile App,Delivered,Card,Back to School,W03,6.0
+O00322,C0059,2026-09-25 15:07:00,Mobile App,Delivered,Cash on Delivery,Back to School,W01,5.0
+O00323,C0057,2025-04-19 11:52:00,Mobile App,Delivered,Apple Pay,New Customer,W01,4.0
+O00324,C0420,2025-05-22 11:54:00,Store,Delivered,Card,Ramadan Sale,W04,6.0
+O00325,C0387,2026-03-01 19:40:00,Website,Delivered,STC Pay,White Friday,W02,3.0
+O00326,C0484,2025-03-13 10:21:00,Store,Delivered,Apple Pay,White Friday,W01,7.0
+O00327,C0410,2026-11-08 17:26:00,Mobile App,Delivered,STC Pay,Back to School,W03,6.0
+O00328,C0076,2026-02-18 22:41:00,Mobile App,Delivered,STC Pay,New Customer,W04,6.0
+O00329,C0451,2025-05-10 17:13:00,Mobile App,Delivered,STC Pay,Back to School,W02,1.0
+O00330,C0427,2025-11-08 21:32:00,Website,Delivered,Cash on Delivery,Back to School,W05,6.0
+O00331,C0153,2026-08-10 08:29:00,Website,Delivered,STC Pay,National Day,W05,4.0
+O00332,C0294,2025-05-24 20:33:00,Website,Delivered,STC Pay,National Day,W02,6.0
+O00333,C0067,2026-05-03 14:28:00,Mobile App,Delivered,Mada,National Day,W05,7.0
+O00334,C0074,2026-06-02 12:31:00,Website,Delivered,STC Pay,National Day,W01,4.0
+O00335,C0437,2026-02-23 11:07:00,Website,Delivered,STC Pay,Ramadan Sale,W01,6.0
+O00336,C0406,2025-05-27 12:50:00,Website,Delivered,Cash on Delivery,Back to School,W02,3.0
+O00337,C0173,2026-01-22 23:53:00,Mobile App,Delivered,Apple Pay,National Day,W04,8.0
+O00338,C0120,2026-02-09 18:34:00,Mobile App,Delivered,Mada,New Customer,W03,2.0
+O00339,C0490,2026-09-26 09:36:00,Mobile App,Delivered,STC Pay,None,W01,3.0
+O00340,C0479,2025-01-24 18:27:00,Website,Delivered,STC Pay,Back to School,W04,5.0
+O00341,C0094,2025-09-19 10:09:00,Website,Delivered,Apple Pay,None,W05,6.0
+O00342,C0164,2025-05-26 21:57:00,Website,Delivered,Card,None,W02,4.0
+O00343,C0032,2025-11-22 22:35:00,Mobile App,Delivered,Mada,New Customer,W02,1.0
+O00344,C0285,2026-10-30 12:19:00,Website,Delivered,STC Pay,Ramadan Sale,W02,6.0
+O00345,C0022,2025-01-02 22:53:00,Mobile App,Delivered,Apple Pay,None,W01,8.0
+O00346,C0180,2026-10-10 14:37:00,Website,Cancelled,Apple Pay,New Customer,W05,
+O00347,C0144,2026-03-19 14:39:00,Mobile App,Delivered,Cash on Delivery,New Customer,W03,8.0
+O00348,C0236,2026-09-06 18:01:00,Website,Returned,Card,National Day,W04,1.0
+O00349,C0334,2025-03-21 08:57:00,Mobile App,Cancelled,Card,Back to School,W04,
+O00350,C0005,2025-08-15 08:48:00,Store,Delivered,Cash on Delivery,Ramadan Sale,W01,5.0
+O00351,C0327,2026-02-10 11:55:00,Mobile App,Delivered,Apple Pay,National Day,W02,3.0
+O00352,C0478,2026-08-07 15:56:00,Mobile App,Delivered,Apple Pay,New Customer,W01,5.0
+O00353,C0481,2025-11-27 21:54:00,Website,Processing,STC Pay,White Friday,W04,3.0
+O00354,C0003,2026-02-06 14:21:00,Mobile App,Delivered,Card,New Customer,W02,7.0
+O00355,C0129,2025-09-11 11:30:00,Website,Delivered,Card,Back to School,W05,4.0
+O00356,C0161,2025-03-08 12:03:00,Website,Returned,Cash on Delivery,National Day,W04,2.0
+O00357,C0196,2026-02-16 11:39:00,Website,Delivered,STC Pay,New Customer,W05,1.0
+O00358,C0346,2025-01-27 22:33:00,Website,Delivered,Card,None,W05,2.0
+O00359,C0247,2026-09-28 22:11:00,Mobile App,Delivered,Card,Ramadan Sale,W03,7.0
+O00360,C0241,2025-11-13 18:18:00,Website,Delivered,STC Pay,New Customer,W02,1.0
+O00361,C0217,2025-12-19 14:12:00,Website,Delivered,Card,Back to School,W02,8.0
+O00362,C0154,2026-03-05 18:10:00,Store,Delivered,Card,White Friday,W02,1.0
+O00363,C0418,2025-12-06 20:13:00,Mobile App,Delivered,Card,Back to School,W01,2.0
+O00364,C0100,2026-10-09 19:02:00,Website,Processing,Cash on Delivery,Ramadan Sale,W02,3.0
+O00365,C0052,2025-01-22 12:24:00,Store,Delivered,Cash on Delivery,Ramadan Sale,W03,8.0
+O00366,C0270,2026-10-01 21:56:00,Website,Delivered,Apple Pay,Ramadan Sale,W02,7.0
+O00367,C0301,2025-07-13 17:50:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W05,
+O00368,C0315,2025-03-08 13:32:00,Store,Delivered,STC Pay,Back to School,W04,8.0
+O00369,C0367,2026-05-22 23:17:00,Mobile App,Delivered,STC Pay,New Customer,W01,4.0
+O00370,C0112,2025-11-10 21:56:00,Website,Delivered,Cash on Delivery,Back to School,W05,2.0
+O00371,C0118,2026-08-21 09:29:00,Website,Delivered,Mada,White Friday,W04,7.0
+O00372,C0092,2026-03-29 15:16:00,Website,Delivered,Card,Back to School,W05,2.0
+O00373,C0394,2025-10-09 14:45:00,Website,Delivered,STC Pay,Back to School,W01,5.0
+O00374,C0208,2026-08-17 08:30:00,Store,Delivered,Apple Pay,White Friday,W02,4.0
+O00375,C0417,2026-04-18 18:50:00,Mobile App,Delivered,Mada,New Customer,W04,4.0
+O00376,C0005,2026-05-27 19:21:00,Website,Delivered,Mada,New Customer,W05,5.0
+O00377,C0072,2025-06-07 18:36:00,Mobile App,Delivered,STC Pay,National Day,W04,7.0
+O00378,C0244,2025-04-22 18:36:00,Mobile App,Processing,Cash on Delivery,None,W02,1.0
+O00379,C0467,2026-01-31 17:13:00,Mobile App,Delivered,Card,White Friday,W01,6.0
+O00380,C0275,2026-03-05 23:47:00,Store,Delivered,Apple Pay,Ramadan Sale,W02,5.0
+O00381,C0258,2026-04-15 16:12:00,Website,Delivered,Card,White Friday,W05,4.0
+O00382,C0452,2026-04-13 19:44:00,Mobile App,Cancelled,Mada,National Day,W02,
+O00383,C0235,2026-01-29 13:44:00,Website,Delivered,Card,Ramadan Sale,W02,5.0
+O00384,C0284,2025-05-05 19:04:00,Mobile App,Delivered,Cash on Delivery,White Friday,W04,3.0
+O00385,C0328,2026-04-18 20:21:00,Store,Delivered,Mada,None,W01,5.0
+O00386,C0249,2026-04-18 10:05:00,Website,Delivered,Mada,Ramadan Sale,W04,5.0
+O00387,C0006,2025-10-07 12:28:00,Website,Delivered,Card,New Customer,W05,4.0
+O00388,C0053,2026-02-04 17:28:00,Website,Delivered,Mada,Ramadan Sale,W02,6.0
+O00389,C0452,2025-04-09 13:46:00,Website,Delivered,Card,Back to School,W03,4.0
+O00390,C0089,2025-01-16 20:41:00,Website,Delivered,Mada,Ramadan Sale,W01,5.0
+O00391,C0053,2026-07-04 13:16:00,Mobile App,Processing,Mada,New Customer,W02,3.0
+O00392,C0436,2026-05-09 10:21:00,Store,Delivered,Mada,White Friday,W05,4.0
+O00393,C0378,2026-03-15 15:39:00,Website,Delivered,Mada,Back to School,W02,3.0
+O00394,C0307,2026-03-31 18:08:00,Mobile App,Delivered,Card,National Day,W04,5.0
+O00395,C0341,2025-09-12 15:38:00,Mobile App,Returned,Apple Pay,White Friday,W01,2.0
+O00396,C0478,2025-07-29 15:32:00,Mobile App,Delivered,Cash on Delivery,Ramadan Sale,W02,4.0
+O00397,C0442,2026-05-08 10:23:00,Website,Delivered,Mada,White Friday,W05,7.0
+O00398,C0465,2025-11-04 12:35:00,Website,Delivered,Mada,Back to School,W04,5.0
+O00399,C0367,2026-04-26 14:09:00,Website,Returned,STC Pay,New Customer,W03,8.0
+O00400,C0192,2026-01-29 23:19:00,Mobile App,Delivered,Mada,None,W01,7.0
+O00401,C0353,2026-01-13 09:41:00,Website,Delivered,Apple Pay,Ramadan Sale,W04,1.0
+O00402,C0131,2025-09-11 13:00:00,Website,Delivered,Mada,White Friday,W05,2.0
+O00403,C0273,2026-11-06 20:37:00,Website,Delivered,Card,None,W05,6.0
+O00404,C0036,2026-03-04 21:41:00,Website,Delivered,Apple Pay,Back to School,W02,3.0
+O00405,C0291,2025-08-06 13:12:00,Website,Delivered,Apple Pay,Back to School,W04,8.0
+O00406,C0142,2025-03-07 18:01:00,Mobile App,Delivered,Card,None,W01,5.0
+O00407,C0004,2026-01-20 16:59:00,Mobile App,Delivered,STC Pay,White Friday,W03,6.0
+O00408,C0500,2025-12-31 18:51:00,Mobile App,Delivered,Mada,New Customer,W02,1.0
+O00409,C0352,2026-11-06 23:32:00,Website,Delivered,Cash on Delivery,None,W03,1.0
+O00410,C0338,2025-04-13 20:18:00,Mobile App,Delivered,STC Pay,National Day,W05,1.0
+O00411,C0281,2026-04-24 13:57:00,Website,Delivered,STC Pay,Ramadan Sale,W02,4.0
+O00412,C0367,2025-01-30 13:59:00,Store,Returned,Cash on Delivery,Ramadan Sale,W03,8.0
+O00413,C0176,2026-01-22 20:41:00,Mobile App,Delivered,Mada,Ramadan Sale,W02,5.0
+O00414,C0304,2025-07-12 11:36:00,Store,Delivered,Mada,National Day,W01,5.0
+O00415,C0217,2025-11-24 19:51:00,Mobile App,Delivered,STC Pay,New Customer,W05,4.0
+O00416,C0075,2025-10-31 15:31:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W01,6.0
+O00417,C0362,2026-08-11 23:40:00,Mobile App,Cancelled,Mada,None,W03,
+O00418,C0415,2025-08-19 09:59:00,Website,Returned,Mada,New Customer,W04,5.0
+O00419,C0473,2025-07-19 20:06:00,Mobile App,Delivered,STC Pay,None,W03,8.0
+O00420,C0412,2025-07-20 08:23:00,Mobile App,Delivered,Apple Pay,White Friday,W04,3.0
+O00421,C0322,2026-02-18 15:02:00,Website,Delivered,Cash on Delivery,New Customer,W05,3.0
+O00422,C0443,2026-10-28 20:17:00,Website,Delivered,Card,None,W01,2.0
+O00423,C0012,2026-08-24 23:17:00,Website,Delivered,STC Pay,Ramadan Sale,W04,8.0
+O00424,C0419,2026-07-04 23:04:00,Mobile App,Delivered,Card,Ramadan Sale,W01,3.0
+O00425,C0288,2025-09-20 09:05:00,Mobile App,Processing,Cash on Delivery,National Day,W02,4.0
+O00426,C0467,2025-12-27 14:44:00,Mobile App,Delivered,Apple Pay,None,W02,3.0
+O00427,C0283,2025-08-10 19:17:00,Mobile App,Delivered,Card,National Day,W03,5.0
+O00428,C0131,2026-03-12 12:34:00,Mobile App,Delivered,Cash on Delivery,New Customer,W02,6.0
+O00429,C0404,2026-03-21 20:01:00,Website,Processing,Cash on Delivery,None,W05,1.0
+O00430,C0075,2025-08-20 16:00:00,Store,Delivered,Apple Pay,White Friday,W01,2.0
+O00431,C0414,2026-05-17 11:33:00,Mobile App,Delivered,Cash on Delivery,National Day,W03,2.0
+O00432,C0436,2026-02-17 23:37:00,Website,Delivered,STC Pay,New Customer,W02,3.0
+O00433,C0372,2026-10-17 19:45:00,Mobile App,Delivered,Mada,New Customer,W04,3.0
+O00434,C0368,2025-08-23 17:40:00,Store,Cancelled,Mada,Back to School,W01,
+O00435,C0147,2026-07-22 23:51:00,Store,Returned,Mada,New Customer,W05,3.0
+O00436,C0316,2025-07-14 08:45:00,Mobile App,Delivered,Cash on Delivery,Ramadan Sale,W05,1.0
+O00437,C0188,2025-05-17 19:03:00,Website,Delivered,Cash on Delivery,None,W03,4.0
+O00438,C0157,2026-10-21 09:59:00,Mobile App,Delivered,Mada,None,W03,1.0
+O00439,C0182,2025-01-10 11:27:00,Website,Delivered,STC Pay,Ramadan Sale,W04,2.0
+O00440,C0416,2025-10-03 11:28:00,Website,Delivered,Apple Pay,Back to School,W04,1.0
+O00441,C0021,2025-05-17 20:26:00,Store,Delivered,Apple Pay,New Customer,W02,8.0
+O00442,C0432,2026-02-03 12:07:00,Mobile App,Processing,Apple Pay,Ramadan Sale,W03,5.0
+O00443,C0176,2026-03-16 08:27:00,Website,Delivered,Card,White Friday,W02,3.0
+O00444,C0342,2026-03-16 14:30:00,Mobile App,Delivered,STC Pay,National Day,W02,4.0
+O00445,C0195,2026-02-22 17:44:00,Website,Delivered,Cash on Delivery,White Friday,W04,1.0
+O00446,C0215,2025-09-10 18:57:00,Website,Delivered,Card,New Customer,W03,4.0
+O00447,C0095,2025-09-16 23:23:00,Website,Delivered,Card,New Customer,W05,3.0
+O00448,C0302,2026-06-26 19:15:00,Website,Delivered,Mada,None,W01,3.0
+O00449,C0099,2026-04-02 11:04:00,Mobile App,Returned,Cash on Delivery,New Customer,W04,4.0
+O00450,C0389,2026-07-28 19:57:00,Mobile App,Delivered,Card,White Friday,W01,8.0
+O00451,C0141,2025-05-13 17:02:00,Website,Processing,Apple Pay,New Customer,W04,4.0
+O00452,C0206,2026-09-14 16:13:00,Website,Delivered,Apple Pay,National Day,W01,8.0
+O00453,C0061,2025-06-25 15:02:00,Website,Delivered,Apple Pay,Back to School,W02,5.0
+O00454,C0167,2025-03-27 16:46:00,Store,Delivered,Cash on Delivery,Back to School,W01,1.0
+O00455,C0055,2026-01-27 16:55:00,Mobile App,Delivered,Apple Pay,White Friday,W02,6.0
+O00456,C0203,2025-06-09 22:14:00,Website,Delivered,Apple Pay,White Friday,W01,8.0
+O00457,C0292,2026-05-18 13:41:00,Website,Delivered,Apple Pay,White Friday,W05,4.0
+O00458,C0331,2026-02-17 11:46:00,Mobile App,Delivered,Card,National Day,W01,7.0
+O00459,C0330,2025-02-14 12:15:00,Website,Delivered,STC Pay,None,W01,
+O00460,C0457,2026-03-31 13:19:00,Website,Delivered,Card,National Day,W03,2.0
+O00461,C0262,2026-03-02 12:00:00,Website,Returned,Mada,White Friday,W02,6.0
+O00462,C0087,2025-04-23 15:06:00,Website,Processing,Card,National Day,W03,1.0
+O00463,C0092,2026-03-15 18:38:00,Website,Delivered,Cash on Delivery,National Day,W03,6.0
+O00464,C0077,2026-11-03 12:20:00,Website,Delivered,Mada,None,W01,7.0
+O00465,C0171,2025-05-22 15:24:00,Mobile App,Delivered,STC Pay,White Friday,W05,4.0
+O00466,C0398,2025-08-13 10:15:00,Website,Delivered,Card,Back to School,W05,
+O00467,C0029,2025-05-22 11:44:00,Website,Delivered,Card,New Customer,W04,6.0
+O00468,C0429,2026-09-01 13:01:00,Website,Delivered,Apple Pay,None,W01,7.0
+O00469,C0271,2025-11-03 23:26:00,Website,Delivered,Card,Back to School,W01,3.0
+O00470,,2025-06-14 08:25:00,Mobile App,Cancelled,Mada,National Day,W03,
+O00471,C0381,2025-08-05 20:39:00,Website,Delivered,STC Pay,National Day,W01,8.0
+O00472,C0100,2025-10-04 11:06:00,Mobile App,Delivered,Cash on Delivery,None,W02,5.0
+O00473,C0388,2025-11-13 14:35:00,Store,Delivered,Apple Pay,Back to School,W01,1.0
+O00474,C0183,2025-10-17 20:32:00,Mobile App,Delivered,Cash on Delivery,Ramadan Sale,W01,6.0
+O00475,C0397,2025-06-03 08:37:00,Mobile App,Cancelled,Card,Back to School,W02,
+O00476,C0488,2025-08-26 14:51:00,Website,Delivered,Apple Pay,National Day,W05,6.0
+O00477,C0365,2026-02-01 15:13:00,Mobile App,Processing,Apple Pay,National Day,W04,1.0
+O00478,C0479,2025-10-30 13:04:00,Website,Delivered,Card,None,W02,8.0
+O00479,C0227,2026-10-28 12:07:00,Mobile App,Processing,Cash on Delivery,Back to School,W04,4.0
+O00480,C0135,2025-02-13 09:47:00,Mobile App,Cancelled,STC Pay,None,W02,
+O00481,C0240,2026-10-20 22:06:00,Mobile App,Delivered,Mada,White Friday,W02,7.0
+O00482,C0109,2026-05-03 11:17:00,Mobile App,Delivered,Mada,Ramadan Sale,W02,6.0
+O00483,C0243,2025-08-07 09:13:00,Store,Returned,Mada,Back to School,W03,3.0
+O00484,C0448,2026-04-08 21:33:00,Store,Delivered,Apple Pay,None,W01,7.0
+O00485,C0483,2026-03-06 23:30:00,Mobile App,Delivered,Mada,Back to School,W05,7.0
+O00486,C0376,2025-11-21 08:09:00,Store,Returned,Mada,Back to School,W01,7.0
+O00487,C0427,2025-05-09 22:40:00,Website,Processing,Apple Pay,New Customer,W02,4.0
+O00488,C0348,2026-08-14 08:23:00,Website,Cancelled,Cash on Delivery,National Day,W01,
+O00489,C0499,2025-12-10 11:59:00,Website,Delivered,Apple Pay,National Day,W05,3.0
+O00490,C0318,2025-04-12 10:51:00,Website,Cancelled,Card,National Day,W04,
+O00491,C0052,2026-10-11 22:32:00,Website,Delivered,Cash on Delivery,White Friday,W02,
+O00492,C0407,2026-04-21 21:58:00,Mobile App,Cancelled,Mada,None,W03,
+O00493,C0461,2026-03-01 09:00:00,Mobile App,Delivered,STC Pay,New Customer,W05,6.0
+O00494,C0499,2026-02-05 14:39:00,Mobile App,Delivered,STC Pay,White Friday,W02,7.0
+O00495,C0470,2025-09-24 13:20:00,Website,Delivered,Mada,None,W05,3.0
+O00496,C0293,2026-01-27 08:47:00,Store,Delivered,Cash on Delivery,Ramadan Sale,W02,4.0
+O00497,C0414,2026-01-23 16:42:00,Website,Delivered,Apple Pay,New Customer,W01,2.0
+O00498,C0135,2025-07-04 10:04:00,Website,Delivered,Apple Pay,White Friday,W01,8.0
+O00499,C0414,2025-06-14 13:19:00,Website,Delivered,STC Pay,New Customer,W05,1.0
+O00500,C0315,2026-09-07 08:10:00,Website,Delivered,Card,Ramadan Sale,W05,1.0
+O00501,C0168,2025-05-22 15:05:00,Store,Delivered,Cash on Delivery,Back to School,W04,4.0
+O00502,C0455,2025-10-15 20:06:00,Mobile App,Delivered,Cash on Delivery,Ramadan Sale,W02,8.0
+O00503,C0197,2026-03-16 14:36:00,Store,Delivered,Card,White Friday,W02,1.0
+O00504,C0096,2026-01-02 15:04:00,Website,Delivered,Apple Pay,Back to School,W01,1.0
+O00505,C0291,2025-11-26 15:35:00,Website,Delivered,Apple Pay,National Day,W02,2.0
+O00506,C0331,2026-03-08 21:20:00,Website,Cancelled,Card,White Friday,W04,
+O00507,C0088,2026-09-08 18:37:00,Mobile App,Delivered,Cash on Delivery,None,W05,1.0
+O00508,C0241,2025-04-08 21:46:00,Website,Delivered,Cash on Delivery,White Friday,W01,6.0
+O00509,C0467,2025-05-05 19:39:00,Website,Delivered,Card,Ramadan Sale,W01,6.0
+O00510,C0479,2025-02-23 16:56:00,Website,Cancelled,Cash on Delivery,None,W03,
+O00511,C0358,2025-06-24 12:37:00,Website,Delivered,Apple Pay,National Day,W04,8.0
+O00512,C0375,2026-05-10 15:05:00,Website,Delivered,Card,Back to School,W05,4.0
+O00513,C0344,2025-08-10 22:52:00,Mobile App,Delivered,Cash on Delivery,Ramadan Sale,W05,6.0
+O00514,C0113,2026-01-08 20:28:00,Mobile App,Returned,Mada,Ramadan Sale,W01,5.0
+O00515,C0055,2025-04-23 15:01:00,Website,Returned,Card,White Friday,W05,8.0
+O00516,C0221,2025-08-06 12:25:00,Mobile App,Delivered,Card,White Friday,W03,6.0
+O00517,C0100,2025-10-29 14:25:00,Website,Delivered,STC Pay,White Friday,W05,7.0
+O00518,C0113,2025-04-28 09:57:00,Website,Delivered,Card,National Day,W01,5.0
+O00519,C0202,2025-04-14 15:46:00,Mobile App,Cancelled,Mada,Ramadan Sale,W02,
+O00520,C0379,2025-11-09 15:10:00,Website,Delivered,Apple Pay,Back to School,W04,3.0
+O00521,C0001,2026-05-16 15:30:00,Mobile App,Delivered,STC Pay,New Customer,W03,4.0
+O00522,C0232,2026-05-18 19:34:00,Mobile App,Delivered,Cash on Delivery,White Friday,W01,6.0
+O00523,C0439,2026-09-03 23:07:00,Mobile App,Delivered,Card,Ramadan Sale,W04,4.0
+O00524,C0185,2025-07-31 10:12:00,Website,Returned,Card,Back to School,W05,8.0
+O00525,C0428,2026-09-20 11:27:00,Mobile App,Cancelled,Cash on Delivery,Back to School,W01,
+O00526,C0233,2025-02-11 14:18:00,Website,Cancelled,Mada,Back to School,W01,
+O00527,C0440,2026-05-30 12:05:00,Website,Delivered,Apple Pay,White Friday,W05,2.0
+O00528,C0416,2026-10-15 20:27:00,Store,Delivered,Cash on Delivery,Back to School,W05,5.0
+O00529,C0297,2025-05-23 14:16:00,Mobile App,Delivered,Cash on Delivery,Back to School,W01,5.0
+O00530,C0071,2026-06-24 22:44:00,Store,Delivered,Cash on Delivery,White Friday,W03,7.0
+O00531,C0387,2025-05-24 17:50:00,Mobile App,Delivered,Apple Pay,National Day,W05,5.0
+O00532,C0237,2026-06-15 22:53:00,Website,Delivered,Card,Back to School,W05,2.0
+O00533,C0105,2026-06-13 12:35:00,Mobile App,Delivered,Apple Pay,New Customer,W02,5.0
+O00534,C0079,2026-09-11 11:33:00,Website,Delivered,Mada,None,W05,8.0
+O00535,C0095,2025-08-29 16:52:00,Website,Delivered,STC Pay,None,W04,3.0
+O00536,C0280,2025-07-25 23:30:00,Mobile App,Delivered,STC Pay,White Friday,W03,5.0
+O00537,C0417,2026-03-12 12:01:00,Website,Delivered,Mada,None,W05,5.0
+O00538,C0022,2025-12-30 12:29:00,Mobile App,Returned,Card,Ramadan Sale,W03,4.0
+O00539,C0090,2026-11-03 12:22:00,Mobile App,Delivered,Mada,New Customer,W02,5.0
+O00540,C0363,2026-06-04 16:08:00,Mobile App,Delivered,STC Pay,Back to School,W05,7.0
+O00541,C0050,2025-04-19 23:59:00,Website,Delivered,Apple Pay,New Customer,W02,2.0
+O00542,C0038,2026-03-29 19:38:00,Website,Delivered,Apple Pay,Back to School,W01,8.0
+O00543,C0130,2026-05-18 22:43:00,Website,Delivered,Apple Pay,White Friday,W05,4.0
+O00544,C0105,2025-02-04 12:57:00,Mobile App,Delivered,STC Pay,National Day,W01,6.0
+O00545,C0271,2026-05-24 14:53:00,Mobile App,Delivered,STC Pay,Back to School,W03,3.0
+O00546,C0119,2025-02-22 18:01:00,Store,Delivered,Cash on Delivery,White Friday,W03,2.0
+O00547,C0280,2025-04-24 23:59:00,Website,Returned,Card,None,W03,7.0
+O00548,C0105,2026-07-15 18:59:00,Store,Delivered,Card,Ramadan Sale,W04,2.0
+O00549,C0476,2025-03-24 23:08:00,Website,Delivered,Card,White Friday,W05,4.0
+O00550,C0029,2025-01-27 14:34:00,Website,Delivered,Card,National Day,W04,1.0
+O00551,C0219,2026-07-17 12:07:00,Store,Delivered,Cash on Delivery,Back to School,W02,6.0
+O00552,C0455,2026-07-04 09:51:00,Mobile App,Delivered,Card,None,W01,3.0
+O00553,C0067,2026-09-13 20:30:00,Mobile App,Delivered,Card,Back to School,W05,4.0
+O00554,C0483,2026-01-11 17:55:00,Mobile App,Delivered,Cash on Delivery,Back to School,W05,2.0
+O00555,C0144,2025-03-22 14:58:00,Store,Delivered,Apple Pay,Back to School,W05,4.0
+O00556,C0121,2026-03-27 22:07:00,Mobile App,Delivered,Cash on Delivery,Back to School,W05,7.0
+O00557,C0197,2026-05-23 08:55:00,Website,Delivered,Apple Pay,Ramadan Sale,W04,3.0
+O00558,C0466,2026-09-16 18:59:00,Website,Cancelled,STC Pay,Ramadan Sale,W01,
+O00559,C0401,2025-02-28 11:35:00,Mobile App,Delivered,Cash on Delivery,National Day,W04,7.0
+O00560,C0474,2025-09-01 12:58:00,Mobile App,Delivered,Cash on Delivery,None,W02,5.0
+O00561,C0138,2026-11-07 16:50:00,Mobile App,Delivered,Card,None,W03,6.0
+O00562,C0030,2026-08-17 10:17:00,Mobile App,Returned,Card,White Friday,W02,5.0
+O00563,C0026,2025-08-27 11:41:00,Mobile App,Delivered,Mada,National Day,W03,1.0
+O00564,C0433,2025-12-28 09:38:00,Website,Delivered,STC Pay,White Friday,W01,2.0
+O00565,C0349,2026-03-02 10:41:00,Website,Delivered,Card,Back to School,W05,6.0
+O00566,C0483,2025-10-29 08:10:00,Website,Delivered,Apple Pay,National Day,W01,2.0
+O00567,C0177,2025-08-09 20:53:00,Mobile App,Delivered,Apple Pay,White Friday,W01,2.0
+O00568,C0226,2025-11-21 16:12:00,Website,Cancelled,Apple Pay,Back to School,W02,
+O00569,C0041,2025-12-27 10:58:00,Mobile App,Delivered,Apple Pay,White Friday,W04,4.0
+O00570,C0341,2025-05-22 16:50:00,Website,Delivered,Card,White Friday,W04,3.0
+O00571,C0215,2025-09-27 23:47:00,Store,Delivered,Mada,None,W02,2.0
+O00572,C0182,2025-05-11 20:44:00,Mobile App,Delivered,Card,Back to School,W03,2.0
+O00573,C0371,2026-08-27 10:09:00,Mobile App,Returned,Cash on Delivery,New Customer,W04,7.0
+O00574,C0484,2025-04-10 15:19:00,Website,Delivered,STC Pay,National Day,W05,7.0
+O00575,C0074,2025-02-12 14:27:00,Mobile App,Delivered,STC Pay,Back to School,W01,6.0
+O00576,C0115,2025-06-23 17:58:00,Mobile App,Delivered,Card,Ramadan Sale,W03,3.0
+O00577,C0015,2026-09-05 09:57:00,Mobile App,Delivered,Card,White Friday,W01,6.0
+O00578,C0065,2026-04-10 17:58:00,Mobile App,Delivered,Card,White Friday,W04,8.0
+O00579,C0060,2025-12-29 10:47:00,Mobile App,Cancelled,Cash on Delivery,Ramadan Sale,W05,
+O00580,C0398,2025-03-17 18:57:00,Website,Returned,STC Pay,Back to School,W02,1.0
+O00581,C0417,2025-07-11 23:18:00,Mobile App,Delivered,Card,National Day,W02,1.0
+O00582,C0315,2026-01-25 15:40:00,Mobile App,Delivered,Apple Pay,Back to School,W02,5.0
+O00583,C0113,2025-04-26 17:26:00,Website,Processing,Mada,None,W02,4.0
+O00584,C0138,2026-06-04 14:56:00,Website,Cancelled,STC Pay,Back to School,W03,
+O00585,C0249,2025-08-13 18:40:00,Website,Cancelled,Mada,Ramadan Sale,W05,
+O00586,C0370,2025-01-22 20:05:00,Website,Cancelled,Cash on Delivery,National Day,W01,
+O00587,C0441,2025-08-23 17:51:00,Website,Delivered,Mada,Ramadan Sale,W05,4.0
+O00588,C0118,2026-10-09 15:02:00,Website,Delivered,Mada,New Customer,W04,3.0
+O00589,C0078,2025-04-08 20:12:00,Store,Cancelled,Cash on Delivery,White Friday,W05,
+O00590,C0193,2025-10-26 21:05:00,Website,Delivered,Cash on Delivery,White Friday,W03,4.0
+O00591,C0391,2026-07-14 11:28:00,Store,Delivered,Mada,Ramadan Sale,W04,6.0
+O00592,C0288,2025-06-23 14:55:00,Mobile App,Returned,Card,Ramadan Sale,W04,8.0
+O00593,C0380,2025-12-12 12:02:00,Mobile App,Delivered,Mada,None,W03,4.0
+O00594,C0363,2026-05-10 10:58:00,Mobile App,Delivered,Mada,Ramadan Sale,W01,3.0
+O00595,C0254,2025-06-24 23:08:00,Mobile App,Delivered,Mada,None,W03,2.0
+O00596,C0191,2026-08-01 13:09:00,Mobile App,Delivered,STC Pay,New Customer,W03,5.0
+O00597,C0269,2026-05-01 08:20:00,Website,Delivered,Card,None,W03,4.0
+O00598,C0032,2026-10-02 22:38:00,Website,Delivered,STC Pay,Ramadan Sale,W03,1.0
+O00599,C0288,2026-07-09 14:04:00,Website,Delivered,Apple Pay,Back to School,W02,5.0
+O00600,C0437,2026-08-30 16:51:00,Mobile App,Delivered,Mada,Ramadan Sale,W02,1.0
+O00601,C0071,2026-06-08 22:27:00,Website,Delivered,STC Pay,None,W02,7.0
+O00602,C0430,2026-06-19 18:33:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W03,3.0
+O00603,C0444,2026-01-10 22:49:00,Mobile App,Delivered,Apple Pay,National Day,W05,4.0
+O00604,C0101,2026-03-29 19:33:00,Mobile App,Delivered,Cash on Delivery,None,W03,5.0
+O00605,C0357,2025-09-17 16:40:00,Mobile App,Delivered,Card,New Customer,W04,8.0
+O00606,C0015,2026-09-20 12:45:00,Store,Delivered,Apple Pay,None,W04,2.0
+O00607,C0440,2026-07-12 16:54:00,Mobile App,Delivered,Card,Back to School,W03,3.0
+O00608,C0423,2026-05-29 12:46:00,Website,Delivered,Card,Back to School,W05,4.0
+O00609,C0288,2025-12-26 11:21:00,Mobile App,Delivered,Card,National Day,W04,2.0
+O00610,C0163,2026-08-29 08:49:00,Website,Delivered,Cash on Delivery,White Friday,W01,4.0
+O00611,C0098,2025-05-16 17:03:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W05,6.0
+O00612,C0091,2025-10-30 16:44:00,Website,Delivered,Cash on Delivery,National Day,W03,6.0
+O00613,C0300,2026-01-30 12:34:00,Store,Delivered,Mada,Back to School,W03,4.0
+O00614,C0138,2025-04-03 14:16:00,Website,Delivered,Card,National Day,W02,8.0
+O00615,C0338,2026-08-26 09:20:00,Mobile App,Delivered,Card,Ramadan Sale,W04,8.0
+O00616,C0184,2025-11-10 13:29:00,Mobile App,Delivered,Mada,National Day,W04,7.0
+O00617,C0206,2025-11-04 09:59:00,Mobile App,Returned,STC Pay,None,W04,7.0
+O00618,C0306,2026-06-21 14:36:00,Website,Delivered,Cash on Delivery,None,W01,5.0
+O00619,C0042,2025-07-09 15:54:00,Website,Delivered,Apple Pay,Ramadan Sale,W05,6.0
+O00620,C0352,2026-02-08 14:58:00,Website,Delivered,Mada,New Customer,W02,2.0
+O00621,C0396,2025-12-01 17:52:00,Store,Delivered,STC Pay,White Friday,W05,2.0
+O00622,C0114,2026-09-16 13:49:00,Website,Delivered,STC Pay,None,W05,7.0
+O00623,C0078,2025-10-19 17:24:00,Mobile App,Delivered,Cash on Delivery,White Friday,W02,3.0
+O00624,C0043,2025-12-21 11:41:00,Mobile App,Returned,Card,Ramadan Sale,W03,3.0
+O00625,C0395,2025-02-25 17:27:00,Mobile App,Delivered,STC Pay,White Friday,W05,6.0
+O00626,C0041,2025-06-03 08:21:00,Mobile App,Returned,Cash on Delivery,Ramadan Sale,W05,8.0
+O00627,C0307,2026-01-14 16:27:00,Website,Delivered,Card,National Day,W03,3.0
+O00628,C0326,2025-02-06 11:22:00,Mobile App,Delivered,Mada,Ramadan Sale,W02,2.0
+O00629,C0235,2026-09-25 15:58:00,Mobile App,Cancelled,STC Pay,National Day,W04,
+O00630,C0371,2026-10-16 11:24:00,Mobile App,Delivered,Cash on Delivery,New Customer,W03,7.0
+O00631,C0335,2025-03-23 21:07:00,Mobile App,Cancelled,Cash on Delivery,National Day,W05,
+O00632,C0479,2026-03-24 16:47:00,Website,Delivered,STC Pay,New Customer,W01,7.0
+O00633,C0405,2026-10-13 18:06:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W01,5.0
+O00634,C0244,2026-07-26 08:21:00,Website,Delivered,Mada,Ramadan Sale,W04,8.0
+O00635,C0207,2025-02-03 10:40:00,Store,Delivered,Card,Ramadan Sale,W05,6.0
+O00636,C0016,2025-06-09 13:39:00,Website,Delivered,Card,Back to School,W05,8.0
+O00637,C0377,2026-02-15 21:22:00,Website,Delivered,STC Pay,Back to School,W03,6.0
+O00638,C0440,2026-02-18 23:48:00,Mobile App,Delivered,Mada,Ramadan Sale,W02,7.0
+O00639,C0336,2025-06-26 11:24:00,Website,Delivered,Mada,White Friday,W02,1.0
+O00640,C0485,2025-01-24 18:39:00,Mobile App,Delivered,Mada,New Customer,W01,6.0
+O00641,C0283,2026-06-08 14:54:00,Mobile App,Returned,Apple Pay,Ramadan Sale,W04,4.0
+O00642,C0296,2026-04-18 22:15:00,Website,Delivered,Apple Pay,Ramadan Sale,W04,2.0
+O00643,C0267,2026-04-27 20:04:00,Store,Cancelled,STC Pay,None,W05,
+O00644,C0204,2025-02-10 19:25:00,Mobile App,Delivered,Mada,White Friday,W01,2.0
+O00645,C0406,2025-04-25 13:23:00,Website,Delivered,Apple Pay,White Friday,W02,5.0
+O00646,C0364,2026-05-19 15:48:00,Website,Delivered,Mada,Back to School,W04,5.0
+O00647,C0190,2026-08-01 19:45:00,Store,Delivered,Apple Pay,National Day,W03,8.0
+O00648,C0440,2026-01-29 16:40:00,Store,Delivered,STC Pay,Back to School,W02,1.0
+O00649,C0265,2026-02-20 23:39:00,Store,Returned,Apple Pay,National Day,W05,6.0
+O00650,C0195,2025-01-15 10:21:00,Website,Delivered,Apple Pay,Back to School,W05,2.0
+O00651,C0434,2026-06-21 15:47:00,Mobile App,Delivered,Mada,New Customer,W01,6.0
+O00652,C0409,2025-02-27 22:36:00,Website,Delivered,Apple Pay,New Customer,W02,4.0
+O00653,C0098,2025-03-07 12:33:00,Website,Delivered,Apple Pay,National Day,W05,8.0
+O00654,C0227,2025-03-27 23:12:00,Mobile App,Delivered,STC Pay,White Friday,W03,1.0
+O00655,C0315,2026-04-13 08:16:00,Mobile App,Delivered,Mada,New Customer,W02,6.0
+O00656,C0141,2026-07-29 17:40:00,Store,Delivered,Apple Pay,White Friday,W01,6.0
+O00657,C0352,2026-07-06 13:12:00,Mobile App,Delivered,Apple Pay,Back to School,W05,5.0
+O00658,C0475,2026-09-17 14:36:00,Website,Delivered,Apple Pay,White Friday,W02,3.0
+O00659,C0400,2025-10-03 15:59:00,Store,Delivered,Cash on Delivery,Back to School,W02,5.0
+O00660,C0158,2026-03-12 20:48:00,Mobile App,Delivered,Mada,None,W04,6.0
+O00661,C0367,2025-09-20 17:53:00,Website,Delivered,Mada,Back to School,W05,4.0
+O00662,C0241,2025-02-17 20:44:00,Mobile App,Processing,Apple Pay,Back to School,W05,5.0
+O00663,C0276,2026-01-14 22:59:00,Mobile App,Delivered,Card,Back to School,W04,3.0
+O00664,C0419,2025-10-26 08:08:00,Website,Delivered,Cash on Delivery,Back to School,W04,4.0
+O00665,C0102,2025-09-23 16:38:00,Website,Delivered,Card,New Customer,W04,7.0
+O00666,C0031,2026-06-09 19:01:00,Store,Delivered,STC Pay,Back to School,W05,8.0
+O00667,C0290,2025-04-05 11:34:00,Mobile App,Delivered,Card,National Day,W04,4.0
+O00668,C0379,2025-06-05 18:04:00,Mobile App,Delivered,Mada,National Day,W04,1.0
+O00669,C0010,2025-01-09 15:20:00,Website,Delivered,Apple Pay,National Day,W03,8.0
+O00670,C0296,2025-06-06 14:49:00,Website,Delivered,Card,None,W05,1.0
+O00671,C0107,2025-07-26 17:10:00,Website,Delivered,Apple Pay,Back to School,W01,3.0
+O00672,C0225,2026-02-13 14:13:00,Mobile App,Delivered,Card,None,W02,2.0
+O00673,C0310,2026-01-02 18:26:00,Store,Delivered,STC Pay,Back to School,W04,5.0
+O00674,C0182,2026-01-05 17:53:00,Store,Delivered,Cash on Delivery,Ramadan Sale,W01,7.0
+O00675,C0080,2025-05-24 23:48:00,Mobile App,Delivered,Apple Pay,New Customer,W03,6.0
+O00676,C0415,2025-07-05 19:56:00,Mobile App,Returned,Card,White Friday,W02,5.0
+O00677,C0165,2025-01-30 08:21:00,Mobile App,Delivered,Apple Pay,White Friday,W01,7.0
+O00678,C0215,2025-03-09 11:30:00,Website,Delivered,STC Pay,White Friday,W02,1.0
+O00679,C0166,2026-11-04 19:39:00,Website,Delivered,Mada,New Customer,W05,4.0
+O00680,C0116,2026-11-07 10:47:00,Website,Delivered,STC Pay,None,W02,4.0
+O00681,C0499,2026-04-19 16:48:00,Website,Returned,Cash on Delivery,New Customer,W02,1.0
+O00682,C0325,2025-02-04 15:10:00,Website,Delivered,Mada,White Friday,W03,4.0
+O00683,C0226,2025-05-01 16:41:00,Store,Delivered,Cash on Delivery,Ramadan Sale,W03,6.0
+O00684,C0219,2026-10-20 08:34:00,Website,Delivered,Mada,None,W01,5.0
+O00685,C0482,2025-03-26 13:25:00,Store,Cancelled,STC Pay,Ramadan Sale,W02,
+O00686,C0025,2026-06-30 19:34:00,Store,Delivered,STC Pay,Ramadan Sale,W03,3.0
+O00687,C0116,2025-06-05 21:54:00,Website,Delivered,Mada,Back to School,W04,7.0
+O00688,C0376,2026-09-20 10:03:00,Website,Delivered,Mada,Ramadan Sale,W02,7.0
+O00689,C0206,2025-05-07 12:13:00,Mobile App,Delivered,Cash on Delivery,None,W01,5.0
+O00690,C0278,2026-09-17 22:09:00,Store,Delivered,Cash on Delivery,Back to School,W01,7.0
+O00691,C0116,2026-06-20 11:05:00,Mobile App,Processing,STC Pay,Back to School,W02,4.0
+O00692,C0169,2026-03-06 16:22:00,Website,Delivered,Mada,Ramadan Sale,W05,8.0
+O00693,C0400,2026-05-15 20:38:00,Store,Delivered,Mada,None,W05,2.0
+O00694,C0185,2026-08-18 21:52:00,Mobile App,Delivered,Cash on Delivery,New Customer,W04,8.0
+O00695,C0343,2025-01-27 14:36:00,Mobile App,Delivered,Cash on Delivery,None,W03,7.0
+O00696,C0167,2026-04-15 16:49:00,Website,Cancelled,STC Pay,New Customer,W03,
+O00697,C0181,2026-09-24 15:20:00,Website,Cancelled,Card,New Customer,W04,
+O00698,C0104,2025-09-29 23:22:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W02,6.0
+O00699,C0359,2026-10-20 17:48:00,Website,Delivered,STC Pay,New Customer,W01,4.0
+O00700,C0208,2025-09-27 12:45:00,Website,Delivered,Apple Pay,White Friday,W01,5.0
+O00701,C0342,2025-10-08 08:31:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W02,8.0
+O00702,C0430,2026-03-26 21:35:00,Mobile App,Delivered,Mada,Ramadan Sale,W05,7.0
+O00703,C0221,2026-01-15 19:57:00,Website,Returned,STC Pay,Back to School,W01,3.0
+O00704,C0276,2026-08-16 12:06:00,Mobile App,Processing,STC Pay,New Customer,W04,5.0
+O00705,C0179,2026-10-23 15:29:00,Mobile App,Delivered,Mada,National Day,W04,8.0
+O00706,C0245,2025-06-01 10:43:00,Store,Delivered,Cash on Delivery,National Day,W03,1.0
+O00707,C0232,2025-11-14 17:21:00,Mobile App,Delivered,STC Pay,White Friday,W02,6.0
+O00708,C0083,2025-07-19 15:38:00,Store,Delivered,Apple Pay,None,W04,2.0
+O00709,C0486,2026-02-01 21:24:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W01,5.0
+O00710,C0047,2025-07-08 16:25:00,Website,Delivered,Card,Back to School,W04,2.0
+O00711,C0001,2026-06-26 08:00:00,Website,Delivered,STC Pay,National Day,W03,2.0
+O00712,C0362,2025-07-01 12:52:00,Website,Cancelled,Card,National Day,W01,
+O00713,C0314,2025-12-12 22:59:00,Mobile App,Delivered,Mada,None,W05,2.0
+O00714,C0252,2025-07-12 20:02:00,Store,Delivered,Mada,New Customer,W05,2.0
+O00715,C0103,2025-10-17 18:08:00,Website,Delivered,Mada,White Friday,W04,7.0
+O00716,C0248,2026-09-17 20:19:00,Mobile App,Delivered,Cash on Delivery,New Customer,W01,1.0
+O00717,C0461,2026-08-08 13:41:00,Website,Delivered,Card,None,W03,7.0
+O00718,C0448,2026-03-21 13:32:00,Mobile App,Delivered,Apple Pay,None,W04,3.0
+O00719,C0461,2025-04-30 17:00:00,Mobile App,Returned,Cash on Delivery,Ramadan Sale,W04,4.0
+O00720,C0307,2025-09-10 16:56:00,Mobile App,Returned,Cash on Delivery,Ramadan Sale,W03,7.0
+O00721,C0250,2025-09-17 08:40:00,Website,Delivered,Mada,Ramadan Sale,W02,2.0
+O00722,C0484,2025-09-20 20:18:00,Website,Delivered,STC Pay,Back to School,W01,2.0
+O00723,C0255,2025-07-25 12:33:00,Mobile App,Processing,Card,None,W02,1.0
+O00724,C0394,2025-02-12 14:49:00,Website,Delivered,STC Pay,None,W02,6.0
+O00725,C0116,2025-07-08 14:21:00,Website,Delivered,Mada,None,W02,5.0
+O00726,C0274,2025-01-18 13:46:00,Website,Returned,Apple Pay,None,W02,1.0
+O00727,C0291,2025-05-03 15:48:00,Mobile App,Delivered,Card,None,W04,7.0
+O00728,C0122,2026-05-18 16:22:00,Mobile App,Processing,Mada,Ramadan Sale,W04,5.0
+O00729,C0011,2026-03-19 17:09:00,Website,Delivered,STC Pay,Ramadan Sale,W04,3.0
+O00730,C0167,2026-02-13 12:46:00,Website,Delivered,Apple Pay,National Day,W02,6.0
+O00731,C0154,2026-10-01 21:03:00,Website,Delivered,Apple Pay,New Customer,W04,7.0
+O00732,C0291,2025-06-26 16:47:00,Mobile App,Delivered,Mada,National Day,W02,3.0
+O00733,C0391,2026-05-14 18:39:00,Mobile App,Returned,Card,New Customer,W01,2.0
+O00734,C0170,2025-04-03 18:59:00,Website,Returned,Apple Pay,Ramadan Sale,W03,2.0
+O00735,C0244,2025-12-13 13:18:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W02,7.0
+O00736,C0322,2026-04-26 16:44:00,Website,Cancelled,Card,New Customer,W02,
+O00737,C0419,2026-01-07 22:37:00,Website,Delivered,Card,White Friday,W05,6.0
+O00738,C0343,2025-07-21 18:18:00,Store,Delivered,Card,Back to School,W05,8.0
+O00739,C0436,2025-09-16 14:32:00,Mobile App,Delivered,Card,White Friday,W03,3.0
+O00740,C0222,2025-12-12 09:17:00,Mobile App,Delivered,Mada,New Customer,W01,6.0
+O00741,C0241,2026-01-25 20:02:00,Website,Delivered,Mada,Back to School,W03,7.0
+O00742,C0134,2026-07-20 14:31:00,Website,Delivered,Mada,New Customer,W01,6.0
+O00743,C0122,2025-03-31 10:00:00,Mobile App,Delivered,Cash on Delivery,National Day,W01,3.0
+O00744,C0361,2025-05-23 14:58:00,Website,Delivered,Card,New Customer,W01,1.0
+O00745,C0099,2026-05-03 14:45:00,Mobile App,Processing,Apple Pay,White Friday,W03,5.0
+O00746,C0097,2025-05-07 10:12:00,Website,Delivered,Apple Pay,Ramadan Sale,W04,5.0
+O00747,C0272,2025-01-08 16:18:00,Website,Delivered,Card,White Friday,W03,1.0
+O00748,C0382,2025-04-01 18:37:00,Store,Delivered,STC Pay,New Customer,W01,5.0
+O00749,C0251,2025-11-17 14:14:00,Website,Delivered,Cash on Delivery,White Friday,W04,8.0
+O00750,C0238,2026-04-21 22:09:00,Mobile App,Delivered,Mada,None,W02,6.0
+O00751,C0223,2026-11-09 13:09:00,Website,Delivered,Card,None,W04,8.0
+O00752,C0082,2025-11-07 16:14:00,Mobile App,Delivered,Mada,White Friday,W04,3.0
+O00753,C0312,2025-10-24 12:15:00,Mobile App,Delivered,Apple Pay,White Friday,W04,1.0
+O00754,C0190,2026-08-02 23:04:00,Website,Delivered,Apple Pay,Ramadan Sale,W03,4.0
+O00755,C0165,2026-10-10 15:45:00,Website,Delivered,Apple Pay,White Friday,W05,8.0
+O00756,C0485,2025-09-30 10:28:00,Website,Delivered,Cash on Delivery,New Customer,W02,6.0
+O00757,C0490,2025-11-24 23:20:00,Mobile App,Delivered,Apple Pay,National Day,W05,2.0
+O00758,C0410,2026-06-01 17:15:00,Website,Cancelled,Card,Back to School,W03,
+O00759,C0391,2026-03-08 10:23:00,Store,Delivered,Apple Pay,White Friday,W04,3.0
+O00760,C0233,2025-10-19 13:37:00,Store,Delivered,Card,None,W03,8.0
+O00761,C0014,2026-10-06 21:41:00,Website,Delivered,STC Pay,None,W03,6.0
+O00762,C0033,2025-03-11 12:09:00,Website,Delivered,Apple Pay,None,W03,6.0
+O00763,C0206,2026-07-13 09:33:00,Mobile App,Delivered,Apple Pay,National Day,W01,4.0
+O00764,C0286,2025-01-25 09:41:00,Website,Cancelled,Card,None,W02,
+O00765,C0262,2025-10-24 23:01:00,Mobile App,Delivered,STC Pay,None,W01,4.0
+O00766,C0189,2026-06-06 13:25:00,Mobile App,Delivered,STC Pay,Back to School,W03,6.0
+O00767,C0134,2026-02-07 11:41:00,Website,Delivered,STC Pay,New Customer,W05,7.0
+O00768,C0381,2025-07-30 14:48:00,Mobile App,Delivered,Apple Pay,National Day,W03,6.0
+O00769,C0159,2025-01-13 14:53:00,Website,Delivered,Mada,New Customer,W04,6.0
+O00770,C0408,2025-09-12 10:39:00,Website,Delivered,Card,National Day,W01,1.0
+O00771,C0217,2026-01-17 10:17:00,Website,Delivered,Card,None,W03,3.0
+O00772,C0326,2025-02-01 23:11:00,Website,Delivered,Apple Pay,White Friday,W05,5.0
+O00773,C0355,2025-06-06 14:04:00,Website,Delivered,Card,White Friday,W04,8.0
+O00774,C0033,2025-10-15 17:46:00,Mobile App,Delivered,Card,New Customer,W03,4.0
+O00775,C0023,2026-07-31 21:35:00,Mobile App,Processing,Apple Pay,New Customer,W01,3.0
+O00776,C0279,2025-06-17 19:42:00,Mobile App,Returned,STC Pay,Ramadan Sale,W03,6.0
+O00777,C0178,2025-10-27 12:52:00,Store,Delivered,STC Pay,White Friday,W03,7.0
+O00778,C0184,2026-10-23 22:28:00,Store,Delivered,Apple Pay,None,W03,3.0
+O00779,C0418,2025-07-30 20:05:00,Store,Cancelled,STC Pay,National Day,W01,
+O00780,C0351,2025-12-09 23:07:00,Mobile App,Delivered,Cash on Delivery,National Day,W04,7.0
+O00781,C0055,2025-08-20 22:09:00,Store,Cancelled,Apple Pay,New Customer,W01,
+O00782,C0108,2026-07-09 11:52:00,Website,Delivered,Cash on Delivery,None,W02,3.0
+O00783,C0176,2026-02-02 19:13:00,Mobile App,Delivered,Mada,New Customer,W05,1.0
+O00784,C0197,2026-07-06 11:27:00,Mobile App,Delivered,Cash on Delivery,New Customer,W04,1.0
+O00785,C0130,2026-07-11 10:05:00,Mobile App,Delivered,Card,White Friday,W04,6.0
+O00786,C0398,2026-04-08 14:39:00,Website,Delivered,Apple Pay,National Day,W01,8.0
+O00787,C0199,2026-07-03 09:16:00,Mobile App,Delivered,Mada,Ramadan Sale,W04,5.0
+O00788,C0003,2026-02-01 13:49:00,Website,Delivered,Apple Pay,Back to School,W05,8.0
+O00789,C0060,2025-04-14 13:08:00,Store,Delivered,STC Pay,National Day,W01,8.0
+O00790,C0279,2025-04-19 21:30:00,Website,Delivered,Mada,None,W01,2.0
+O00791,C0471,2025-09-07 12:07:00,Website,Delivered,Apple Pay,New Customer,W02,8.0
+O00792,C0299,2026-02-28 11:35:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W04,1.0
+O00793,C0341,2025-09-30 08:19:00,Website,Returned,Apple Pay,White Friday,W02,4.0
+O00794,C0412,2025-03-14 12:42:00,Mobile App,Delivered,Card,White Friday,W05,2.0
+O00795,C0135,2026-02-21 09:48:00,Store,Delivered,Mada,None,W02,6.0
+O00796,C0465,2025-05-11 23:39:00,Mobile App,Returned,Mada,New Customer,W02,4.0
+O00797,C0044,2025-05-30 09:23:00,Website,Delivered,Cash on Delivery,Back to School,W05,6.0
+O00798,C0403,2026-08-11 12:30:00,Mobile App,Delivered,Cash on Delivery,National Day,W05,2.0
+O00799,C0305,2026-06-10 15:20:00,Website,Returned,Apple Pay,National Day,W02,6.0
+O00800,C0353,2025-10-30 14:43:00,Mobile App,Delivered,STC Pay,Back to School,W02,8.0
+O00801,C0405,2026-10-11 18:11:00,Mobile App,Returned,Cash on Delivery,Ramadan Sale,W04,8.0
+O00802,C0495,2026-01-21 20:00:00,Mobile App,Delivered,Cash on Delivery,White Friday,W04,5.0
+O00803,C0056,2026-05-03 21:24:00,Website,Delivered,Card,Back to School,W01,1.0
+O00804,C0339,2026-08-04 09:00:00,Store,Delivered,Cash on Delivery,Back to School,W04,4.0
+O00805,C0476,2026-07-20 19:53:00,Website,Delivered,STC Pay,Back to School,W02,3.0
+O00806,C0415,2026-05-13 11:06:00,Website,Delivered,Apple Pay,White Friday,W05,3.0
+O00807,C0119,2025-04-13 10:26:00,Website,Delivered,Mada,National Day,W04,1.0
+O00808,C0165,2025-01-22 23:32:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W03,3.0
+O00809,C0161,2025-12-28 20:17:00,Website,Delivered,Apple Pay,White Friday,W05,8.0
+O00810,C0466,2026-03-11 10:27:00,Website,Delivered,Cash on Delivery,Back to School,W04,3.0
+O00811,C0415,2025-07-20 09:24:00,Mobile App,Delivered,Card,New Customer,W02,2.0
+O00812,C0073,2026-03-23 16:55:00,Website,Returned,Cash on Delivery,Ramadan Sale,W05,2.0
+O00813,C0401,2025-06-30 17:35:00,Website,Delivered,Apple Pay,Ramadan Sale,W01,4.0
+O00814,C0237,2026-07-21 19:46:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W01,6.0
+O00815,C0434,2025-05-16 15:55:00,Website,Delivered,Cash on Delivery,White Friday,W02,8.0
+O00816,C0311,2025-02-13 10:24:00,Website,Delivered,STC Pay,White Friday,W04,7.0
+O00817,C0209,2025-06-20 23:08:00,Website,Cancelled,STC Pay,Back to School,W03,
+O00818,C0013,2025-11-19 23:12:00,Website,Delivered,Apple Pay,White Friday,W05,3.0
+O00819,C0250,2026-02-13 22:45:00,Store,Delivered,Mada,Ramadan Sale,W04,1.0
+O00820,C0152,2026-01-19 09:22:00,Website,Delivered,Mada,None,W05,5.0
+O00821,C0445,2026-05-06 10:22:00,Website,Delivered,STC Pay,Ramadan Sale,W01,2.0
+O00822,C0261,2025-08-12 19:01:00,Website,Delivered,STC Pay,White Friday,W03,6.0
+O00823,C0453,2026-03-25 23:27:00,Website,Delivered,STC Pay,New Customer,W05,2.0
+O00824,C0202,2025-08-14 09:02:00,Store,Delivered,Apple Pay,White Friday,W05,4.0
+O00825,C0291,2025-09-19 14:00:00,Website,Processing,Card,Back to School,W04,1.0
+O00826,C0041,2026-04-16 18:39:00,Website,Delivered,Mada,Back to School,W05,6.0
+O00827,C0143,2026-09-01 15:14:00,Website,Cancelled,Cash on Delivery,Back to School,W05,
+O00828,C0303,2025-11-04 16:06:00,Mobile App,Cancelled,Apple Pay,Ramadan Sale,W04,
+O00829,C0320,2026-05-08 10:49:00,Store,Delivered,Mada,White Friday,W04,3.0
+O00830,C0158,2025-08-30 23:56:00,Store,Processing,Mada,National Day,W02,4.0
+O00831,C0304,2026-01-21 10:06:00,Mobile App,Delivered,Card,Ramadan Sale,W05,7.0
+O00832,C0091,2025-02-03 12:18:00,Website,Processing,Cash on Delivery,New Customer,W05,1.0
+O00833,C0299,2025-03-26 09:39:00,Store,Delivered,Apple Pay,White Friday,W04,2.0
+O00834,C0426,2026-09-20 17:08:00,Mobile App,Delivered,Cash on Delivery,Ramadan Sale,W05,
+O00835,C0243,2026-04-09 19:32:00,Mobile App,Delivered,Mada,White Friday,W02,5.0
+O00836,C0449,2025-05-01 12:06:00,Website,Processing,Card,Back to School,W03,3.0
+O00837,C0283,2026-08-25 17:59:00,Store,Delivered,Card,Back to School,W02,7.0
+O00838,C0412,2025-09-16 20:11:00,Mobile App,Cancelled,Mada,New Customer,W03,
+O00839,C0385,2026-08-04 13:00:00,Website,Returned,Cash on Delivery,White Friday,W01,8.0
+O00840,C0214,2025-02-09 08:40:00,Website,Delivered,STC Pay,Back to School,W03,1.0
+O00841,C0109,2025-06-01 18:43:00,Mobile App,Delivered,STC Pay,Back to School,W05,7.0
+O00842,C0276,2026-04-13 09:18:00,Website,Delivered,Card,White Friday,W04,8.0
+O00843,C0419,2025-08-23 16:25:00,Mobile App,Delivered,Card,Ramadan Sale,W04,4.0
+O00844,C0412,2025-10-08 21:01:00,Store,Delivered,Cash on Delivery,National Day,W01,8.0
+O00845,C0220,2025-03-23 18:41:00,Mobile App,Delivered,Card,Ramadan Sale,W03,3.0
+O00846,C0050,2025-10-23 17:34:00,Mobile App,Delivered,Card,Ramadan Sale,W01,1.0
+O00847,C0343,2026-09-22 16:50:00,Mobile App,Delivered,Cash on Delivery,Ramadan Sale,W04,4.0
+O00848,C0045,2025-03-06 13:09:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W04,6.0
+O00849,C0414,2026-06-09 20:13:00,Mobile App,Delivered,Mada,National Day,W01,4.0
+O00850,C0002,2026-08-08 19:01:00,Store,Processing,Cash on Delivery,White Friday,W01,3.0
+O00851,C0283,2025-12-15 11:39:00,Mobile App,Cancelled,Cash on Delivery,Ramadan Sale,W03,
+O00852,C0071,2025-09-22 20:09:00,Mobile App,Delivered,Card,National Day,W03,2.0
+O00853,C0048,2025-05-21 11:23:00,Store,Delivered,Cash on Delivery,Back to School,W01,3.0
+O00854,C0387,2026-07-09 10:51:00,Store,Delivered,STC Pay,Back to School,W05,5.0
+O00855,C0471,2026-03-07 10:42:00,Mobile App,Delivered,Apple Pay,None,W01,1.0
+O00856,C0208,2026-07-09 11:16:00,Store,Delivered,Apple Pay,None,W03,3.0
+O00857,C0416,2025-01-18 23:13:00,Website,Delivered,STC Pay,Ramadan Sale,W04,1.0
+O00858,C0031,2026-03-17 14:39:00,Website,Delivered,STC Pay,Back to School,W03,3.0
+O00859,C0138,2025-09-13 11:45:00,Mobile App,Delivered,Mada,None,W01,7.0
+O00860,C0496,2025-09-12 12:45:00,Store,Delivered,Card,New Customer,W01,7.0
+O00861,C0002,2026-10-30 14:45:00,Mobile App,Delivered,Mada,None,W03,4.0
+O00862,C0194,2026-11-07 16:28:00,Store,Delivered,Apple Pay,Ramadan Sale,W04,6.0
+O00863,C0251,2026-05-16 16:27:00,Website,Delivered,Mada,Ramadan Sale,W01,1.0
+O00864,C0091,2026-03-13 08:30:00,Mobile App,Cancelled,STC Pay,White Friday,W03,
+O00865,C0142,2026-05-04 20:17:00,Website,Delivered,Apple Pay,None,W02,8.0
+O00866,C0057,2025-10-02 19:33:00,Website,Delivered,STC Pay,Back to School,W04,1.0
+O00867,C0415,2025-09-08 13:40:00,Mobile App,Delivered,Apple Pay,None,W03,7.0
+O00868,C0129,2025-10-06 14:40:00,Mobile App,Delivered,STC Pay,National Day,W05,6.0
+O00869,C0167,2025-02-16 18:22:00,Website,Delivered,Cash on Delivery,White Friday,W02,7.0
+O00870,C0500,2026-07-16 22:45:00,Mobile App,Delivered,Apple Pay,Back to School,W01,1.0
+O00871,C0330,2026-08-26 22:57:00,Website,Delivered,Apple Pay,National Day,W01,2.0
+O00872,C0388,2025-01-07 23:52:00,Mobile App,Processing,Cash on Delivery,None,W01,5.0
+O00873,C0285,2025-06-18 08:47:00,Mobile App,Delivered,Card,New Customer,W03,4.0
+O00874,C0092,2025-07-20 14:12:00,Mobile App,Delivered,Mada,Ramadan Sale,W05,3.0
+O00875,C0322,2025-11-03 21:09:00,Mobile App,Delivered,Apple Pay,White Friday,W04,1.0
+O00876,C0458,2026-03-07 11:05:00,Website,Delivered,Apple Pay,White Friday,W01,7.0
+O00877,C0366,2026-07-23 18:56:00,Mobile App,Delivered,STC Pay,National Day,W05,4.0
+O00878,C0193,2026-07-03 22:59:00,Mobile App,Delivered,Apple Pay,None,W02,2.0
+O00879,C0276,2025-08-26 12:15:00,Mobile App,Returned,STC Pay,National Day,W01,4.0
+O00880,C0424,2025-07-02 09:27:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W01,3.0
+O00881,C0085,2025-10-10 18:01:00,Website,Delivered,Card,New Customer,W01,1.0
+O00882,C0300,2025-03-25 10:44:00,Store,Delivered,Card,White Friday,W05,6.0
+O00883,C0369,2025-06-03 19:20:00,Website,Delivered,STC Pay,New Customer,W03,5.0
+O00884,C0343,2026-08-14 23:18:00,Store,Delivered,Card,Ramadan Sale,W02,5.0
+O00885,C0023,2026-09-06 09:00:00,Store,Delivered,Mada,Back to School,W03,2.0
+O00886,C0194,2026-07-31 11:15:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W03,6.0
+O00887,C0366,2025-02-10 23:03:00,Website,Delivered,STC Pay,National Day,W05,8.0
+O00888,C0270,2025-07-09 12:04:00,Mobile App,Delivered,Card,White Friday,W03,2.0
+O00889,C0451,2025-09-12 14:24:00,Website,Delivered,Card,White Friday,W03,4.0
+O00890,C0348,2025-10-30 13:33:00,Mobile App,Delivered,Cash on Delivery,White Friday,W03,3.0
+O00891,C0370,2026-06-26 21:13:00,Store,Delivered,Cash on Delivery,None,W04,1.0
+O00892,C0404,2025-08-23 19:21:00,Website,Delivered,Apple Pay,New Customer,W01,2.0
+O00893,C0272,2026-06-02 08:49:00,Website,Delivered,Apple Pay,National Day,W05,3.0
+O00894,C0352,2026-10-17 09:54:00,Website,Delivered,Apple Pay,Ramadan Sale,W03,4.0
+O00895,C0365,2026-09-07 22:33:00,Store,Delivered,Card,National Day,W01,4.0
+O00896,C0111,2025-05-18 20:41:00,Website,Delivered,Mada,None,W01,2.0
+O00897,C0399,2026-07-20 08:00:00,Website,Returned,Card,None,W05,2.0
+O00898,C0306,2026-06-21 08:15:00,Website,Delivered,Mada,Back to School,W03,2.0
+O00899,C0270,2026-10-17 17:06:00,Website,Delivered,Mada,National Day,W04,6.0
+O00900,C0076,2025-03-17 15:28:00,Website,Delivered,Card,None,W03,1.0
+O00901,C0188,2026-10-08 08:49:00,Website,Cancelled,Mada,White Friday,W04,
+O00902,C0454,2025-07-28 19:24:00,Mobile App,Delivered,Card,White Friday,W02,8.0
+O00903,C0394,2025-08-12 16:57:00,Website,Delivered,Mada,National Day,W05,3.0
+O00904,C0074,2026-09-29 14:33:00,Website,Cancelled,Card,None,W02,
+O00905,C0230,2025-07-18 18:19:00,Store,Delivered,STC Pay,New Customer,W05,3.0
+O00906,C0371,2025-05-08 09:06:00,Mobile App,Delivered,Card,National Day,W01,6.0
+O00907,C0307,2026-08-10 21:49:00,Mobile App,Delivered,Cash on Delivery,National Day,W05,8.0
+O00908,C0188,2026-08-17 20:40:00,Website,Processing,Cash on Delivery,National Day,W01,
+O00909,C0406,2025-07-19 13:56:00,Website,Delivered,Apple Pay,Back to School,W02,7.0
+O00910,C0319,2025-01-24 23:09:00,Website,Delivered,Mada,None,W04,3.0
+O00911,C0344,2026-11-10 19:41:00,Store,Delivered,Apple Pay,New Customer,W05,1.0
+O00912,C0313,2026-03-21 18:01:00,Mobile App,Delivered,Apple Pay,White Friday,W05,6.0
+O00913,C0177,2026-02-21 10:59:00,Website,Cancelled,Mada,White Friday,W01,
+O00914,C0473,2025-05-04 16:53:00,Website,Delivered,STC Pay,Ramadan Sale,W02,5.0
+O00915,C0264,2026-03-21 20:58:00,Website,Returned,Card,None,W04,4.0
+O00916,C0422,2025-01-27 09:04:00,Website,Delivered,Cash on Delivery,None,W03,2.0
+O00917,C0211,2026-10-05 12:03:00,Website,Delivered,Cash on Delivery,Back to School,W01,8.0
+O00918,C0372,2026-02-17 21:42:00,Website,Delivered,Card,National Day,W01,8.0
+O00919,C0478,2026-09-09 10:49:00,Website,Delivered,STC Pay,New Customer,W05,5.0
+O00920,C0046,2025-05-16 18:22:00,Website,Delivered,Cash on Delivery,White Friday,W01,8.0
+O00921,C0053,2025-03-22 13:00:00,Website,Delivered,Mada,Ramadan Sale,W05,6.0
+O00922,C0193,2025-05-05 14:13:00,Store,Delivered,STC Pay,Back to School,W03,5.0
+O00923,C0262,2025-02-14 11:27:00,Store,Delivered,Apple Pay,White Friday,W02,5.0
+O00924,C0096,2025-03-18 08:53:00,Website,Delivered,Mada,National Day,W05,3.0
+O00925,C0215,2025-06-25 18:47:00,Mobile App,Cancelled,STC Pay,White Friday,W02,
+O00926,C0091,2026-07-11 18:26:00,Website,Delivered,Mada,New Customer,W01,8.0
+O00927,C0441,2026-05-24 15:57:00,Mobile App,Delivered,Apple Pay,None,W03,1.0
+O00928,C0093,2025-08-18 19:20:00,Website,Delivered,Mada,New Customer,W03,1.0
+O00929,C0038,2026-06-20 13:04:00,Website,Processing,STC Pay,White Friday,W04,5.0
+O00930,C0020,2025-12-05 09:38:00,Website,Delivered,STC Pay,White Friday,W05,5.0
+O00931,C0263,2026-07-21 10:41:00,Website,Delivered,STC Pay,National Day,W04,1.0
+O00932,C0200,2026-05-05 14:34:00,Mobile App,Delivered,Card,National Day,W04,5.0
+O00933,C0322,2026-11-11 22:31:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W05,7.0
+O00934,C0384,2025-02-09 18:43:00,Website,Delivered,Apple Pay,New Customer,W02,6.0
+O00935,C0445,2026-01-05 20:24:00,Website,Delivered,Mada,National Day,W01,1.0
+O00936,C0138,2025-09-15 13:59:00,Mobile App,Delivered,Mada,Ramadan Sale,W02,6.0
+O00937,C0201,2025-08-16 14:34:00,Store,Processing,Card,Back to School,W04,2.0
+O00938,C0273,2025-12-12 23:11:00,Website,Returned,Apple Pay,National Day,W02,7.0
+O00939,C0287,2026-02-05 19:23:00,Mobile App,Delivered,STC Pay,Back to School,W04,6.0
+O00940,C0148,2025-09-25 15:00:00,Mobile App,Delivered,Card,New Customer,W05,2.0
+O00941,C0020,2025-03-30 19:13:00,Website,Delivered,Cash on Delivery,White Friday,W01,6.0
+O00942,C0050,2025-09-01 21:28:00,Website,Cancelled,STC Pay,Back to School,W02,
+O00943,C0182,2025-07-01 22:24:00,Store,Delivered,Card,New Customer,W05,8.0
+O00944,C0121,2026-06-11 19:25:00,Website,Delivered,Cash on Delivery,National Day,W04,7.0
+O00945,C0213,2026-04-06 22:17:00,Website,Delivered,Mada,New Customer,W03,6.0
+O00946,C0066,2025-11-08 11:05:00,Website,Cancelled,Cash on Delivery,None,W02,
+O00947,C0068,2026-10-21 11:51:00,Website,Delivered,Apple Pay,None,W03,6.0
+O00948,C0146,2025-11-07 17:54:00,Mobile App,Delivered,Mada,National Day,W05,8.0
+O00949,C0230,2026-10-15 22:46:00,Mobile App,Returned,Apple Pay,New Customer,W01,3.0
+O00950,C0471,2026-01-13 17:13:00,Website,Returned,Apple Pay,Ramadan Sale,W05,2.0
+O00951,C0004,2026-10-04 17:39:00,Website,Delivered,Card,None,W05,4.0
+O00952,C0238,2025-12-20 08:34:00,Mobile App,Delivered,STC Pay,New Customer,W01,8.0
+O00953,C0165,2025-09-24 19:35:00,Mobile App,Delivered,Mada,Ramadan Sale,W05,1.0
+O00954,C0438,2026-04-10 20:57:00,Website,Delivered,Card,White Friday,W01,3.0
+O00955,C0404,2025-08-11 13:53:00,Website,Returned,Apple Pay,Ramadan Sale,W05,4.0
+O00956,C0328,2025-11-07 15:35:00,Website,Delivered,Apple Pay,Back to School,W03,4.0
+O00957,C0452,2026-05-20 15:10:00,Website,Cancelled,Card,National Day,W03,
+O00958,C0256,2026-09-18 11:11:00,Mobile App,Returned,STC Pay,White Friday,W01,3.0
+O00959,C0389,2026-06-24 23:46:00,Mobile App,Delivered,Cash on Delivery,Ramadan Sale,W05,4.0
+O00960,C0051,2025-05-18 19:25:00,Mobile App,Delivered,Card,National Day,W02,3.0
+O00961,C0311,2026-04-22 22:22:00,Mobile App,Delivered,Cash on Delivery,New Customer,W05,6.0
+O00962,C0409,2025-02-11 14:01:00,Website,Delivered,Mada,New Customer,W01,6.0
+O00963,C0489,2025-08-04 10:01:00,Mobile App,Delivered,Apple Pay,New Customer,W05,6.0
+O00964,C0030,2026-09-19 14:58:00,Website,Delivered,Mada,None,W02,8.0
+O00965,C0078,2025-06-05 11:13:00,Store,Delivered,Mada,White Friday,W04,3.0
+O00966,C0060,2025-04-26 20:25:00,Store,Delivered,Card,None,W05,1.0
+O00967,C0102,2026-09-30 14:02:00,Website,Delivered,Mada,Back to School,W02,1.0
+O00968,C0392,2025-10-16 13:06:00,Website,Delivered,STC Pay,New Customer,W04,3.0
+O00969,C0100,2026-01-11 19:46:00,Mobile App,Delivered,Card,Ramadan Sale,W05,6.0
+O00970,C0398,2025-04-10 15:29:00,Website,Delivered,Mada,Back to School,W05,6.0
+O00971,C0039,2025-06-09 08:09:00,Store,Processing,Mada,None,W03,5.0
+O00972,C0086,2026-09-06 09:28:00,Store,Delivered,Mada,White Friday,W05,1.0
+O00973,C0333,2025-04-20 18:20:00,Store,Delivered,Card,Ramadan Sale,W03,1.0
+O00974,C0464,2026-02-20 23:36:00,Mobile App,Returned,Cash on Delivery,White Friday,W03,2.0
+O00975,C0191,2025-10-19 21:53:00,Website,Delivered,Mada,None,W02,5.0
+O00976,C0063,2025-02-09 14:01:00,Mobile App,Cancelled,Mada,National Day,W02,
+O00977,C0251,2025-06-15 21:33:00,Website,Delivered,Card,New Customer,W03,8.0
+O00978,C0499,2025-12-17 09:29:00,Mobile App,Delivered,Mada,White Friday,W01,4.0
+O00979,C0025,2025-10-22 19:33:00,Mobile App,Processing,Apple Pay,White Friday,W02,1.0
+O00980,C0229,2026-03-13 21:38:00,Website,Delivered,Card,National Day,W01,6.0
+O00981,C0311,2026-02-17 13:52:00,Store,Cancelled,Cash on Delivery,White Friday,W04,
+O00982,C0438,2026-05-02 08:02:00,Website,Delivered,Mada,White Friday,W01,5.0
+O00983,C0135,2026-08-23 15:34:00,Mobile App,Delivered,STC Pay,New Customer,W03,1.0
+O00984,C0402,2025-06-26 09:16:00,Mobile App,Delivered,STC Pay,Back to School,W05,8.0
+O00985,C0062,2026-03-01 20:38:00,Website,Delivered,Mada,White Friday,W01,3.0
+O00986,C0293,2025-09-30 15:14:00,Mobile App,Cancelled,Mada,Ramadan Sale,W02,
+O00987,C0313,2026-04-02 08:04:00,Store,Delivered,Apple Pay,White Friday,W02,1.0
+O00988,C0277,2025-06-25 11:05:00,Mobile App,Delivered,Card,New Customer,W03,2.0
+O00989,C0400,2026-08-22 22:57:00,Website,Delivered,Mada,None,W05,5.0
+O00990,C0083,2025-05-04 22:56:00,Mobile App,Returned,Apple Pay,National Day,W04,6.0
+O00991,C0243,2025-11-24 23:42:00,Mobile App,Delivered,Apple Pay,White Friday,W05,2.0
+O00992,C0044,2025-06-11 23:43:00,Website,Cancelled,Apple Pay,National Day,W04,
+O00993,C0477,2026-05-04 09:17:00,Website,Delivered,Card,Back to School,W01,7.0
+O00994,C0329,2025-09-12 13:31:00,Store,Delivered,STC Pay,National Day,W02,6.0
+O00995,C0344,2026-10-19 20:11:00,Website,Delivered,STC Pay,White Friday,W03,7.0
+O00996,C0220,2025-01-27 16:28:00,Website,Delivered,Mada,None,W02,6.0
+O00997,C0297,2025-09-06 21:17:00,Website,Delivered,STC Pay,National Day,W02,5.0
+O00998,C0133,2026-02-09 23:09:00,Mobile App,Processing,Mada,National Day,W05,1.0
+O00999,C0301,2025-09-12 19:42:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W04,2.0
+O01000,C0175,2025-07-11 15:02:00,Website,Returned,STC Pay,None,W04,6.0
+O01001,C0254,2025-05-29 16:07:00,Website,Delivered,Card,Ramadan Sale,W03,5.0
+O01002,C0241,2026-05-11 10:49:00,Mobile App,Delivered,STC Pay,National Day,W05,1.0
+O01003,C0041,2026-03-30 16:26:00,Store,Delivered,Apple Pay,Back to School,W05,3.0
+O01004,C0203,2026-09-26 22:19:00,Website,Returned,Cash on Delivery,New Customer,W01,6.0
+O01005,C0026,2025-04-24 11:39:00,Mobile App,Delivered,Apple Pay,None,W04,6.0
+O01006,C0059,2025-03-14 23:05:00,Mobile App,Delivered,Apple Pay,National Day,W05,7.0
+O01007,C0332,2025-05-09 11:32:00,Website,Delivered,STC Pay,None,W04,8.0
+O01008,C0155,2025-05-20 17:33:00,Website,Processing,Card,Back to School,W04,4.0
+O01009,C0211,2025-02-21 18:50:00,Website,Delivered,Cash on Delivery,Back to School,W04,6.0
+O01010,C0394,2025-11-23 15:12:00,Mobile App,Cancelled,Card,White Friday,W02,
+O01011,C0449,2026-01-26 12:54:00,Mobile App,Delivered,Cash on Delivery,New Customer,W03,1.0
+O01012,C0118,2025-02-24 08:44:00,Website,Returned,Apple Pay,None,W02,3.0
+O01013,C0452,2026-05-05 23:19:00,Mobile App,Delivered,STC Pay,None,W04,1.0
+O01014,C0048,2026-01-17 16:34:00,Mobile App,Cancelled,Card,None,W05,
+O01015,C0247,2026-05-22 12:12:00,Website,Returned,STC Pay,Back to School,W04,1.0
+O01016,C0374,2025-04-24 13:03:00,Website,Delivered,Mada,Back to School,W02,7.0
+O01017,C0273,2025-02-19 22:35:00,Mobile App,Delivered,Apple Pay,Back to School,W03,3.0
+O01018,C0120,2026-05-31 18:56:00,Mobile App,Delivered,Cash on Delivery,None,W01,7.0
+O01019,C0174,2025-05-30 14:54:00,Website,Returned,Apple Pay,Ramadan Sale,W04,5.0
+O01020,C0418,2025-03-28 22:28:00,Website,Returned,Apple Pay,Ramadan Sale,W03,3.0
+O01021,C0038,2026-05-02 19:45:00,Mobile App,Delivered,Card,National Day,W04,4.0
+O01022,C0258,2025-05-29 16:39:00,Website,Returned,Apple Pay,Back to School,W01,1.0
+O01023,C0464,2025-03-10 21:22:00,Website,Processing,Cash on Delivery,New Customer,W03,3.0
+O01024,C0274,2026-01-06 10:30:00,Website,Delivered,STC Pay,None,W01,6.0
+O01025,C0492,2026-05-30 16:55:00,Website,Delivered,STC Pay,National Day,W05,7.0
+O01026,C0349,2025-05-21 16:24:00,Mobile App,Delivered,STC Pay,National Day,W04,5.0
+O01027,C0333,2025-08-20 22:10:00,Website,Delivered,Card,Ramadan Sale,W01,8.0
+O01028,C0108,2025-06-26 09:45:00,Store,Delivered,Apple Pay,Ramadan Sale,W01,1.0
+O01029,C0024,2025-01-31 23:45:00,Website,Delivered,Card,Back to School,W02,6.0
+O01030,C0121,2026-07-21 17:59:00,Website,Delivered,Card,National Day,W05,1.0
+O01031,C0302,2025-11-20 11:02:00,Mobile App,Delivered,Card,White Friday,W04,3.0
+O01032,C0488,2026-08-26 20:28:00,Website,Cancelled,Card,White Friday,W04,
+O01033,C0483,2025-08-19 17:00:00,Mobile App,Cancelled,Card,White Friday,W05,
+O01034,C0215,2026-07-16 14:18:00,Website,Delivered,STC Pay,National Day,W05,7.0
+O01035,C0120,2026-07-07 21:35:00,Store,Delivered,STC Pay,None,W04,8.0
+O01036,C0194,2025-01-24 15:08:00,Website,Delivered,Mada,New Customer,W03,8.0
+O01037,C0390,2026-08-09 19:59:00,Website,Delivered,Mada,Back to School,W03,6.0
+O01038,C0428,2026-10-23 12:17:00,Mobile App,Delivered,Mada,Ramadan Sale,W04,5.0
+O01039,C0263,2026-08-25 10:28:00,Mobile App,Delivered,Cash on Delivery,New Customer,W03,5.0
+O01040,C0065,2025-01-03 12:08:00,Website,Cancelled,Card,New Customer,W05,
+O01041,C0113,2025-12-17 21:17:00,Mobile App,Processing,Apple Pay,Ramadan Sale,W03,4.0
+O01042,C0094,2025-06-14 16:45:00,Website,Delivered,Mada,None,W04,6.0
+O01043,C0288,2026-10-19 09:05:00,Website,Delivered,Card,National Day,W02,8.0
+O01044,C0419,2026-03-28 09:52:00,Website,Delivered,Card,White Friday,W01,7.0
+O01045,C0335,2025-03-30 17:35:00,Mobile App,Delivered,Apple Pay,New Customer,W02,8.0
+O01046,C0212,2025-12-19 12:38:00,Store,Delivered,Card,White Friday,W01,3.0
+O01047,C0313,2026-02-17 15:43:00,Mobile App,Delivered,Cash on Delivery,Ramadan Sale,W03,8.0
+O01048,C0447,2025-06-05 21:33:00,Store,Delivered,STC Pay,White Friday,W01,7.0
+O01049,C0278,2026-05-31 14:35:00,Website,Delivered,Apple Pay,White Friday,W03,7.0
+O01050,C0318,2025-12-10 19:05:00,Website,Delivered,Apple Pay,National Day,W02,1.0
+O01051,C0159,2025-01-29 11:56:00,Store,Delivered,Card,White Friday,W05,7.0
+O01052,C0152,2026-04-01 20:03:00,Website,Delivered,Card,White Friday,W05,6.0
+O01053,C0225,2025-11-18 19:55:00,Website,Processing,Mada,New Customer,W01,1.0
+O01054,C0094,2025-12-22 16:28:00,Mobile App,Delivered,Card,White Friday,W03,1.0
+O01055,C0015,2025-08-25 10:03:00,Website,Delivered,STC Pay,Ramadan Sale,W03,1.0
+O01056,C0065,2025-02-02 14:27:00,Mobile App,Delivered,Cash on Delivery,None,W01,5.0
+O01057,C0492,2026-07-13 19:22:00,Website,Delivered,Cash on Delivery,New Customer,W05,6.0
+O01058,C0209,2026-05-14 08:41:00,Mobile App,Delivered,STC Pay,None,W01,7.0
+O01059,C0137,2025-05-09 14:42:00,Mobile App,Delivered,Cash on Delivery,National Day,W03,4.0
+O01060,C0435,2025-06-10 18:20:00,Website,Delivered,Cash on Delivery,None,W01,8.0
+O01061,C0201,2025-07-08 17:06:00,Website,Delivered,STC Pay,None,W02,3.0
+O01062,C0036,2025-01-16 09:36:00,Store,Delivered,Mada,New Customer,W01,6.0
+O01063,C0468,2026-02-28 16:15:00,Store,Delivered,Card,None,W04,7.0
+O01064,C0500,2026-04-13 18:48:00,Mobile App,Returned,STC Pay,White Friday,W03,3.0
+O01065,C0160,2025-06-21 20:02:00,Mobile App,Delivered,Mada,New Customer,W02,1.0
+O01066,C0065,2025-01-02 22:07:00,Website,Delivered,Apple Pay,Ramadan Sale,W05,1.0
+O01067,C0332,2026-09-15 13:04:00,Store,Delivered,Card,National Day,W05,8.0
+O01068,C0109,2026-07-03 19:21:00,Website,Delivered,STC Pay,Back to School,W05,8.0
+O01069,C0026,2025-12-14 15:30:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W01,7.0
+O01070,C0170,2025-11-15 09:42:00,Mobile App,Delivered,Apple Pay,New Customer,W04,3.0
+O01071,C0275,2025-05-11 15:08:00,Website,Delivered,Cash on Delivery,None,W03,5.0
+O01072,C0057,2025-03-09 21:23:00,Mobile App,Delivered,Card,New Customer,W02,1.0
+O01073,C0480,2025-06-02 15:54:00,Mobile App,Delivered,Mada,Back to School,W02,2.0
+O01074,C0389,2025-05-14 10:26:00,Website,Delivered,Cash on Delivery,White Friday,W02,1.0
+O01075,C0234,2026-04-16 19:25:00,Website,Returned,STC Pay,Ramadan Sale,W02,2.0
+O01076,C0381,2025-03-17 23:19:00,Mobile App,Delivered,Apple Pay,National Day,W05,4.0
+O01077,C0495,2026-07-09 16:04:00,Website,Delivered,Apple Pay,National Day,W01,4.0
+O01078,C0465,2026-02-07 22:48:00,Website,Returned,Apple Pay,New Customer,W04,3.0
+O01079,C0031,2025-11-07 17:49:00,Website,Delivered,Card,White Friday,W04,7.0
+O01080,C0087,2026-01-30 12:27:00,Website,Returned,Cash on Delivery,Ramadan Sale,W03,4.0
+O01081,C0264,2026-06-10 09:34:00,Store,Delivered,STC Pay,New Customer,W05,2.0
+O01082,C0337,2026-09-08 20:16:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W03,8.0
+O01083,C0362,2026-01-10 23:25:00,Store,Delivered,Cash on Delivery,Back to School,W04,7.0
+O01084,C0370,2026-10-13 18:12:00,Website,Delivered,Cash on Delivery,National Day,W04,5.0
+O01085,C0493,2025-03-07 21:13:00,Website,Returned,Apple Pay,Back to School,W03,6.0
+O01086,C0474,2026-09-26 17:32:00,Website,Delivered,Mada,National Day,W02,6.0
+O01087,C0142,2025-05-20 15:23:00,Mobile App,Delivered,Card,Back to School,W02,7.0
+O01088,C0489,2025-09-29 14:15:00,Website,Cancelled,Mada,None,W03,
+O01089,C0395,2026-04-14 15:06:00,Mobile App,Processing,Card,None,W05,1.0
+O01090,C0374,2026-07-17 22:05:00,Mobile App,Returned,Cash on Delivery,Ramadan Sale,W02,6.0
+O01091,C0334,2026-05-26 09:07:00,Mobile App,Delivered,Apple Pay,New Customer,W01,7.0
+O01092,C0097,2025-07-19 22:00:00,Store,Delivered,Card,New Customer,W03,3.0
+O01093,C0078,2026-05-11 13:46:00,Website,Delivered,Cash on Delivery,White Friday,W02,2.0
+O01094,C0112,2026-02-12 10:31:00,Store,Processing,Apple Pay,None,W02,4.0
+O01095,C0308,2026-10-23 13:36:00,Store,Delivered,Apple Pay,Back to School,W02,6.0
+O01096,C0309,2026-09-15 13:00:00,Store,Delivered,Apple Pay,Back to School,W02,3.0
+O01097,C0018,2026-04-26 20:05:00,Mobile App,Returned,Mada,None,W05,3.0
+O01098,C0259,2025-06-12 14:24:00,Website,Delivered,Card,Ramadan Sale,W04,2.0
+O01099,C0493,2026-07-26 13:45:00,Store,Delivered,Mada,New Customer,W03,5.0
+O01100,C0497,2025-08-10 12:09:00,Store,Processing,STC Pay,None,W01,5.0
+O01101,C0440,2026-08-03 12:45:00,Store,Cancelled,Apple Pay,Ramadan Sale,W03,
+O01102,C0173,2025-08-05 19:41:00,Website,Delivered,Mada,Ramadan Sale,W01,2.0
+O01103,C0249,2025-11-19 15:54:00,Website,Delivered,Card,New Customer,W05,6.0
+O01104,C0090,2026-02-15 09:32:00,Mobile App,Cancelled,Apple Pay,National Day,W04,
+O01105,C0129,2026-08-06 10:51:00,Mobile App,Delivered,Card,Back to School,W01,7.0
+O01106,C0109,2026-08-29 18:28:00,Website,Delivered,Apple Pay,None,W04,1.0
+O01107,C0374,2026-11-09 10:09:00,Store,Delivered,STC Pay,Ramadan Sale,W04,7.0
+O01108,C0038,2025-06-18 21:31:00,Website,Returned,STC Pay,Ramadan Sale,W02,8.0
+O01109,C0274,2026-09-29 23:41:00,Website,Delivered,Apple Pay,New Customer,W05,5.0
+O01110,C0169,2025-11-13 14:01:00,Mobile App,Processing,STC Pay,New Customer,W03,2.0
+O01111,C0036,2025-12-27 08:49:00,Mobile App,Delivered,Cash on Delivery,Back to School,W05,8.0
+O01112,C0341,2026-03-22 23:25:00,Website,Delivered,Mada,Back to School,W01,7.0
+O01113,C0358,2025-08-14 23:12:00,Mobile App,Delivered,Cash on Delivery,National Day,W04,3.0
+O01114,C0005,2025-07-03 19:22:00,Mobile App,Delivered,Mada,White Friday,W02,7.0
+O01115,C0470,2026-06-22 18:39:00,Store,Delivered,Mada,New Customer,W04,4.0
+O01116,C0483,2025-10-27 15:19:00,Mobile App,Delivered,Cash on Delivery,National Day,W01,7.0
+O01117,C0133,2025-10-10 22:18:00,Store,Delivered,Mada,Back to School,W01,3.0
+O01118,C0066,2026-09-12 23:46:00,Store,Returned,STC Pay,New Customer,W05,5.0
+O01119,C0458,2026-08-08 22:08:00,Website,Delivered,Mada,None,W04,6.0
+O01120,C0364,2026-02-27 19:21:00,Mobile App,Delivered,Apple Pay,None,W02,1.0
+O01121,C0196,2025-03-07 12:46:00,Mobile App,Delivered,Card,Ramadan Sale,W03,2.0
+O01122,C0171,2026-02-07 19:33:00,Website,Delivered,Cash on Delivery,National Day,W03,8.0
+O01123,C0199,2025-08-15 10:04:00,Mobile App,Delivered,Cash on Delivery,None,W02,5.0
+O01124,C0094,2025-09-29 21:13:00,Website,Delivered,Apple Pay,New Customer,W04,7.0
+O01125,C0017,2026-07-20 18:45:00,Website,Delivered,Cash on Delivery,White Friday,W05,1.0
+O01126,C0498,2026-05-14 22:56:00,Mobile App,Delivered,Apple Pay,None,W03,4.0
+O01127,C0484,2025-10-15 21:25:00,Website,Delivered,Cash on Delivery,New Customer,W02,4.0
+O01128,C0120,2025-01-10 12:01:00,Website,Delivered,Card,Ramadan Sale,W02,1.0
+O01129,C0226,2025-03-11 11:42:00,Mobile App,Returned,Cash on Delivery,None,W04,7.0
+O01130,C0417,2025-11-19 15:57:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W01,2.0
+O01131,C0470,2025-05-15 09:08:00,Mobile App,Delivered,STC Pay,New Customer,W01,2.0
+O01132,,2026-02-28 16:42:00,Mobile App,Returned,Card,White Friday,W04,6.0
+O01133,C0278,2025-08-21 22:09:00,Mobile App,Cancelled,Apple Pay,Back to School,W05,
+O01134,C0274,2025-10-16 16:58:00,Mobile App,Delivered,Apple Pay,White Friday,W02,4.0
+O01135,C0062,2026-06-28 22:32:00,Mobile App,Delivered,STC Pay,White Friday,W05,1.0
+O01136,C0409,2026-10-07 15:38:00,Website,Delivered,STC Pay,National Day,W03,6.0
+O01137,C0057,2026-05-21 11:11:00,Store,Delivered,Mada,New Customer,W03,4.0
+O01138,C0439,2025-10-24 12:09:00,Website,Delivered,Cash on Delivery,New Customer,W03,7.0
+O01139,C0427,2025-01-19 17:32:00,Mobile App,Cancelled,STC Pay,National Day,W03,
+O01140,C0441,2026-01-19 20:49:00,Website,Delivered,STC Pay,Back to School,W02,8.0
+O01141,C0486,2026-09-05 18:26:00,Website,Delivered,Mada,White Friday,W03,3.0
+O01142,C0042,2026-02-13 19:34:00,Mobile App,Delivered,Apple Pay,None,W03,3.0
+O01143,C0443,2026-02-25 14:02:00,Website,Delivered,STC Pay,White Friday,W02,7.0
+O01144,C0210,2025-06-26 17:42:00,Website,Delivered,Mada,White Friday,W01,6.0
+O01145,C0371,2025-04-20 15:41:00,Store,Delivered,Card,Back to School,W05,4.0
+O01146,C0425,2025-06-27 10:23:00,Mobile App,Delivered,Card,New Customer,W03,3.0
+O01147,C0285,2026-07-05 09:24:00,Website,Delivered,Apple Pay,New Customer,W01,1.0
+O01148,C0398,2026-02-02 20:18:00,Website,Returned,Cash on Delivery,New Customer,W01,7.0
+O01149,C0415,2025-05-29 13:04:00,Website,Delivered,Card,None,W03,3.0
+O01150,C0470,2026-08-05 11:05:00,Mobile App,Delivered,Apple Pay,White Friday,W05,5.0
+O01151,C0011,2025-02-28 15:56:00,Website,Delivered,Apple Pay,New Customer,W01,1.0
+O01152,C0100,2026-07-12 20:12:00,Website,Returned,Card,Back to School,W02,5.0
+O01153,C0001,2025-12-30 13:59:00,Mobile App,Delivered,Apple Pay,New Customer,W05,1.0
+O01154,C0422,2026-04-14 21:59:00,Website,Delivered,STC Pay,Ramadan Sale,W05,7.0
+O01155,C0059,2026-10-09 20:11:00,Website,Delivered,Mada,National Day,W03,2.0
+O01156,C0406,2025-06-10 14:57:00,Mobile App,Delivered,Card,New Customer,W05,4.0
+O01157,C0439,2025-03-06 23:20:00,Mobile App,Delivered,Card,White Friday,W04,8.0
+O01158,C0371,2026-01-15 13:00:00,Store,Delivered,STC Pay,None,W03,4.0
+O01159,C0258,2025-04-24 19:37:00,Store,Delivered,Apple Pay,National Day,W03,6.0
+O01160,C0201,2026-01-21 19:44:00,Website,Processing,Mada,Ramadan Sale,W05,3.0
+O01161,C0457,2025-06-16 18:20:00,Website,Delivered,Mada,New Customer,W01,8.0
+O01162,C0392,2026-09-25 21:27:00,Store,Delivered,Card,White Friday,W05,7.0
+O01163,C0131,2026-07-27 19:43:00,Mobile App,Delivered,Mada,Back to School,W01,4.0
+O01164,C0205,2026-08-19 11:24:00,Mobile App,Delivered,Card,Back to School,W03,6.0
+O01165,C0413,2026-02-08 08:20:00,Website,Processing,Card,Ramadan Sale,W04,2.0
+O01166,C0001,2026-07-24 14:55:00,Website,Delivered,Mada,Back to School,W05,4.0
+O01167,C0213,2025-08-31 08:09:00,Website,Returned,Cash on Delivery,None,W01,1.0
+O01168,C0348,2026-02-17 11:37:00,Mobile App,Returned,Cash on Delivery,New Customer,W02,1.0
+O01169,C0460,2025-10-29 21:28:00,Mobile App,Delivered,Mada,New Customer,W01,2.0
+O01170,C0105,2026-03-14 19:56:00,Website,Delivered,Cash on Delivery,Back to School,W03,5.0
+O01171,C0141,2025-12-18 21:35:00,Website,Returned,Cash on Delivery,Ramadan Sale,W03,1.0
+O01172,C0467,2025-12-19 21:55:00,Website,Delivered,Mada,Ramadan Sale,W02,3.0
+O01173,C0326,2026-10-26 17:28:00,Website,Cancelled,Cash on Delivery,White Friday,W04,
+O01174,C0306,2025-08-17 21:20:00,Mobile App,Delivered,Apple Pay,National Day,W02,6.0
+O01175,C0171,2025-12-23 14:06:00,Mobile App,Delivered,STC Pay,None,W01,4.0
+O01176,C0445,2025-03-11 23:15:00,Mobile App,Returned,Mada,White Friday,W02,7.0
+O01177,C0346,2025-11-25 18:10:00,Mobile App,Delivered,Apple Pay,New Customer,W03,3.0
+O01178,C0044,2026-04-05 10:03:00,Website,Delivered,Card,Back to School,W03,2.0
+O01179,C0392,2026-01-10 14:22:00,Website,Delivered,STC Pay,New Customer,W03,2.0
+O01180,C0309,2025-07-28 09:21:00,Mobile App,Delivered,Card,Ramadan Sale,W02,2.0
+O01181,C0267,2026-09-08 13:27:00,Mobile App,Returned,STC Pay,National Day,W02,2.0
+O01182,C0005,2025-10-20 21:11:00,Website,Delivered,Apple Pay,None,W04,5.0
+O01183,C0374,2025-08-20 23:51:00,Mobile App,Cancelled,Card,National Day,W05,
+O01184,C0194,2025-06-16 20:37:00,Store,Returned,Apple Pay,Ramadan Sale,W04,3.0
+O01185,C0175,2025-02-23 08:44:00,Website,Delivered,STC Pay,National Day,W03,8.0
+O01186,C0477,2025-12-15 13:06:00,Mobile App,Delivered,Mada,New Customer,W05,5.0
+O01187,C0430,2026-09-22 22:37:00,Website,Delivered,Cash on Delivery,White Friday,W03,6.0
+O01188,C0226,2026-08-21 22:46:00,Mobile App,Delivered,Card,Ramadan Sale,W03,4.0
+O01189,C0469,2025-09-26 18:51:00,Website,Delivered,Apple Pay,White Friday,W04,3.0
+O01190,C0271,2026-05-30 18:48:00,Mobile App,Delivered,Card,National Day,W02,8.0
+O01191,C0432,2026-08-10 13:53:00,Mobile App,Delivered,Card,Back to School,W03,3.0
+O01192,C0337,2025-11-17 08:48:00,Store,Delivered,Card,New Customer,W03,4.0
+O01193,C0063,2026-08-13 15:50:00,Website,Delivered,STC Pay,Ramadan Sale,W05,8.0
+O01194,C0125,2026-03-13 09:36:00,Mobile App,Delivered,STC Pay,None,W05,2.0
+O01195,C0109,2026-04-18 14:25:00,Website,Delivered,STC Pay,White Friday,W02,7.0
+O01196,C0291,2025-09-09 14:22:00,Mobile App,Delivered,Card,New Customer,W03,6.0
+O01197,C0250,2026-08-05 13:22:00,Store,Delivered,Card,White Friday,W03,4.0
+O01198,C0430,2026-06-05 15:30:00,Mobile App,Delivered,Apple Pay,National Day,W05,7.0
+O01199,C0040,2025-02-05 11:39:00,Mobile App,Processing,Cash on Delivery,New Customer,W02,3.0
+O01200,C0494,2025-05-08 09:12:00,Mobile App,Delivered,Apple Pay,White Friday,W02,1.0
+O01201,C0479,2026-06-06 11:16:00,Mobile App,Delivered,Mada,None,W05,4.0
+O01202,C0254,2026-02-16 16:44:00,Store,Delivered,STC Pay,New Customer,W01,3.0
+O01203,C0315,2026-06-06 22:48:00,Website,Delivered,Cash on Delivery,None,W02,6.0
+O01204,C0329,2026-03-12 11:50:00,Website,Delivered,Cash on Delivery,New Customer,W01,4.0
+O01205,C0462,2025-03-08 23:13:00,Website,Delivered,Cash on Delivery,National Day,W02,4.0
+O01206,C0425,2025-09-15 11:14:00,Mobile App,Delivered,STC Pay,None,W03,4.0
+O01207,C0136,2025-06-20 09:59:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W01,1.0
+O01208,C0029,2026-05-22 16:06:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W05,2.0
+O01209,C0489,2026-10-12 12:09:00,Mobile App,Delivered,Mada,None,W05,8.0
+O01210,C0295,2026-02-21 14:11:00,Website,Delivered,Mada,Back to School,W02,3.0
+O01211,C0345,2025-08-08 13:26:00,Mobile App,Delivered,STC Pay,None,W01,4.0
+O01212,C0111,2025-02-21 23:00:00,Website,Delivered,Apple Pay,None,W02,1.0
+O01213,C0458,2026-03-01 12:04:00,Website,Delivered,STC Pay,National Day,W01,1.0
+O01214,C0050,2026-05-22 15:08:00,Mobile App,Delivered,Card,None,W04,4.0
+O01215,C0056,2025-07-29 20:36:00,Mobile App,Delivered,Card,New Customer,W04,8.0
+O01216,C0162,2025-10-14 21:50:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W05,2.0
+O01217,C0423,2025-08-19 17:18:00,Store,Cancelled,Apple Pay,Ramadan Sale,W03,
+O01218,C0093,2025-08-08 16:48:00,Store,Delivered,Card,National Day,W03,5.0
+O01219,C0346,2025-07-07 21:41:00,Website,Delivered,Apple Pay,Ramadan Sale,W04,7.0
+O01220,C0286,2025-01-25 12:17:00,Mobile App,Returned,Cash on Delivery,National Day,W05,6.0
+O01221,C0342,2025-04-24 18:59:00,Store,Delivered,Card,Ramadan Sale,W04,7.0
+O01222,C0110,2026-04-20 20:03:00,Mobile App,Returned,Cash on Delivery,Back to School,W04,5.0
+O01223,C0286,2025-04-01 11:36:00,Website,Delivered,STC Pay,Ramadan Sale,W01,7.0
+O01224,C0392,2026-06-26 14:25:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W03,4.0
+O01225,C0484,2025-02-10 13:07:00,Store,Delivered,Mada,Back to School,W03,7.0
+O01226,C0086,2025-07-24 23:43:00,Website,Returned,Card,Back to School,W03,1.0
+O01227,C0207,2026-04-10 15:37:00,Website,Delivered,STC Pay,National Day,W05,2.0
+O01228,C0297,2025-04-05 20:36:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W04,4.0
+O01229,C0005,2026-07-09 18:19:00,Mobile App,Delivered,Card,National Day,W04,8.0
+O01230,C0428,2025-09-08 22:05:00,Mobile App,Returned,Card,Back to School,W01,6.0
+O01231,C0010,2025-07-13 16:51:00,Website,Cancelled,Cash on Delivery,Ramadan Sale,W03,
+O01232,C0306,2025-09-14 17:37:00,Website,Returned,Mada,White Friday,W04,3.0
+O01233,C0072,2026-07-07 10:44:00,Store,Delivered,Apple Pay,National Day,W04,5.0
+O01234,C0498,2025-07-17 21:19:00,Store,Delivered,Cash on Delivery,White Friday,W01,1.0
+O01235,C0287,2025-05-23 18:06:00,Mobile App,Delivered,Card,New Customer,W02,6.0
+O01236,C0204,2025-04-28 09:03:00,Website,Delivered,Card,Back to School,W04,7.0
+O01237,C0074,2026-04-15 10:01:00,Store,Delivered,Apple Pay,Ramadan Sale,W02,7.0
+O01238,C0136,2026-06-30 19:00:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W03,5.0
+O01239,C0091,2025-05-28 22:26:00,Store,Processing,Cash on Delivery,White Friday,W01,1.0
+O01240,C0105,2025-11-13 23:54:00,Website,Delivered,STC Pay,White Friday,W01,8.0
+O01241,C0215,2026-02-01 19:59:00,Website,Delivered,Apple Pay,Ramadan Sale,W03,2.0
+O01242,C0328,2025-08-01 19:00:00,Store,Delivered,Card,National Day,W03,8.0
+O01243,C0045,2025-12-11 21:53:00,Mobile App,Delivered,Cash on Delivery,Ramadan Sale,W03,5.0
+O01244,C0420,2025-04-01 11:06:00,Mobile App,Delivered,Apple Pay,National Day,W05,2.0
+O01245,C0347,2026-08-24 17:32:00,Mobile App,Returned,Apple Pay,New Customer,W01,5.0
+O01246,C0178,2025-04-11 11:02:00,Website,Delivered,Cash on Delivery,Back to School,W02,5.0
+O01247,C0061,2026-02-16 09:19:00,Store,Delivered,Mada,None,W02,8.0
+O01248,C0198,2025-02-24 09:12:00,Store,Delivered,Apple Pay,None,W05,8.0
+O01249,C0017,2025-01-14 14:19:00,Mobile App,Returned,Card,Ramadan Sale,W01,8.0
+O01250,C0054,2026-10-08 20:56:00,Mobile App,Returned,Cash on Delivery,New Customer,W05,1.0
+O01251,C0269,2025-12-03 19:58:00,Website,Delivered,Apple Pay,White Friday,W03,4.0
+O01252,C0473,2025-06-20 22:33:00,Mobile App,Delivered,Mada,National Day,W01,4.0
+O01253,C0241,2025-06-08 12:57:00,Mobile App,Delivered,STC Pay,New Customer,W04,5.0
+O01254,C0450,2026-03-06 11:57:00,Website,Returned,Cash on Delivery,National Day,W01,6.0
+O01255,C0449,2026-02-09 13:10:00,Website,Processing,STC Pay,None,W04,5.0
+O01256,C0200,2026-03-30 19:04:00,Mobile App,Delivered,Apple Pay,National Day,W03,3.0
+O01257,C0459,2025-11-02 12:24:00,Mobile App,Delivered,Card,Ramadan Sale,W02,6.0
+O01258,C0458,2025-06-10 17:54:00,Mobile App,Delivered,Card,National Day,W05,4.0
+O01259,C0468,2025-04-20 21:38:00,Website,Cancelled,Card,Back to School,W02,
+O01260,C0244,2026-01-09 20:44:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W05,6.0
+O01261,C0009,2025-05-02 16:58:00,Website,Delivered,Apple Pay,White Friday,W05,7.0
+O01262,C0040,2026-04-05 23:21:00,Website,Cancelled,STC Pay,Back to School,W05,
+O01263,C0391,2026-09-05 22:10:00,Website,Delivered,Apple Pay,Back to School,W03,7.0
+O01264,C0184,2025-03-08 22:06:00,Website,Delivered,STC Pay,White Friday,W01,6.0
+O01265,C0329,2025-08-24 23:42:00,Website,Delivered,Mada,Back to School,W03,4.0
+O01266,C0434,2025-11-29 22:42:00,Website,Delivered,STC Pay,Ramadan Sale,W03,5.0
+O01267,C0265,2025-11-04 09:28:00,Website,Delivered,Card,White Friday,W04,4.0
+O01268,C0483,2025-12-13 14:46:00,Store,Delivered,Mada,White Friday,W02,6.0
+O01269,C0459,2025-01-31 16:33:00,Mobile App,Returned,Mada,National Day,W02,3.0
+O01270,C0133,2025-01-07 19:50:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W04,4.0
+O01271,C0132,2025-01-10 18:12:00,Mobile App,Delivered,Mada,White Friday,W01,8.0
+O01272,C0301,2025-01-29 15:53:00,Website,Cancelled,Apple Pay,White Friday,W02,
+O01273,C0053,2025-04-19 10:53:00,Website,Delivered,Mada,White Friday,W05,2.0
+O01274,C0017,2026-01-19 13:06:00,Store,Cancelled,Card,Ramadan Sale,W05,
+O01275,C0137,2025-07-08 20:17:00,Website,Delivered,Mada,National Day,W01,2.0
+O01276,C0229,2025-02-10 18:43:00,Website,Delivered,STC Pay,Ramadan Sale,W02,3.0
+O01277,C0193,2026-08-15 15:54:00,Mobile App,Delivered,Apple Pay,National Day,W03,8.0
+O01278,C0388,2025-11-29 16:03:00,Website,Delivered,STC Pay,National Day,W03,2.0
+O01279,,2025-07-04 10:10:00,Website,Returned,Mada,Ramadan Sale,W03,1.0
+O01280,C0065,2026-03-17 21:28:00,Website,Delivered,Apple Pay,White Friday,W02,5.0
+O01281,C0384,2026-10-04 19:01:00,Website,Delivered,STC Pay,White Friday,W03,1.0
+O01282,C0434,2025-01-23 13:02:00,Mobile App,Delivered,Card,National Day,W02,1.0
+O01283,C0423,2025-11-03 15:39:00,Website,Delivered,STC Pay,None,W05,4.0
+O01284,C0106,2025-06-27 08:10:00,Website,Delivered,Apple Pay,Back to School,W03,6.0
+O01285,C0116,2026-02-19 17:44:00,Mobile App,Cancelled,Apple Pay,Ramadan Sale,W02,
+O01286,C0219,2025-05-16 08:51:00,Website,Delivered,STC Pay,New Customer,W02,2.0
+O01287,C0083,2026-08-17 09:28:00,Mobile App,Cancelled,Mada,Back to School,W05,
+O01288,C0247,2026-04-16 17:37:00,Website,Delivered,Card,White Friday,W02,5.0
+O01289,C0068,2025-07-05 20:28:00,Website,Delivered,Mada,Back to School,W02,7.0
+O01290,C0164,2025-06-04 20:16:00,Store,Delivered,Apple Pay,New Customer,W01,7.0
+O01291,C0293,2026-08-31 13:42:00,Mobile App,Delivered,Cash on Delivery,Back to School,W02,5.0
+O01292,C0354,2025-08-24 18:22:00,Website,Delivered,Apple Pay,New Customer,W02,2.0
+O01293,C0470,2026-08-29 22:40:00,Mobile App,Delivered,Apple Pay,Back to School,W03,3.0
+O01294,C0420,2025-09-18 18:44:00,Mobile App,Returned,STC Pay,Ramadan Sale,W01,5.0
+O01295,C0107,2025-08-29 13:37:00,Mobile App,Delivered,Cash on Delivery,None,W03,1.0
+O01296,C0492,2026-03-20 16:03:00,Website,Returned,STC Pay,Back to School,W05,4.0
+O01297,C0261,2025-09-30 20:30:00,Mobile App,Delivered,Apple Pay,Back to School,W03,4.0
+O01298,C0005,2025-04-19 13:22:00,Mobile App,Delivered,Mada,Ramadan Sale,W03,8.0
+O01299,C0451,2025-07-04 08:05:00,Website,Cancelled,Apple Pay,Ramadan Sale,W03,
+O01300,C0404,2025-01-14 21:25:00,Mobile App,Delivered,Card,Ramadan Sale,W04,7.0
+O01301,C0027,2026-08-18 19:27:00,Website,Delivered,Cash on Delivery,New Customer,W01,1.0
+O01302,C0391,2025-07-25 13:08:00,Mobile App,Delivered,Card,None,W05,4.0
+O01303,C0011,2026-06-26 12:29:00,Website,Delivered,Mada,Back to School,W04,2.0
+O01304,C0366,2025-12-29 08:00:00,Website,Delivered,Apple Pay,Ramadan Sale,W03,7.0
+O01305,C0115,2025-04-24 14:55:00,Mobile App,Returned,Card,None,W05,5.0
+O01306,C0481,2025-07-24 11:24:00,Store,Delivered,Cash on Delivery,None,W02,8.0
+O01307,C0186,2026-05-04 21:57:00,Website,Returned,Apple Pay,Back to School,W05,5.0
+O01308,C0415,2025-03-13 23:20:00,Website,Cancelled,STC Pay,White Friday,W01,
+O01309,C0040,2026-05-24 13:14:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W05,7.0
+O01310,C0275,2026-01-14 15:24:00,Website,Cancelled,STC Pay,National Day,W01,
+O01311,C0376,2025-09-30 10:41:00,Store,Delivered,STC Pay,Back to School,W02,6.0
+O01312,C0121,2025-11-25 08:53:00,Mobile App,Cancelled,Apple Pay,White Friday,W05,
+O01313,C0434,2026-10-26 21:47:00,Website,Delivered,STC Pay,National Day,W03,5.0
+O01314,C0278,2026-04-08 19:56:00,Store,Delivered,Mada,Ramadan Sale,W04,4.0
+O01315,C0189,2026-11-06 17:56:00,Mobile App,Delivered,STC Pay,New Customer,W05,1.0
+O01316,C0358,2026-04-11 20:01:00,Website,Delivered,Mada,White Friday,W01,6.0
+O01317,C0341,2025-08-05 08:52:00,Mobile App,Delivered,Card,National Day,W02,3.0
+O01318,C0395,2026-06-09 22:32:00,Website,Delivered,Apple Pay,National Day,W03,1.0
+O01319,C0156,2025-06-23 23:25:00,Mobile App,Delivered,Cash on Delivery,None,W03,3.0
+O01320,C0332,2026-07-29 21:48:00,Website,Delivered,Mada,New Customer,W04,1.0
+O01321,C0036,2026-02-16 13:36:00,Mobile App,Returned,Card,White Friday,W02,3.0
+O01322,C0082,2026-05-18 11:35:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W04,2.0
+O01323,C0301,2025-10-26 13:01:00,Mobile App,Delivered,STC Pay,New Customer,W02,2.0
+O01324,C0145,2026-01-03 21:28:00,Website,Delivered,Apple Pay,None,W05,6.0
+O01325,C0263,2025-10-12 15:51:00,Website,Delivered,Card,White Friday,W05,2.0
+O01326,C0325,2026-01-21 16:42:00,Website,Delivered,STC Pay,National Day,W01,2.0
+O01327,C0371,2026-11-05 12:57:00,Mobile App,Cancelled,Cash on Delivery,None,W02,
+O01328,C0025,2025-07-28 08:32:00,Website,Delivered,Card,White Friday,W02,7.0
+O01329,C0090,2026-10-29 17:53:00,Mobile App,Delivered,Card,New Customer,W01,8.0
+O01330,C0488,2026-08-02 13:41:00,Mobile App,Delivered,Card,None,W04,1.0
+O01331,C0088,2026-04-29 20:25:00,Mobile App,Delivered,STC Pay,Ramadan Sale,W01,4.0
+O01332,C0345,2025-09-28 16:17:00,Mobile App,Delivered,Mada,New Customer,W02,5.0
+O01333,C0461,2025-01-07 10:11:00,Mobile App,Delivered,Apple Pay,Back to School,W02,6.0
+O01334,C0475,2025-06-09 15:29:00,Website,Delivered,STC Pay,Back to School,W05,8.0
+O01335,C0313,2026-01-21 22:00:00,Mobile App,Delivered,Apple Pay,White Friday,W03,3.0
+O01336,C0418,2026-03-27 19:49:00,Mobile App,Returned,Apple Pay,White Friday,W03,3.0
+O01337,C0128,2026-06-15 19:17:00,Website,Returned,Apple Pay,Ramadan Sale,W02,4.0
+O01338,C0300,2025-03-17 12:23:00,Mobile App,Delivered,Mada,New Customer,W02,3.0
+O01339,C0318,2025-05-12 08:24:00,Website,Delivered,Mada,National Day,W05,7.0
+O01340,C0466,2026-09-08 12:37:00,Mobile App,Returned,STC Pay,Ramadan Sale,W02,6.0
+O01341,C0231,2026-09-18 13:23:00,Website,Returned,Cash on Delivery,None,W02,5.0
+O01342,C0049,2025-12-02 14:38:00,Website,Delivered,STC Pay,None,W02,3.0
+O01343,C0153,2025-02-20 22:59:00,Mobile App,Delivered,Card,Back to School,W02,1.0
+O01344,C0326,2026-07-11 23:08:00,Mobile App,Delivered,Mada,New Customer,W03,7.0
+O01345,C0070,2025-10-31 08:21:00,Mobile App,Delivered,Apple Pay,None,W05,3.0
+O01346,C0249,2026-03-13 21:38:00,Website,Returned,Cash on Delivery,National Day,W05,7.0
+O01347,C0280,2025-02-04 19:25:00,Store,Delivered,Card,White Friday,W03,4.0
+O01348,C0171,2026-05-07 12:48:00,Store,Delivered,Cash on Delivery,None,W03,4.0
+O01349,C0162,2026-02-19 11:00:00,Mobile App,Delivered,Apple Pay,New Customer,W02,2.0
+O01350,C0495,2025-02-16 12:44:00,Mobile App,Delivered,STC Pay,National Day,W01,4.0
+O01351,C0159,2025-10-09 22:18:00,Website,Delivered,Cash on Delivery,White Friday,W04,1.0
+O01352,C0496,2025-01-06 23:26:00,Mobile App,Delivered,STC Pay,None,W04,1.0
+O01353,C0498,2025-09-19 09:38:00,Mobile App,Cancelled,Cash on Delivery,National Day,W01,
+O01354,C0414,2025-04-08 18:57:00,Website,Cancelled,STC Pay,White Friday,W03,
+O01355,C0332,2026-05-19 23:00:00,Website,Delivered,Apple Pay,None,W03,6.0
+O01356,C0042,2026-07-07 08:43:00,Website,Delivered,Apple Pay,New Customer,W01,4.0
+O01357,C0381,2025-01-22 22:34:00,Website,Delivered,Cash on Delivery,Ramadan Sale,W05,6.0
+O01358,C0308,2025-07-31 14:46:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W01,4.0
+O01359,C0391,2026-03-19 23:02:00,Store,Delivered,STC Pay,White Friday,W01,3.0
+O01360,C0315,2025-04-05 17:55:00,Website,Delivered,Apple Pay,White Friday,W04,2.0
+O01361,C0025,2025-12-18 13:51:00,Website,Delivered,Card,None,W05,7.0
+O01362,C0082,2025-05-31 08:20:00,Store,Delivered,Card,White Friday,W04,5.0
+O01363,C0491,2025-02-28 12:58:00,Website,Delivered,Mada,None,W03,7.0
+O01364,C0406,2026-05-13 20:26:00,Website,Delivered,Apple Pay,Back to School,W05,7.0
+O01365,C0285,2026-04-05 08:13:00,Mobile App,Returned,Card,Back to School,W01,7.0
+O01366,C0005,2026-01-15 09:08:00,Store,Delivered,Card,New Customer,W04,5.0
+O01367,C0380,2025-08-31 08:09:00,Website,Delivered,Cash on Delivery,Back to School,W02,4.0
+O01368,C0058,2026-08-12 13:25:00,Mobile App,Delivered,STC Pay,White Friday,W01,3.0
+O01369,C0488,2025-05-21 09:20:00,Mobile App,Delivered,STC Pay,Back to School,W03,6.0
+O01370,C0288,2025-05-04 20:22:00,Mobile App,Delivered,Cash on Delivery,Back to School,W03,7.0
+O01371,C0053,2026-03-07 12:19:00,Website,Delivered,Card,Back to School,W04,3.0
+O01372,C0187,2025-01-28 10:23:00,Mobile App,Processing,Card,White Friday,W02,1.0
+O01373,C0192,2025-05-13 13:16:00,Website,Delivered,STC Pay,Back to School,W03,8.0
+O01374,C0349,2025-11-24 22:37:00,Mobile App,Delivered,Card,National Day,W01,7.0
+O01375,C0454,2025-05-07 15:12:00,Mobile App,Returned,Mada,Back to School,W05,8.0
+O01376,C0396,2025-07-10 15:47:00,Mobile App,Delivered,Card,National Day,W03,4.0
+O01377,C0419,2025-05-28 23:13:00,Website,Cancelled,STC Pay,White Friday,W03,
+O01378,C0165,2025-09-03 13:52:00,Mobile App,Delivered,Mada,White Friday,W05,3.0
+O01379,C0478,2025-06-13 15:46:00,Website,Delivered,Apple Pay,None,W02,4.0
+O01380,C0097,2025-08-22 13:33:00,Website,Delivered,Cash on Delivery,White Friday,W01,3.0
+O01381,C0460,2026-02-03 09:58:00,Website,Returned,STC Pay,New Customer,W05,2.0
+O01382,C0427,2026-02-07 17:15:00,Website,Delivered,Mada,New Customer,W02,3.0
+O01383,C0492,2025-02-04 20:25:00,Mobile App,Returned,Card,White Friday,W01,4.0
+O01384,C0258,2025-11-08 12:40:00,Mobile App,Delivered,Card,New Customer,W04,5.0
+O01385,C0389,2026-01-11 13:27:00,Website,Delivered,STC Pay,None,W04,
+O01386,C0413,2026-06-05 19:40:00,Mobile App,Cancelled,Mada,Back to School,W04,
+O01387,C0054,2026-06-20 14:37:00,Mobile App,Delivered,Mada,New Customer,W05,5.0
+O01388,C0417,2025-11-18 08:55:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W04,7.0
+O01389,C0303,2025-09-21 20:06:00,Website,Delivered,STC Pay,National Day,W05,2.0
+O01390,C0003,2025-03-16 13:43:00,Mobile App,Delivered,Apple Pay,Ramadan Sale,W02,5.0
+O01391,C0033,2026-06-10 12:58:00,Website,Processing,STC Pay,New Customer,W05,4.0
+O01392,C0035,2026-02-02 09:24:00,Store,Delivered,Apple Pay,New Customer,W03,6.0
+O01393,C0275,2025-10-05 20:01:00,Website,Delivered,Mada,New Customer,W04,5.0
+O01394,C0318,2026-04-01 12:12:00,Website,Delivered,STC Pay,None,W05,3.0
+O01395,C0215,2025-11-27 19:57:00,Website,Delivered,STC Pay,White Friday,W03,6.0
+O01396,C0052,2025-06-26 16:30:00,Website,Delivered,Card,White Friday,W05,8.0
+O01397,C0439,2025-05-16 17:43:00,Website,Delivered,Mada,Back to School,W03,6.0
+O01398,C0134,2025-03-12 23:59:00,Website,Delivered,Apple Pay,Ramadan Sale,W05,7.0
+O01399,C0491,2025-09-09 21:12:00,Mobile App,Delivered,Cash on Delivery,Ramadan Sale,W02,7.0
+O01400,C0025,2026-07-08 15:01:00,Mobile App,Processing,Cash on Delivery,New Customer,W01,2.0
