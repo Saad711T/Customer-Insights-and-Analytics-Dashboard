@@ -8,5 +8,6 @@ Team 5
 - Firas Al-Sharif
 
 ### Supervised by :
-Omar Hejazi
-Taraf Almanjomi
+
+- Omar Hejazi
+- Taraf Almanjomi
